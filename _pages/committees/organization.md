@@ -18,15 +18,29 @@ sidebar:
 
 <h2>Program Chairs </h2>
 
-More information soon.
-
-<!-- {% include committee-member.html
-   name="Lun-Wei Ku"
-   picture="/assets/images/committee/Lun-Wei_Ku.jpg"
-   site="https://homepage.iis.sinica.edu.tw/pages/lwku/index_en.html"
-   institution="Academia Sinica"
+{% include committee-member.html
+   name="Wanxiang Che"
+   picture="/assets/images/committee/person.png"
+   site=""
+   institution="Harbin Institute of Technology"
    email = ""
-%} -->
+%}
+
+{% include committee-member.html
+   name="Joyce Nabende"
+   picture="/assets/images/committee/person.png"
+   site=""
+   institution="Makerere University"
+   email = ""
+%}
+
+{% include committee-member.html
+   name="Ekaterina Shutova"
+   picture="/assets/images/committee/person.png"
+   site=""
+   institution="University of Amsterdam"
+   email = ""
+%}
 
 <h2>Local Organization </h2>
 
