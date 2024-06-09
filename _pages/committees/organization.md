@@ -20,24 +20,24 @@ sidebar:
 
 {% include committee-member.html
    name="Wanxiang Che"
-   picture="/assets/images/committee/person.png"
-   site=""
+   picture="/assets/images/committee/WanxiangChe.jpg"
+   site="http://ir.hit.edu.cn/~car/"
    institution="Harbin Institute of Technology"
    email = ""
 %}
 
 {% include committee-member.html
    name="Joyce Nabende"
-   picture="/assets/images/committee/person.png"
-   site=""
+   picture="/assets/images/committee/JoyceNabende.jpg"
+   site="https://sites.google.com/view/jnabende/home?authuser=0"
    institution="Makerere University"
    email = ""
 %}
 
 {% include committee-member.html
    name="Ekaterina Shutova"
-   picture="/assets/images/committee/person.png"
-   site=""
+   picture="/assets/images/committee/EkaterinaShutova.jpg"
+   site="https://www.shutova.org/"
    institution="University of Amsterdam"
    email = ""
 %}
