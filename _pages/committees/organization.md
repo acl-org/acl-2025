@@ -42,6 +42,14 @@ sidebar:
    email = ""
 %}
 
+{% include committee-member.html
+   name="Mohammad Taher Pilehvar"
+   picture="/assets/images/committee/pilehvar.jpg"
+   site="https://pilehvar.github.io/"
+   institution="Cardiff University"
+   email = ""
+%}
+
 <h2>Local Organization </h2>
 
 More information soon.
