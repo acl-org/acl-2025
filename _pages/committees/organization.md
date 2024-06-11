@@ -46,7 +46,7 @@ sidebar:
    name="Mohammad Taher Pilehvar"
    picture="/assets/images/committee/pilehvar.jpg"
    site="https://pilehvar.github.io/"
-   institution="Cardiff University / Tehran Institute for Advanced Studies"
+   institution="Cardiff University \\ Tehran Institute for Advanced Studies"
    email = ""
 %}
 
