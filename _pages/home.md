@@ -4,7 +4,7 @@ layout: splash
 permalink: /
 header:
   overlay_image: "/assets/images/vienna.jpg"
-  caption: "Photo by Shutterstock"
+  caption: "Photo by AdobeStock"
 excerpt: "Vienna, Austria<br>July 27&ndash;August 1st, 2025"
 ---
 
