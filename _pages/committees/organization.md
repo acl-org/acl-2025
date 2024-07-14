@@ -112,131 +112,240 @@ email = "fu@cl.uni-heidelberg.de"
 
 <h2>Student Research: Faculty Advisor</h2>
 
-More information soon.
+<!-- More information soon. -->
 
-<!-- {% include committee-member.html
-name="Ekapol Chuangsuwanich"
-picture="/assets/images/committee/person.png"
+{% include committee-member.html
+name="Lea Frermann"
+picture="/assets/images/committee/lea_frermann.jpg"
 site=""
-institution="Chulalongkorn University"
-email = ""
-%} -->
+institution="University of Melbourne"
+email = "lea.frermann@unimelb.edu.au"
+%}
+
+{% include committee-member.html
+name="Daniel Hershcovich"
+picture="/assets/images/committee/Daniel_Hershcovich.jpg"
+site=""
+institution="University of Copenhagen"
+email = "dh@di.ku.dk "
+%}
+
+{% include committee-member.html
+name="Tristan Miller"
+picture="/assets/images/committee/tristan_miller.jpg"
+site=""
+institution="University of Manitoba"
+email = "Tristan.Miller@umanitoba.ca"
+%}
 
 <h2>Publicity and Social Media Chairs</h2>
 
-More information soon.
 
-<!-- {% include committee-member.html
-name="Yuki Arase"
-picture="/assets/images/committee/yuki_arase.jpeg"
-site="https://yukiar.github.io/"
-institution="Osaka University"
-email = "arase@ist.osaka-u.ac.jp"
-%} -->
+{% include committee-member.html
+name="Anette Frank"
+picture="/assets/images/committee/anette_frank.png"
+site=""
+institution="Heidelberg University"
+email = "frank@cl.uni-heidelberg.de"
+%}
+
+{% include committee-member.html
+name="Shruti Rijhwani"
+picture="/assets/images/committee/person.png"
+site=""
+institution="Google DeepMind"
+email = "shrutirijhwani@gmail.com"
+%}
+
+{% include committee-member.html
+name="Horacio Saggion"
+picture="/assets/images/committee/horacio_saggion.jpg"
+site=""
+institution="Pompeu Fabra University"
+email = "horacio.saggion@upf.edu"
+%}
 
 <h2>Publication Chairs</h2>
 
-More information soon.
+{% include committee-member.html
+name="Pierpaolo Basile"
+picture="/assets/images/committee/person.png"
+site=""
+institution="University of Bari"
+email = "pierpaolo.basile@uniba.it"
+%}
 
-<!-- {% include committee-member.html
-name="Miruna Clinciu"
-picture="/assets/images/committee/miruna_clinciu.jpeg"
-site="https://www.mirunaclinciu.com/"
-institution="University of Edinburgh"
-email = "mc191@hw.ac.uk"
-%} -->
+{% include committee-member.html
+name="Libo Qin"
+picture="/assets/images/committee/Libo_Qin.png"
+site=""
+institution="Central South University"
+email = "lbqin@csu.edu.cn"
+%}
 
 <h2>Handbook Chairs</h2>
 
-More information soon.
+<!-- More information soon. -->
 
-<!-- {% include committee-member.html
-name="Pierre Colombo"
-picture="/assets/images/committee/pierre_colombo.jpeg"
-site="https://pierrecolombo.github.io/"
-institution="Université Paris Saclay"
-email = ""
-%} -->
+{% include committee-member.html
+name="Els Lefever"
+picture="/assets/images/committee/els_lefever.jpg"
+site=""
+institution="Ghent University"
+email = "els.lefever@ugent.be"
+%}
+
+{% include committee-member.html
+name="Qiongkai Xu"
+picture="/assets/images/committee/Qiongkai_Xu.jpg"
+site=""
+institution="Macquarie University"
+email = "qiongkai.xu@mq.edu.au"
+%}
 
 <h2>Diversity and Inclusion</h2>
 
-More information soon.
+<!-- More information soon. -->
 
-<!-- {% include committee-member.html
-name="Jing Li"
-picture="/assets/images/committee/jing_li.jpeg"
-site="https://www4.comp.polyu.edu.hk/~jing1li/"
-institution="Hong Kong Polytechnic University"
-email = "jing-amelia.li@polyu.edu.hk"
-%} -->
+{% include committee-member.html
+name="Senja Pollak"
+picture="/assets/images/committee/Senja_Pollak.png"
+site=""
+institution="Jožef Stefan Institute"
+email = "senja.pollak@ijs.si"
+%}
+
+{% include committee-member.html
+name="Maria Ryskina"
+picture="/assets/images/committee/maria_ryskina.jpg"
+site=""
+institution="MIT"
+email = "m.ryskina@gmail.com"
+%}
+
+{% include committee-member.html
+name="Shane Storks"
+picture="/assets/images/committee/shane_storks.png"
+site=""
+institution="University of Michigan"
+email = "sstorks@umich.edu"
+%}
 
 <h2>Ethic Committee</h2>
 
-More information soon.
+<!-- More information soon. -->
 
-<!-- {% include committee-member.html
-name="Alice Oh"
-picture="/assets/images/committee/alice_oh.jpeg"
-site="https://aliceoh9.github.io"
-institution="KAIST"
-email = ""
-%} -->
+{% include committee-member.html
+name="Karën Fort"
+picture="/assets/images/committee/Karen_Fort.png"
+site=""
+institution="Université de Lorraine / LORIA"
+email = "karen.fort@loria.fr"
+%}
+
+{% include committee-member.html
+name="Bjorn Ross"
+picture="/assets/images/committee/Person.png"
+site=""
+institution="University of Edinburgh"
+email = "b.ross@ed.ac.uk"
+%}
 
 <h2>Internal Communications</h2>
 
-More information soon.
+<!-- More information soon. -->
 
-<!-- {% include committee-member.html
-name="Claudia Borg"
-picture="/assets/images/committee/claudia_borg.jpeg"
-site="https://www.um.edu.mt/profile/claudiaborg"
-institution="University of Malta"
-email = ""
-%} -->
+{% include committee-member.html
+name="Wenjie Li"
+picture="/assets/images/committee/Wenjie_Li.jpg"
+site=""
+institution="Polytechnic University of Hong Kong"
+email = "cswjli@comp.polyu.edu.hk"
+%}
+
+{% include committee-member.html
+name="Sara Tonelli"
+picture="/assets/images/committee/sara_tonelli.jpg"
+site=""
+institution="FBK"
+email = "satonelli@fbk.eu"
+%}
 
 <h2>Student Volunteer</h2>
 
-More information soon.
+<!-- More information soon. -->
 
-<!-- {% include committee-member.html
-name="Margot Mieskes"
-picture="/assets/images/committee/margot_mieskes.jpeg"
-site="https://sis.h-da.de/personen/professor-innen-auf-einen-blick/prof-dr-margot-mieskes"
-institution="University of Applied Science, Darmstadt"
-email = "margot.mieskes@h-da.de"
-%} -->
+{% include committee-member.html
+name="Pedro Henrique Luz de Araujo"
+picture="/assets/images/committee/pedro_araujo.jpg"
+site=""
+institution="University of Vienna"
+email = "pedro.henrique.luz.de.araujo@univie.ac.at"
+%}
+
+{% include committee-member.html
+name="Eleonora Mancini"
+picture="/assets/images/committee/eleonora_mancini.png"
+site=""
+institution="University of Bologna"
+email = "e.mancini@unibo.it"
+%}
 
 <h2>Virtual Infrastructure</h2>
 
-More information soon.
+<!-- More information soon. -->
 
-<!-- {% include committee-member.html
-name="Gözde Gül"
-picture="/assets/images/committee/gözde_gül.jpeg"
-site="https://gozdesahin.github.io/"
-institution="Koç University"
-email = ""
-%} -->
+{% include committee-member.html
+name="Manling Li"
+picture="/assets/images/committee/Manling_Li.png"
+site=""
+institution="Northwestern University"
+email = "limanling.ai@gmail.com"
+%}
+
+{% include committee-member.html
+name="Yang Liu"
+picture="/assets/images/committee/Yang_Liu.jpeg"
+site=""
+institution="Microsoft"
+email = "yaliu10@microsoft.com"
+%}
+
+{% include committee-member.html
+name="Avi Sil"
+picture="/assets/images/committee/Avi_Sil.jpg"
+site=""
+institution="IBM Research"
+email = "avi@us.ibm.com"
+%}
 
 <h2>Website and Conference App</h2>
-More information soon.
+<!-- More information soon. -->
 
-<!-- {% include committee-member.html
-name="Yun-Nung (Vivian) Chen"
-picture="/assets/images/committee/yun_nung.jpeg"
-site="https://www.csie.ntu.edu.tw/~yvchen/"
-institution="National Taiwan University"
-email = ""
-%} -->
+{% include committee-member.html
+name="Xudong Han"
+picture="/assets/images/committee/xudong_han.jpg"
+site="https://hanxudong.github.io/"
+institution="LibrAI / MBZUAI"
+email = "xudong.han@mbzuai.ac.ae"
+%}
+
+{% include committee-member.html
+name="Alessandro Raganato"
+picture="/assets/images/committee/person.png"
+site=""
+institution="University of Milano Bicocca"
+email = "alessandro.raganato@unimib.it"
+%}
 
 <h2>Sponsorship Chairs</h2>
 
-More information soon.
+<!-- More information soon. -->
 
-<!-- {% include committee-member.html
-name="Lluis Marquez"
+{% include committee-member.html
+name="Raffaella Bernardi"
 picture="/assets/images/committee/person.png"
-site="https://www.amazon.science/author/lluis-marquez"
-institution="Amazon"
-email = ""
-%} -->
+site=""
+institution="University of Trento"
+email = "raffaella.bernardi@unitn.it"
+%}
