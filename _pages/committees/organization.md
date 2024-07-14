@@ -120,7 +120,7 @@ email = "fxia@uw.edu"
 name="Pushkar Mishra"
 picture="/assets/images/committee/Pushkar_Mishra.jpg"
 site=""
-institution="Meta / Cambridge"
+institution="Google DeepMind / Cambridge"
 email = "pushkarmishra@outlook.com"
 %}
 
