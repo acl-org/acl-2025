@@ -259,7 +259,7 @@ name="Maria Ryskina"
 picture="/assets/images/committee/maria_ryskina.png"
 site=""
 institution="MIT"
-email = "m.ryskina@gmail.com"
+email = "ryskina@mit.edu"
 %}
 
 {% include committee-member.html
