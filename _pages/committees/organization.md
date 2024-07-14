@@ -16,7 +16,9 @@ sidebar:
    email = ""
 %}
 
-<h2>Program Chairs </h2>
+<h2>Program Chairs</h2>
+
+Contact: acl2025pcs@gmail.com    
 
 {% include committee-member.html
    name="Wanxiang Che"
@@ -44,75 +46,127 @@ sidebar:
 
 {% include committee-member.html
    name="Mohammad Taher Pilehvar"
-   picture="/assets/images/committee/pilehvar.jpg"
+   picture="/assets/images/committee/taher_pilehvar.jpg"
    site="https://pilehvar.github.io/"
    institution="Cardiff University / Tehran Institute for Advanced Studies"
    email = ""
 %}
 
-<h2>Local Organization </h2>
+<h2>Local Organization</h2>
 
-More information soon.
+{% include committee-member.html
+name="Benjamin Roth"
+picture="/assets/images/committee/benjamin_roth.jpg"
+site=""
+institution="University of Vienna"
+email = "benjamin.roth@univie.ac.at"
+%}
 
-<!-- {% include committee-member.html
-name="Thepchai Supnithi"
-picture="/assets/images/committee/thepchai_supnithi.jpeg"
-site="https://www.nectec.or.th/hccru/staff/view/59"
-institution="NECTEC and AIAT"
-email = ""
-%} -->
+{% include committee-member.html
+name="Dagmar Gromann"
+picture="/assets/images/committee/dagmar_gromann.jpg"
+site=""
+institution="University of Vienna"
+email = "dagmar.gromann@univie.ac.at"
+%}
 
 <h2>Workshop Chairs</h2>
 
-More information soon.
+{% include committee-member.html
+name="Terra Blevins"
+picture="/assets/images/committee/person.png"
+site=""
+institution="University of Vienna"
+email = "terrablvns@gmail.com"
+%}
 
-<!-- {% include committee-member.html
-name="Xipeng Qiu"
-picture="/assets/images/committee/xipeng_qiu.jpeg"
-site="https://xpqiu.github.io/en.html"
-institution="Fudan University"
-email = ""
-%} -->
+{% include committee-member.html
+name="Christophe Gravier"
+picture="/assets/images/committee/christophe_gravier.png"
+site=""
+institution="Université Jean Monnet"
+email = "christophe.gravier@univ-st-etienne.fr"
+%}
 
 <h2>Tutorial Chairs</h2>
 
-More information soon.
+{% include committee-member.html
+name="Yuki Arase"
+picture="/assets/images/committee/yuki_arase.JPG"
+site=""
+institution="Tokyo Institute of Technology"
+email = "arase@c.titech.ac.jp"
+%}
 
-<!-- {% include committee-member.html
-name="Luis Chiruzzo"
-picture="/assets/images/committee/luis_chiruzzo.jpeg"
-site="https://scholar.google.com/citations?user=C7c4uCsAAAAJ&hl=es"
-institution="Universidad de la República"
-email = ""
-%} -->
+{% include committee-member.html
+name="David Jurgens"
+picture="/assets/images/committee/david_jurgens.jpg"
+site=""
+institution="University of Michigan"
+email = "jurgens@umich.edu"
+%}
+
+{% include committee-member.html
+name="Fei Xia"
+picture="/assets/images/committee/person.png"
+site=""
+institution="University of Washington"
+email = "fxia@uw.edu"
+%}
 
 <h2>Demonstration Chairs</h2>
 
-More information soon.
+{% include committee-member.html
+name="Pushkar Mishra"
+picture="/assets/images/committee/Pushkar_Mishra.jpg"
+site=""
+institution="Meta / Cambridge"
+email = "pushkarmishra@outlook.com"
+%}
 
-<!-- {% include committee-member.html
-name="Sun Aixin"
-picture="/assets/images/committee/sun_aixin.jpeg"
-site="https://personal.ntu.edu.sg/axsun/"
-institution="Nanyang Technological University"
-email = ""
-%} -->
+{% include committee-member.html
+name="Smaranda Muresan"
+picture="/assets/images/committee/Smaranda_Muresan.jpg"
+site=""
+institution="Barnard College, Columbia University"
+email = "smuresan@barnard.edu"
+%}
 
-<h2>Student Research</h2>
+{% include committee-member.html
+name="Tao Yu"
+picture="/assets/images/committee/Tao_Yu.png"
+site=""
+institution="The University of Hong Kong"
+email = "tao.yu.nlp@gmail.com"
+%}
 
-More information soon.
+<h2>Student Research Workshop Chairs</h2>
 
-<!-- {% include committee-member.html
-name="Xiyan Fu"
-picture="/assets/images/committee/xiyan_fu.jpeg"
-site="https://www.cl.uni-heidelberg.de/nlpgroup/person/fu"
-institution="Heidelberg University"
-email = "fu@cl.uni-heidelberg.de"
-%} -->
+{% include committee-member.html
+name="Zhu Liu"
+picture="/assets/images/committee/Zhu_Liu.jpg"
+site=""
+institution="Tsinghua University"
+email = "liuzhu22@mails.tsinghua.edu.cn"
+%}
 
-<h2>Student Research: Faculty Advisor</h2>
+{% include committee-member.html
+name="Mingyang Wang"
+picture="/assets/images/committee/mingyang_wang.jpg"
+site=""
+institution="LMU"
+email = "mingyang@cis.lmu.de"
+%}
 
-<!-- More information soon. -->
+{% include committee-member.html
+name="Jin Zhao"
+picture="/assets/images/committee/jin_zhao.jpg"
+site=""
+institution="Brandeis University"
+email = "jinzhao@brandeis.edu"
+%}
+
+<h2>Student Research Workshop Chairs: Faculty Advisors</h2>
 
 {% include committee-member.html
 name="Lea Frermann"
@@ -138,38 +192,11 @@ institution="University of Manitoba"
 email = "Tristan.Miller@umanitoba.ca"
 %}
 
-<h2>Publicity and Social Media Chairs</h2>
-
-
-{% include committee-member.html
-name="Anette Frank"
-picture="/assets/images/committee/anette_frank.png"
-site=""
-institution="Heidelberg University"
-email = "frank@cl.uni-heidelberg.de"
-%}
-
-{% include committee-member.html
-name="Shruti Rijhwani"
-picture="/assets/images/committee/person.png"
-site=""
-institution="Google DeepMind"
-email = "shrutirijhwani@gmail.com"
-%}
-
-{% include committee-member.html
-name="Horacio Saggion"
-picture="/assets/images/committee/horacio_saggion.jpg"
-site=""
-institution="Pompeu Fabra University"
-email = "horacio.saggion@upf.edu"
-%}
-
 <h2>Publication Chairs</h2>
 
 {% include committee-member.html
 name="Pierpaolo Basile"
-picture="/assets/images/committee/person.png"
+picture="/assets/images/committee/pierpaolo_basile.png"
 site=""
 institution="University of Bari"
 email = "pierpaolo.basile@uniba.it"
@@ -203,7 +230,19 @@ institution="Macquarie University"
 email = "qiongkai.xu@mq.edu.au"
 %}
 
-<h2>Diversity and Inclusion</h2>
+<h2>Sponsorship Chairs</h2>
+
+<!-- More information soon. -->
+
+{% include committee-member.html
+name="Raffaella Bernardi"
+picture="/assets/images/committee/raffaella_bernardi.png"
+site=""
+institution="University of Trento"
+email = "raffaella.bernardi@unitn.it"
+%}
+
+<h2>Diversity and Inclusion Chairs</h2>
 
 <!-- More information soon. -->
 
@@ -231,7 +270,53 @@ institution="University of Michigan"
 email = "sstorks@umich.edu"
 %}
 
-<h2>Ethic Committee</h2>
+<h2>Publicity and Social Media Chairs</h2>
+
+
+{% include committee-member.html
+name="Anette Frank"
+picture="/assets/images/committee/anette_frank.png"
+site=""
+institution="Heidelberg University"
+email = "frank@cl.uni-heidelberg.de"
+%}
+
+{% include committee-member.html
+name="Shruti Rijhwani"
+picture="/assets/images/committee/person.png"
+site=""
+institution="Google DeepMind"
+email = "shrutirijhwani@gmail.com"
+%}
+
+{% include committee-member.html
+name="Horacio Saggion"
+picture="/assets/images/committee/horacio_saggion.jpg"
+site=""
+institution="Pompeu Fabra University"
+email = "horacio.saggion@upf.edu"
+%}
+
+<h2>Website and Conference App Chairs</h2>
+<!-- More information soon. -->
+
+{% include committee-member.html
+name="Xudong Han"
+picture="/assets/images/committee/xudong_han.jpg"
+site="https://hanxudong.github.io/"
+institution="LibrAI / MBZUAI"
+email = "xudong.han@mbzuai.ac.ae"
+%}
+
+{% include committee-member.html
+name="Alessandro Raganato"
+picture="/assets/images/committee/alessandro_raganato.png"
+site=""
+institution="University of Milano Bicocca"
+email = "alessandro.raganato@unimib.it"
+%}
+
+<h2>Ethics Chairs</h2>
 
 <!-- More information soon. -->
 
@@ -245,33 +330,13 @@ email = "karen.fort@loria.fr"
 
 {% include committee-member.html
 name="Bjorn Ross"
-picture="/assets/images/committee/Person.png"
+picture="/assets/images/committee/person.png"
 site=""
 institution="University of Edinburgh"
 email = "b.ross@ed.ac.uk"
 %}
 
-<h2>Internal Communications</h2>
-
-<!-- More information soon. -->
-
-{% include committee-member.html
-name="Wenjie Li"
-picture="/assets/images/committee/Wenjie_Li.jpg"
-site=""
-institution="Polytechnic University of Hong Kong"
-email = "cswjli@comp.polyu.edu.hk"
-%}
-
-{% include committee-member.html
-name="Sara Tonelli"
-picture="/assets/images/committee/sara_tonelli.jpg"
-site=""
-institution="FBK"
-email = "satonelli@fbk.eu"
-%}
-
-<h2>Student Volunteer</h2>
+<h2>Student Volunteer Chairs</h2>
 
 <!-- More information soon. -->
 
@@ -291,7 +356,27 @@ institution="University of Bologna"
 email = "e.mancini@unibo.it"
 %}
 
-<h2>Virtual Infrastructure</h2>
+<h2>Technical Open Review Chairs</h2>
+
+<!-- More information soon. -->
+
+{% include committee-member.html
+name="Niket Tandon"
+picture="/assets/images/committee/niket_tandon.jpeg"
+site=""
+institution="Allen AI"
+email = "nikett@gmail.com"
+%}
+
+{% include committee-member.html
+name="Lizhen Qu"
+picture="/assets/images/committee/Lizhen_Qu.jpg"
+site=""
+institution="Monash University"
+email = "lizhen.qu@monash.edu"
+%}
+
+<h2>Virtual Infrastructure Chairs</h2>
 
 <!-- More information soon. -->
 
@@ -319,33 +404,86 @@ institution="IBM Research"
 email = "avi@us.ibm.com"
 %}
 
-<h2>Website and Conference App</h2>
-<!-- More information soon. -->
-
-{% include committee-member.html
-name="Xudong Han"
-picture="/assets/images/committee/xudong_han.jpg"
-site="https://hanxudong.github.io/"
-institution="LibrAI / MBZUAI"
-email = "xudong.han@mbzuai.ac.ae"
-%}
-
-{% include committee-member.html
-name="Alessandro Raganato"
-picture="/assets/images/committee/person.png"
-site=""
-institution="University of Milano Bicocca"
-email = "alessandro.raganato@unimib.it"
-%}
-
-<h2>Sponsorship Chairs</h2>
+<h2>Internal Communication Chairs</h2>
 
 <!-- More information soon. -->
 
 {% include committee-member.html
-name="Raffaella Bernardi"
+name="Wenjie Li"
+picture="/assets/images/committee/Wenjie_Li.jpg"
+site=""
+institution="Polytechnic University of Hong Kong"
+email = "cswjli@comp.polyu.edu.hk"
+%}
+
+{% include committee-member.html
+name="Sara Tonelli"
+picture="/assets/images/committee/sara_tonelli.jpg"
+site=""
+institution="FBK"
+email = "satonelli@fbk.eu"
+%}
+
+<h2>Industry Track Chairs</h2>
+
+<!-- More information soon. -->
+
+{% include committee-member.html
+name="Yunyao Li"
+picture="/assets/images/committee/Yunyao_Li.jpg"
+site=""
+institution="Adobe"
+email = "yunyao@gmail.com"
+%}
+
+{% include committee-member.html
+name="Georg Rehm"
+picture="/assets/images/committee/Georg_Rehm.jpg"
+site=""
+institution="DFKI"
+email = "georg.rehm@dfki.de"
+%}
+
+<h2>Best Paper Committee Chairs</h2>
+
+<!-- More information soon. -->
+
+{% include committee-member.html
+name="Rada Mihalcea"
+picture="/assets/images/committee/Rada_Mihalcea.jpg"
+site=""
+institution="University of Michighan"
+email = "mihalcea@umich.edu"
+%}
+
+{% include committee-member.html
+name="Roi Reichart"
+picture="/assets/images/committee/roi_reichart.png"
+site=""
+institution="Technion - Israel Institute of Technology"
+email = "roireichart@gmail.com"
+%}
+
+<h2>Visa Chairs</h2>
+
+<!-- More information soon. -->
+
+{% include committee-member.html
+name="Rexhina Blloshmi"
 picture="/assets/images/committee/person.png"
 site=""
-institution="University of Trento"
-email = "raffaella.bernardi@unitn.it"
+institution="Amazon AGI"
+email = "blloshmi@amazon.com"
 %}
+
+{% include committee-member.html
+name="Eleni Ilkou"
+picture="/assets/images/committee/Eleni_Ilkou.png"
+site=""
+institution="University of Hannover"
+email = "ilkou.el@gmail.com"
+%}
+
+
+
+
