@@ -312,7 +312,7 @@ email = "xudong.han@mbzuai.ac.ae"
 name="Alessandro Raganato"
 picture="/assets/images/committee/alessandro_raganato.png"
 site=""
-institution="University of Milano Bicocca"
+institution="University of Milano-Bicocca"
 email = "alessandro.raganato@unimib.it"
 %}
 
