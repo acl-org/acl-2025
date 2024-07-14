@@ -10,7 +10,7 @@ sidebar:
 <h2>General Chair</h2>
 {% include committee-member.html
    name="Roberto Navigli"
-   picture="/assets/images/committee/Roberto.jpg"
+   picture="/assets/images/committee/roberto_navigli.png"
    site="https://www.diag.uniroma1.it/navigli/"
    institution="Sapienza University of Rome"
    email = ""
@@ -22,7 +22,7 @@ Contact: acl2025pcs@gmail.com
 
 {% include committee-member.html
    name="Wanxiang Che"
-   picture="/assets/images/committee/WanxiangChe.jpg"
+   picture="/assets/images/committee/Wanxiang_Che.png"
    site="http://ir.hit.edu.cn/~car/"
    institution="Harbin Institute of Technology"
    email = ""
@@ -30,7 +30,7 @@ Contact: acl2025pcs@gmail.com
 
 {% include committee-member.html
    name="Joyce Nabende"
-   picture="/assets/images/committee/JoyceNabende.jpg"
+   picture="/assets/images/committee/Joyce_Nabende.png"
    site="https://sites.google.com/view/jnabende/home?authuser=0"
    institution="Makerere University"
    email = ""
@@ -38,7 +38,7 @@ Contact: acl2025pcs@gmail.com
 
 {% include committee-member.html
    name="Ekaterina Shutova"
-   picture="/assets/images/committee/EkaterinaShutova.jpg"
+   picture="/assets/images/committee/Ekaterina_Shutova.png"
    site="https://www.shutova.org/"
    institution="University of Amsterdam"
    email = ""
@@ -46,7 +46,7 @@ Contact: acl2025pcs@gmail.com
 
 {% include committee-member.html
    name="Mohammad Taher Pilehvar"
-   picture="/assets/images/committee/taher_pilehvar.jpg"
+   picture="/assets/images/committee/taher_pilehvar.png"
    site="https://pilehvar.github.io/"
    institution="Cardiff University / Tehran Institute for Advanced Studies"
    email = ""
@@ -56,7 +56,7 @@ Contact: acl2025pcs@gmail.com
 
 {% include committee-member.html
 name="Benjamin Roth"
-picture="/assets/images/committee/benjamin_roth.jpg"
+picture="/assets/images/committee/benjamin_roth.png"
 site=""
 institution="University of Vienna"
 email = "benjamin.roth@univie.ac.at"
@@ -64,7 +64,7 @@ email = "benjamin.roth@univie.ac.at"
 
 {% include committee-member.html
 name="Dagmar Gromann"
-picture="/assets/images/committee/dagmar_gromann.jpg"
+picture="/assets/images/committee/dagmar_gromann.png"
 site=""
 institution="University of Vienna"
 email = "dagmar.gromann@univie.ac.at"
@@ -92,7 +92,7 @@ email = "christophe.gravier@univ-st-etienne.fr"
 
 {% include committee-member.html
 name="Yuki Arase"
-picture="/assets/images/committee/yuki_arase.JPG"
+picture="/assets/images/committee/yuki_arase.png"
 site=""
 institution="Tokyo Institute of Technology"
 email = "arase@c.titech.ac.jp"
@@ -100,7 +100,7 @@ email = "arase@c.titech.ac.jp"
 
 {% include committee-member.html
 name="David Jurgens"
-picture="/assets/images/committee/david_jurgens.jpg"
+picture="/assets/images/committee/david_jurgens.png"
 site=""
 institution="University of Michigan"
 email = "jurgens@umich.edu"
@@ -118,7 +118,7 @@ email = "fxia@uw.edu"
 
 {% include committee-member.html
 name="Pushkar Mishra"
-picture="/assets/images/committee/Pushkar_Mishra.jpg"
+picture="/assets/images/committee/Pushkar_Mishra.png"
 site=""
 institution="Google DeepMind / Cambridge"
 email = "pushkarmishra@outlook.com"
@@ -126,7 +126,7 @@ email = "pushkarmishra@outlook.com"
 
 {% include committee-member.html
 name="Smaranda Muresan"
-picture="/assets/images/committee/Smaranda_Muresan.jpg"
+picture="/assets/images/committee/Smaranda_Muresan.png"
 site=""
 institution="Barnard College, Columbia University"
 email = "smuresan@barnard.edu"
@@ -144,7 +144,7 @@ email = "tao.yu.nlp@gmail.com"
 
 {% include committee-member.html
 name="Zhu Liu"
-picture="/assets/images/committee/Zhu_Liu.jpg"
+picture="/assets/images/committee/Zhu_Liu.png"
 site=""
 institution="Tsinghua University"
 email = "liuzhu22@mails.tsinghua.edu.cn"
@@ -152,7 +152,7 @@ email = "liuzhu22@mails.tsinghua.edu.cn"
 
 {% include committee-member.html
 name="Mingyang Wang"
-picture="/assets/images/committee/mingyang_wang.jpg"
+picture="/assets/images/committee/mingyang_wang.png"
 site=""
 institution="LMU"
 email = "mingyang@cis.lmu.de"
@@ -160,7 +160,7 @@ email = "mingyang@cis.lmu.de"
 
 {% include committee-member.html
 name="Jin Zhao"
-picture="/assets/images/committee/jin_zhao.jpg"
+picture="/assets/images/committee/jin_zhao.png"
 site=""
 institution="Brandeis University"
 email = "jinzhao@brandeis.edu"
@@ -170,7 +170,7 @@ email = "jinzhao@brandeis.edu"
 
 {% include committee-member.html
 name="Lea Frermann"
-picture="/assets/images/committee/lea_frermann.jpg"
+picture="/assets/images/committee/lea_frermann.png"
 site=""
 institution="University of Melbourne"
 email = "lea.frermann@unimelb.edu.au"
@@ -178,7 +178,7 @@ email = "lea.frermann@unimelb.edu.au"
 
 {% include committee-member.html
 name="Daniel Hershcovich"
-picture="/assets/images/committee/Daniel_Hershcovich.jpg"
+picture="/assets/images/committee/Daniel_Hershcovich.png"
 site=""
 institution="University of Copenhagen"
 email = "dh@di.ku.dk "
@@ -186,7 +186,7 @@ email = "dh@di.ku.dk "
 
 {% include committee-member.html
 name="Tristan Miller"
-picture="/assets/images/committee/tristan_miller.jpg"
+picture="/assets/images/committee/tristan_miller.png"
 site=""
 institution="University of Manitoba"
 email = "Tristan.Miller@umanitoba.ca"
@@ -216,7 +216,7 @@ email = "lbqin@csu.edu.cn"
 
 {% include committee-member.html
 name="Els Lefever"
-picture="/assets/images/committee/els_lefever.jpg"
+picture="/assets/images/committee/els_lefever.png"
 site=""
 institution="Ghent University"
 email = "els.lefever@ugent.be"
@@ -224,7 +224,7 @@ email = "els.lefever@ugent.be"
 
 {% include committee-member.html
 name="Qiongkai Xu"
-picture="/assets/images/committee/Qiongkai_Xu.jpg"
+picture="/assets/images/committee/Qiongkai_Xu.png"
 site=""
 institution="Macquarie University"
 email = "qiongkai.xu@mq.edu.au"
@@ -256,7 +256,7 @@ email = "senja.pollak@ijs.si"
 
 {% include committee-member.html
 name="Maria Ryskina"
-picture="/assets/images/committee/maria_ryskina.jpg"
+picture="/assets/images/committee/maria_ryskina.png"
 site=""
 institution="MIT"
 email = "m.ryskina@gmail.com"
@@ -291,7 +291,7 @@ email = "shrutirijhwani@gmail.com"
 
 {% include committee-member.html
 name="Horacio Saggion"
-picture="/assets/images/committee/horacio_saggion.jpg"
+picture="/assets/images/committee/horacio_saggion.png"
 site=""
 institution="Pompeu Fabra University"
 email = "horacio.saggion@upf.edu"
@@ -302,7 +302,7 @@ email = "horacio.saggion@upf.edu"
 
 {% include committee-member.html
 name="Xudong Han"
-picture="/assets/images/committee/xudong_han.jpg"
+picture="/assets/images/committee/xudong_han.png"
 site="https://hanxudong.github.io/"
 institution="LibrAI / MBZUAI"
 email = "xudong.han@mbzuai.ac.ae"
@@ -342,7 +342,7 @@ email = "b.ross@ed.ac.uk"
 
 {% include committee-member.html
 name="Pedro Henrique Luz de Araujo"
-picture="/assets/images/committee/pedro_araujo.jpg"
+picture="/assets/images/committee/pedro_araujo.png"
 site=""
 institution="University of Vienna"
 email = "pedro.henrique.luz.de.araujo@univie.ac.at"
@@ -362,7 +362,7 @@ email = "e.mancini@unibo.it"
 
 {% include committee-member.html
 name="Niket Tandon"
-picture="/assets/images/committee/niket_tandon.jpeg"
+picture="/assets/images/committee/niket_tandon.png"
 site=""
 institution="Allen AI"
 email = "nikett@gmail.com"
@@ -370,7 +370,7 @@ email = "nikett@gmail.com"
 
 {% include committee-member.html
 name="Lizhen Qu"
-picture="/assets/images/committee/Lizhen_Qu.jpg"
+picture="/assets/images/committee/Lizhen_Qu.png"
 site=""
 institution="Monash University"
 email = "lizhen.qu@monash.edu"
@@ -390,7 +390,7 @@ email = "limanling.ai@gmail.com"
 
 {% include committee-member.html
 name="Yang Liu"
-picture="/assets/images/committee/Yang_Liu.jpeg"
+picture="/assets/images/committee/Yang_Liu.png"
 site=""
 institution="Microsoft"
 email = "yaliu10@microsoft.com"
@@ -398,7 +398,7 @@ email = "yaliu10@microsoft.com"
 
 {% include committee-member.html
 name="Avi Sil"
-picture="/assets/images/committee/Avi_Sil.jpg"
+picture="/assets/images/committee/Avi_Sil.png"
 site=""
 institution="IBM Research"
 email = "avi@us.ibm.com"
@@ -410,7 +410,7 @@ email = "avi@us.ibm.com"
 
 {% include committee-member.html
 name="Wenjie Li"
-picture="/assets/images/committee/Wenjie_Li.jpg"
+picture="/assets/images/committee/Wenjie_Li.png"
 site=""
 institution="Polytechnic University of Hong Kong"
 email = "cswjli@comp.polyu.edu.hk"
@@ -418,7 +418,7 @@ email = "cswjli@comp.polyu.edu.hk"
 
 {% include committee-member.html
 name="Sara Tonelli"
-picture="/assets/images/committee/sara_tonelli.jpg"
+picture="/assets/images/committee/sara_tonelli.png"
 site=""
 institution="FBK"
 email = "satonelli@fbk.eu"
@@ -430,7 +430,7 @@ email = "satonelli@fbk.eu"
 
 {% include committee-member.html
 name="Yunyao Li"
-picture="/assets/images/committee/Yunyao_Li.jpg"
+picture="/assets/images/committee/Yunyao_Li.png"
 site=""
 institution="Adobe"
 email = "yunyao@gmail.com"
@@ -438,7 +438,7 @@ email = "yunyao@gmail.com"
 
 {% include committee-member.html
 name="Georg Rehm"
-picture="/assets/images/committee/Georg_Rehm.jpg"
+picture="/assets/images/committee/Georg_Rehm.png"
 site=""
 institution="DFKI"
 email = "georg.rehm@dfki.de"
@@ -450,7 +450,7 @@ email = "georg.rehm@dfki.de"
 
 {% include committee-member.html
 name="Rada Mihalcea"
-picture="/assets/images/committee/Rada_Mihalcea.jpg"
+picture="/assets/images/committee/Rada_Mihalcea.png"
 site=""
 institution="University of Michighan"
 email = "mihalcea@umich.edu"
