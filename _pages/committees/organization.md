@@ -270,6 +270,15 @@ institution="University of Michigan"
 email = "sstorks@umich.edu"
 %}
 
+{% include committee-member.html
+name="Hwaran Lee"
+picture="/assets/images/committee/person.png"
+site=""
+institution="NAVER"
+email = "hwaran.lee@gmail.com"
+%}
+
+
 <h2>Publicity and Social Media Chairs</h2>
 
 
