@@ -74,7 +74,7 @@ email = "dagmar.gromann@univie.ac.at"
 
 {% include committee-member.html
 name="Terra Blevins"
-picture="/assets/images/committee/person.png"
+picture="/assets/images/committee/terra_blevins.png"
 site=""
 institution="University of Vienna"
 email = "terrablvns@gmail.com"
@@ -108,7 +108,7 @@ email = "jurgens@umich.edu"
 
 {% include committee-member.html
 name="Fei Xia"
-picture="/assets/images/committee/person.png"
+picture="/assets/images/committee/Fei_Xia.png"
 site=""
 institution="University of Washington"
 email = "fxia@uw.edu"
@@ -339,7 +339,7 @@ email = "karen.fort@loria.fr"
 
 {% include committee-member.html
 name="Bjorn Ross"
-picture="/assets/images/committee/person.png"
+picture="/assets/images/committee/Bjorn_Ross.png"
 site=""
 institution="University of Edinburgh"
 email = "b.ross@ed.ac.uk"
@@ -479,7 +479,7 @@ email = "roireichart@gmail.com"
 
 {% include committee-member.html
 name="Rexhina Blloshmi"
-picture="/assets/images/committee/person.png"
+picture="/assets/images/committee/rexhina_blloshmi.png"
 site=""
 institution="Amazon AGI"
 email = "blloshmi@amazon.com"
