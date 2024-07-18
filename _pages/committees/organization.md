@@ -292,7 +292,7 @@ email = "frank@cl.uni-heidelberg.de"
 
 {% include committee-member.html
 name="Shruti Rijhwani"
-picture="/assets/images/committee/person.png"
+picture="/assets/images/committee/Shruti_Rijhwani.png"
 site=""
 institution="Google DeepMind"
 email = "shrutirijhwani@gmail.com"
