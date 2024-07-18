@@ -327,14 +327,14 @@ email = "alessandro.raganato@unimib.it"
 
 <h2>Ethics Chairs</h2>
 
-<!-- More information soon. -->
+Contact: acl2025-ethics-chairs@inria.fr   
 
 {% include committee-member.html
 name="Karën Fort"
 picture="/assets/images/committee/Karen_Fort.png"
 site=""
 institution="Université de Lorraine / LORIA"
-email = "karen.fort@loria.fr"
+email = ""
 %}
 
 {% include committee-member.html
@@ -342,7 +342,7 @@ name="Bjorn Ross"
 picture="/assets/images/committee/Bjorn_Ross.png"
 site=""
 institution="University of Edinburgh"
-email = "b.ross@ed.ac.uk"
+email = ""
 %}
 
 <h2>Student Volunteer Chairs</h2>
