@@ -272,7 +272,7 @@ email = "sstorks@umich.edu"
 
 {% include committee-member.html
 name="Hwaran Lee"
-picture="/assets/images/committee/person.png"
+picture="/assets/images/committee/Hwaran_Lee.png"
 site=""
 institution="NAVER"
 email = "hwaran.lee@gmail.com"
