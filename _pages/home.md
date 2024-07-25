@@ -3,8 +3,8 @@ title: "The 63rd Annual Meeting of the Association for Computational Linguistics
 layout: splash
 permalink: /
 header:
-  overlay_image: "/assets/images/vienna.jpeg"
-  caption: "Photo by AdobeStock"
+  overlay_image: "/assets/images/vienna.jpg"
+  caption: "Photo by Shutterstock"
 excerpt: "Vienna, Austria<br>July 27&ndash;August 1st, 2025"
 ---
 
