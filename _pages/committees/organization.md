@@ -242,6 +242,14 @@ institution="University of Trento"
 email = "raffaella.bernardi@unitn.it"
 %}
 
+{% include committee-member.html
+name="Thomas Scialom"
+picture="/assets/images/committee/thomas_scialom.png"
+site=""
+institution="Meta AI"
+email = "tscialom@meta.com"
+%}
+
 <h2>Diversity and Inclusion Chairs</h2>
 
 <!-- More information soon. -->
