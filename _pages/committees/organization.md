@@ -356,13 +356,14 @@ email = ""
 <h2>Student Volunteer Chairs</h2>
 
 <!-- More information soon. -->
+Contact: acl2025-volunteer-chairs@googlegroups.com
 
 {% include committee-member.html
 name="Pedro Henrique Luz de Araujo"
 picture="/assets/images/committee/pedro_araujo.png"
 site=""
 institution="University of Vienna"
-email = "pedro.henrique.luz.de.araujo@univie.ac.at"
+email = ""
 %}
 
 {% include committee-member.html
@@ -370,7 +371,7 @@ name="Eleonora Mancini"
 picture="/assets/images/committee/eleonora_mancini.png"
 site=""
 institution="University of Bologna"
-email = "e.mancini@unibo.it"
+email = ""
 %}
 
 <h2>Technical Open Review Chairs</h2>
