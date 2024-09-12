@@ -17,6 +17,12 @@ More information will be announced soon.
 
 **The official ACL 2025 website is launched.**
 {: .text-center .notice--info}
+<style>
+.news-table { font-size: .9em; table-layout: fixed; }
+.news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
+</style>
+| Sep 12, 2024 | The [ACL-NAACL-EMNLP joint call for tutorials](https://2025.aclweb.org/calls/tutorials/) is out
+{: .news-table}
 
 <!--style>
 /*.news-table { font-size: .9em; table-layout: fixed; text-align: left; }
