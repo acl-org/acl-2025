@@ -88,6 +88,8 @@ calls:
         url: /calls/student_research_workshop/
       - title: "System Demonstration"
         url: /calls/system_demonstration/
+      - title: "Tutorials"
+        url: /calls/tutorials/
 #      - title: "Industry Track Papers"
 #        url: /calls/industry_track/
 #      - title: "Style Files and Formatting"
