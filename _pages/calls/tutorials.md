@@ -38,7 +38,6 @@ Proposal submission deadline | October 22, 2024 |
 Notification of acceptance | November 22, 2024 |
 {: .news-table}
 
-<br>
 All deadlines are 11:59 PM UTC-12:00 (“anywhere on Earth”).
 
 ## Fee Waivers
