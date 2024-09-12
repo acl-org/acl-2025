@@ -31,7 +31,7 @@ Proposal submission deadline | October 22, 2024 |
 Notification of acceptance | November 22, 2024 |
 
 <style>
-.dates-table { font-size: .9em; }
+.dates-table { font-size: .12em; }
 .dates-table tr td:nth-child(1) { width: 55%; }
 .dates-table tr td:nth-child(2) { width: 25%; }
 .dates-table del { color: #888; }
