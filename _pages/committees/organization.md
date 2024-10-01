@@ -503,5 +503,17 @@ email = "ilkou.el@gmail.com"
 %}
 
 
+<h2>Bridge Chair</h2>
+
+<!-- More information soon. -->
+
+{% include committee-member.html
+name="Chenghua Lin"
+picture="/assets/images/committee/Chenghua_Lin.png"
+site=""
+institution="University of Manchester"
+email = "chenghua.lin@manchester.ac.uk"
+%}
+
 
 
