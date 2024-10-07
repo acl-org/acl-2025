@@ -503,7 +503,7 @@ email = "ilkou.el@gmail.com"
 %}
 
 
-<h2>Bridge Chair</h2>
+<h2>Documentation Chair</h2>
 
 <!-- More information soon. -->
 
