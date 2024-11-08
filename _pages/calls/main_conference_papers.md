@@ -45,6 +45,7 @@ ACL 2025 aims to have a broad technical program. Relevant topics for the confere
 - Efficient/Low-Resource Methods for NLP
 - Ethics, Bias, and Fairness
 - Generation
+- Human-Centered NLP
 - Information Extraction
 - Information Retrieval and Text Mining
 - Interpretability and Analysis of Models for NLP
