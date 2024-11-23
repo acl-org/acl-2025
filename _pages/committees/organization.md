@@ -142,12 +142,14 @@ email = "tao.yu.nlp@gmail.com"
 
 <h2>Student Research Workshop Chairs</h2>
 
+Contact: acl.2025.srw@gmail.com    
+
 {% include committee-member.html
 name="Zhu Liu"
 picture="/assets/images/committee/Zhu_Liu.png"
 site=""
 institution="Tsinghua University"
-email = "liuzhu22@mails.tsinghua.edu.cn"
+email = ""
 %}
 
 {% include committee-member.html
@@ -155,7 +157,7 @@ name="Mingyang Wang"
 picture="/assets/images/committee/mingyang_wang.png"
 site=""
 institution="LMU"
-email = "mingyang@cis.lmu.de"
+email = ""
 %}
 
 {% include committee-member.html
@@ -163,7 +165,7 @@ name="Jin Zhao"
 picture="/assets/images/committee/jin_zhao.png"
 site=""
 institution="Brandeis University"
-email = "jinzhao@brandeis.edu"
+email = ""
 %}
 
 <h2>Student Research Workshop Chairs: Faculty Advisors</h2>
