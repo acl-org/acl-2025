@@ -22,9 +22,6 @@ main:
   #- title: "Registration"
   #  url: /registration/
 
-  #- title: "Blog"
-  #  url: /blog/
-
   - title: "Committees"
     url: /organization
 
@@ -40,6 +37,9 @@ main:
   - title: "Venue"
     url: /venue/
 
+  - title: "Blog"
+    url: /blog/
+  
   #- title: "Reviewer"
   #  url: /not_available
 
