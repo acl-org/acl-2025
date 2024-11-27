@@ -23,24 +23,6 @@ The earliest conference in the cycle is always the least preferred conference: l
 
 The process is quite a fraught one that is made increasingly difficult as the number of proposals increases, so we will be revisiting the process to improve the review and decision process next year. So if you have ideas and feedback, please do get in touch with the workshop chairs! 
 
-<br>
-
-1. Sheer Numbers
-   - No AACL (will be later in separate process)
-   - Difficulty to strike the balance between successful and long-standing workshops to continue, with opening new slots for new emerging topics. 
-2. Scores
-   - Average and StdDev for Accepted
-   - Mean and StdDev for Rejected
-   - Note that scores don’t necessarily calibrate well across reviewers - some reviewers aimed to use the full range, others didn’t
-   - The process for deciding on workshops does not take scores into account.
-3. Process
-   - 2 reviewers
-   - All chairs reviewed all the reviews and voted (minus COI)
-   - Maybe something about constraints imposed by convention of accepting SIG-sponsored workshops, other long-running/large workshops
-   - Large puzzle that has ramifications for the type of work we see at conferences, so decisions were made by consensus.
-4. Decisions about combining
-   - We propose merge only when both workshops were very good and not when we tried to save one (trying not to damper the “good” workshops)
-   - We also tried to have some topics represented at each 3 conferences (eg “eval” workshops)
    - Do we speak about the fact that we also cared about the “willingness” to merge for final decisions ?
 5. Matching to locations. Yes we know number of slots for EMNLP (one reason decision was delayed). NAACL as by far the least-desired option. Why is this?
 6. Why? We would love to know. Things for next year
