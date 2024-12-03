@@ -9,13 +9,13 @@ toc: True
 toc_sticky: True
 ---
 
-**BACKGROUND**   
+## BACKGROUND
 
 Language technologies and their applications are an integral and critical part of our daily lives. Many of these technologies have their roots in academic and industrial research laboratories where researchers invented a plethora of algorithms, benchmarked them against shared datasets and perfected their performance to provide plausible solutions to real-world applications. While a controlled laboratory setting is vital for a deeper scientific understanding of the problems underlying language technologies and the impact of algorithmic design choices on their performance, transitioning the technology to real-world industrial strength applications raises a different, yet challenging, set of technical issues.    
 
 We acknowledge the challenges when adapting language technologies for building novel and robust real-world applications as the journey from theoretical research to practical deployment can be difficult. Challenges can include technical aspects of system deployment and optimizing for efficiency, making informed design choices or methodological considerations of incorporating human feedback and oversight. To provide a forum to address these multifaceted issues, we are seeking submissions that not only delve into research but also demonstrate the application of systems in real-world scenarios, irrespective of whether they involve proprietary data.    
 
-**TOPICS**    
+## TOPICS
 
 We invite submissions describing innovations and implementations in all areas of speech and natural language processing (NLP) technologies and systems that are relevant to real-word applications. The primary focus of this track is on papers that advance the understanding of, and demonstrate the effective handling of, practical issues related to the deployment of language processing or language generation technologies, including those of large language models, in non-trivial real-world systems. By “non-trivial real-world system” we mean an application deployed for real-world use, i.e., outside controlled environments such as laboratories, classrooms or experimental crowd-sourced setups, and that uses NLP and/or speech technology, even if not state of the art in terms of research. There is no requirement that the system be made by a for-profit company, but the users of the system are most likely outside the NLP research community.    
 
@@ -55,7 +55,7 @@ Submissions must clearly identify one of the following three areas they fall int
 - **Emerging:** Must describe the development of a system that solves a non-trivial real-world problem (it need not be deployed or even close, but there needs to be evidence that this development is intended for real-world deployment). Papers that describe enabling infrastructure for large-scale deployment of NLP techniques also fall in this category.
 - **Discovery:** Must include results obtained from NLP applications in real-world scenarios that result in actionable insights. These discoveries should reveal promising directions in their application areas, leading to further system or societal enhancements. For example, an actionable discovery from an analysis of call center transcripts may reveal that certain language choices negatively impact customer experience, leading to better training of service representatives and improved customer experience.    
 
-**IMPORTANT DATES**    
+## IMPORTANT DATES
 
 Paper submission deadline: 21 March 2025     
 
@@ -71,11 +71,11 @@ Following the [ACL and ARR Policies for Review and Citation](https://www.aclweb.
 
 However, please note that the ACL 2025 Industry Track does not use ARR!     
 
-**EVALUATION AND DECISION CRITERIA**    
+## EVALUATION AND DECISION CRITERIA    
 
 Submissions will be reviewed in a double-blind manner and assessed based on their novelty, technical quality, potential impact, and clarity. Submissions to the industry track should emphasize real-world implementations of NLP systems, the development of such systems, or provide insights based on real-world datasets with obvious industry impact. For papers that rely heavily on empirical evaluations, the experimental methods and results should be clear, well executed, and reproducible (though the data may be proprietary).    
 
-**SUBMISSION**   
+## SUBMISSION   
 
 Authors are invited to submit original, full-length (6 pages) industry track papers that are not previously published, accepted to be published, or under consideration for publication in any other forum. Manuscripts should be submitted digitally, in PDF format and formatted using the ACL 2025 formatting requirements. Please do not modify these style files, nor should you use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be desk-rejected.    
 
@@ -99,13 +99,13 @@ Presentation requirement for accepted papers: Industry Track papers will be pres
 
 **Authorship:** The author list for submissions should include all (and only) individuals who made substantial contributions to the work presented. Each author listed on a submission to the ACL 2025 Industry Track will be notified of submissions and the final decision. No changes to the order or composition of authorship may be made to submissions to the ACL 2025 Industry Track after the paper submission deadline.    
 
-**MULTIPLE SUBMISSION POLICY**    
+## MULTIPLE SUBMISSION POLICY
 
 ACL 2025 will not consider any paper that is under review in a journal or another conference at the time of submission, and submitted papers must not be submitted elsewhere during the ACL 2025 review period. This policy covers all refereed and archival conferences and workshops (e.g., NeurIPS, ACL workshops), as well as ARR. In addition, we will not consider any paper that overlaps significantly in content or results with papers that have been (or will be) published elsewhere. Authors submitting more than one paper to ACL 2025 must ensure that their submissions do not overlap significantly (>25%) with each other in content or results.     
 
 Submissions of identical or closely related work to multiple ACL 2025 tracks (e.g., to the research track and industry track) will be treated as duplicate submissions. Such submissions violate our multiple submission policy and will be rejected without review. The authors should also include the papers that their paper overlaps with or extends in the references section as follows: *Anonymous Authors, “Title of the paper”, Under submission at ACL 2025 (TRACK NAME).*    
 
-**ETHICS POLICY**    
+## ETHICS POLICY    
 Authors are required to honor the ethical code set out in the ACL [Code of Ethics](https://www.aclweb.org/portal/content/acl-code-ethics). The consideration of the ethical impact of our research, use of data, and potential applications of our work has always been an important consideration, and as artificial intelligence is becoming more mainstream, these issues are increasingly pertinent. We ask that all authors read the code, and ensure that their work is conformant to this code. Where a paper may raise ethical issues, we ask that you include in the paper an explicit discussion of these issues, which will be taken into account in the review process. We reserve the right to reject papers on ethical grounds, where the authors are judged to have operated counter to the code of ethics, or have inadequately addressed legitimate ethical concerns with their work.    
 
 Authors will be allowed extra space after the 6th page for an optional broader impact statement or other discussion of ethics. The ACL review form will include a section addressing these issues and papers flagged for ethical concerns by reviewers or ACs will be further reviewed by an ethics committee. Note that an ethical considerations section is not required, but papers working with sensitive data or on sensitive tasks that do not discuss these issues will not be accepted. Conversely, the mere inclusion of an ethical considerations section does not guarantee acceptance. In addition to acceptance or rejection, papers may receive a conditional acceptance recommendation. Camera-ready versions of papers designated as conditional accept will be re-reviewed by the ethics committee to determine whether the concerns have been adequately addressed. Please read the [ethics FAQ](https://2021.emnlp.org/call-for-papers/ethics-faq) for more guidance on some problems to look out for and key concerns to consider relative to the code of ethics.    
@@ -116,7 +116,7 @@ Authors will be allowed extra space after the 6th page for an optional broader i
 - [Yunyao Li](https://yunyaoli.github.io) (Adobe)
 - [Georg Rehm](http://georg-re.hm) (DFKI GmbH)
 
-**CONTACT INFORMATION**   
+## CONTACT INFORMATION   
 
 Email: [acl-2025-industry-track@googlegroups.com](mailto:acl-2025-industry-track@googlegroups.com)    
 
@@ -124,7 +124,7 @@ Email: [acl-2025-industry-track@googlegroups.com](mailto:acl-2025-industry-track
 **General Chair:** Roberto Navigli (Sapienza University of Rome)    
 
 
-**FREQUENTLY ASKED QUESTIONS**    
+## FREQUENTLY ASKED QUESTIONS    
 
 **Is the Industry Track only for participants from industry?** No, the Industry Track welcomes participants from the entire ACL community. Researchers working on real-world applications that match the Industry Track call for papers are invited to submit papers. Everyone is welcome to attend Industry Track sessions.    
 
