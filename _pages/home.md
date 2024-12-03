@@ -21,6 +21,7 @@ More information will be announced soon.
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| Dec 3, 2024 | [Call for Industry Track](https://2025.aclweb.org/calls/industry_track/) is out
 | Oct 7, 2024 | [First call for papers](https://2025.aclweb.org/calls/main_conference_papers/) is out
 | Sep 12, 2024 | The [ACL-NAACL-EMNLP joint call for tutorials](https://2025.aclweb.org/calls/tutorials/) is out
 {: .news-table}
