@@ -1,7 +1,7 @@
 ---
 title: Sponsors
 layout: single
-permalink: /sponsors
+permalink: /sponsors/
 sidebar: False
 toc: True
 toc_sticky: True
