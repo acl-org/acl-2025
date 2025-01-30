@@ -87,7 +87,7 @@ Authors are invited to submit original, full-length (6 pages) industry track pap
 
 **Writing assistance:** The ACL 2025 Industry Track adheres to the ACL policy on using writing assistants available [here](https://2023.aclweb.org/blog/ACL-2023-policy/).    
 
-**Submission system:** Papers have to be submitted through the ACL 2025 Industry Track online submission system. The submission link will be provided soon.    
+**Submission system:** Papers have to be submitted through the ACL 2025 Industry Track [online submission system](https://openreview.net/group?id=aclweb.org/ACL/2025/Industry_Track). 
 
 **Final version:** Accepted papers will be given one additional page of content (up to 7 pages; ethical considerations, acknowledgements and references do not count against this limit) so that reviewers’ comments can be taken into account. Previous presentations of the work (e.g., preprints on arXiv.org) should be indicated in a footnote that should be excluded from the review submission, but included in the final version of papers appearing in the ACL 2025 proceedings.    
 
