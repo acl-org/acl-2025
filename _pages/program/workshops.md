@@ -33,7 +33,7 @@ Workshops | July 31 - August 1 |
 - [**MAGMaR: Multimodal Augmented Generation via MultimodAl Retrieval**](https://nlp.jhu.edu/magmar/)
 - [**Slavic NLP-2025: The 10th Biennial Workshop on Slavic NLP**](https://bsnlp.cs.helsinki.fi)
 - [**The Second Workshop on Analogical Abstraction in Cognition, Perception, and Language (Analogy-ANGLE II)**](https://analogy-angle.github.io/)
-- [**First Workshop on LLM Security (LLMSEC)**]()
+- [**First Workshop on LLM Security (LLMSEC)**](https://sig.llmsecurity.net/workshop/)
 - [**The 19th Linguistic Annotation Workshop (LAW XIX)**](https://sigann.github.io/LAW-XIX-2025)
 - [**6th AfricaNLP Workshop: Multilingual and Multicultural-aware LLMs**]()
 - [**The 7th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (SIGTYP)**]()
