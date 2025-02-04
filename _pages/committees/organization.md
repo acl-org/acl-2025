@@ -18,7 +18,10 @@ sidebar:
 
 <h2>Program Chairs</h2>
 
-Contact: acl2025pcs@gmail.com    
+<ul>
+  <li><strong>For questions related to paper submission, email</strong>: support@aclrollingreview.org</li>
+  <li><strong>For all other questions, email</strong>: acl2025pcs@gmail.com</li>
+</ul>
 
 {% include committee-member.html
    name="Wanxiang Che"
