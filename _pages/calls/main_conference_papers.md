@@ -16,6 +16,7 @@ toc_sticky: True
 - **Conference Dates**: July 27 to August 1, 2025
 - **Location**: Vienna, Austria
 - **Special Theme**: “Generalization of NLP Models”
+- **Submission Website**: [https://openreview.net/group?id=aclweb.org/ACL/ARR/2025/February](https://openreview.net/group?id=aclweb.org/ACL/ARR/2025/February)
 
 ## Contact
 - **General Chair**: [Roberto Navigli](https://www.diag.uniroma1.it/navigli/)
