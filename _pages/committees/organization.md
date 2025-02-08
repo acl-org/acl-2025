@@ -62,7 +62,7 @@ name="Benjamin Roth"
 picture="/assets/images/committee/benjamin_roth.png"
 site=""
 institution="University of Vienna"
-email = "benjamin.roth@univie.ac.at"
+email =  ""
 %}
 
 {% include committee-member.html
@@ -70,7 +70,7 @@ name="Dagmar Gromann"
 picture="/assets/images/committee/dagmar_gromann.png"
 site=""
 institution="University of Vienna"
-email = "dagmar.gromann@univie.ac.at"
+email =  ""
 %}
 
 <h2>Workshop Chairs</h2>
@@ -80,7 +80,7 @@ name="Terra Blevins"
 picture="/assets/images/committee/terra_blevins.png"
 site=""
 institution="University of Vienna"
-email = "terrablvns@gmail.com"
+email =  ""
 %}
 
 {% include committee-member.html
@@ -88,7 +88,7 @@ name="Christophe Gravier"
 picture="/assets/images/committee/christophe_gravier.png"
 site=""
 institution="Université Jean Monnet"
-email = "christophe.gravier@univ-st-etienne.fr"
+email =  ""
 %}
 
 <h2>Tutorial Chairs</h2>
@@ -98,7 +98,7 @@ name="Yuki Arase"
 picture="/assets/images/committee/yuki_arase.png"
 site=""
 institution="Tokyo Institute of Technology"
-email = "arase@c.titech.ac.jp"
+email = ""
 %}
 
 {% include committee-member.html
@@ -106,7 +106,7 @@ name="David Jurgens"
 picture="/assets/images/committee/david_jurgens.png"
 site=""
 institution="University of Michigan"
-email = "jurgens@umich.edu"
+email =  ""
 %}
 
 {% include committee-member.html
@@ -114,7 +114,7 @@ name="Fei Xia"
 picture="/assets/images/committee/Fei_Xia.png"
 site=""
 institution="University of Washington"
-email = "fxia@uw.edu"
+email = ""
 %}
 
 <h2>Demonstration Chairs</h2>
@@ -124,7 +124,7 @@ name="Pushkar Mishra"
 picture="/assets/images/committee/Pushkar_Mishra.png"
 site=""
 institution="Google DeepMind / Cambridge"
-email = "pushkarmishra@outlook.com"
+email = ""
 %}
 
 {% include committee-member.html
@@ -132,7 +132,7 @@ name="Smaranda Muresan"
 picture="/assets/images/committee/Smaranda_Muresan.png"
 site=""
 institution="Barnard College, Columbia University"
-email = "smuresan@barnard.edu"
+email =  ""
 %}
 
 {% include committee-member.html
@@ -140,7 +140,7 @@ name="Tao Yu"
 picture="/assets/images/committee/Tao_Yu.png"
 site=""
 institution="The University of Hong Kong"
-email = "tao.yu.nlp@gmail.com"
+email = ""
 %}
 
 <h2>Student Research Workshop Chairs</h2>
@@ -178,7 +178,7 @@ name="Lea Frermann"
 picture="/assets/images/committee/lea_frermann.png"
 site=""
 institution="University of Melbourne"
-email = "lea.frermann@unimelb.edu.au"
+email =  ""
 %}
 
 {% include committee-member.html
@@ -186,7 +186,7 @@ name="Daniel Hershcovich"
 picture="/assets/images/committee/Daniel_Hershcovich.png"
 site=""
 institution="University of Copenhagen"
-email = "dh@di.ku.dk "
+email =  ""
 %}
 
 {% include committee-member.html
@@ -194,7 +194,7 @@ name="Tristan Miller"
 picture="/assets/images/committee/tristan_miller.png"
 site=""
 institution="University of Manitoba"
-email = "Tristan.Miller@umanitoba.ca"
+email =  ""
 %}
 
 <h2>Publication Chairs</h2>
@@ -204,7 +204,7 @@ name="Pierpaolo Basile"
 picture="/assets/images/committee/pierpaolo_basile.png"
 site=""
 institution="University of Bari"
-email = "pierpaolo.basile@uniba.it"
+email =  ""
 %}
 
 {% include committee-member.html
@@ -212,7 +212,7 @@ name="Libo Qin"
 picture="/assets/images/committee/Libo_Qin.png"
 site=""
 institution="Central South University"
-email = "lbqin@csu.edu.cn"
+email =  ""
 %}
 
 <h2>Handbook Chairs</h2>
@@ -224,7 +224,7 @@ name="Els Lefever"
 picture="/assets/images/committee/els_lefever.png"
 site=""
 institution="Ghent University"
-email = "els.lefever@ugent.be"
+email =  ""
 %}
 
 {% include committee-member.html
@@ -232,7 +232,7 @@ name="Qiongkai Xu"
 picture="/assets/images/committee/Qiongkai_Xu.png"
 site=""
 institution="Macquarie University"
-email = "qiongkai.xu@mq.edu.au"
+email = ""
 %}
 
 <h2>Sponsorship Chairs</h2>
@@ -244,7 +244,7 @@ name="Raffaella Bernardi"
 picture="/assets/images/committee/raffaella_bernardi.png"
 site=""
 institution="University of Trento"
-email = "raffaella.bernardi@unitn.it"
+email =  ""
 %}
 
 {% include committee-member.html
@@ -252,7 +252,7 @@ name="Thomas Scialom"
 picture="/assets/images/committee/thomas_scialom.png"
 site=""
 institution="Meta AI"
-email = "tscialom@meta.com"
+email =  ""
 %}
 
 <h2>Diversity and Inclusion Chairs</h2>
@@ -264,7 +264,7 @@ name="Senja Pollak"
 picture="/assets/images/committee/Senja_Pollak.png"
 site=""
 institution="Jožef Stefan Institute"
-email = "senja.pollak@ijs.si"
+email =  ""
 %}
 
 {% include committee-member.html
@@ -272,7 +272,7 @@ name="Maria Ryskina"
 picture="/assets/images/committee/maria_ryskina.png"
 site=""
 institution="MIT"
-email = "ryskina@mit.edu"
+email =  ""
 %}
 
 {% include committee-member.html
@@ -280,7 +280,7 @@ name="Shane Storks"
 picture="/assets/images/committee/shane_storks.png"
 site=""
 institution="University of Michigan"
-email = "sstorks@umich.edu"
+email =  ""
 %}
 
 {% include committee-member.html
@@ -288,7 +288,7 @@ name="Hwaran Lee"
 picture="/assets/images/committee/Hwaran_Lee.png"
 site=""
 institution="NAVER"
-email = "hwaran.lee@gmail.com"
+email =  ""
 %}
 
 
@@ -300,7 +300,7 @@ name="Anette Frank"
 picture="/assets/images/committee/anette_frank.png"
 site=""
 institution="Heidelberg University"
-email = "frank@cl.uni-heidelberg.de"
+email =  ""
 %}
 
 {% include committee-member.html
@@ -308,7 +308,7 @@ name="Shruti Rijhwani"
 picture="/assets/images/committee/Shruti_Rijhwani.png"
 site=""
 institution="Google DeepMind"
-email = "shrutirijhwani@gmail.com"
+email =  ""
 %}
 
 {% include committee-member.html
@@ -316,7 +316,7 @@ name="Horacio Saggion"
 picture="/assets/images/committee/horacio_saggion.png"
 site=""
 institution="Pompeu Fabra University"
-email = "horacio.saggion@upf.edu"
+email =  ""
 %}
 
 <h2>Website and Conference App Chairs</h2>
@@ -327,7 +327,7 @@ name="Xudong Han"
 picture="/assets/images/committee/xudong_han.png"
 site="https://hanxudong.github.io/"
 institution="LibrAI / MBZUAI"
-email = "xudong.han@mbzuai.ac.ae"
+email =  ""
 %}
 
 {% include committee-member.html
@@ -335,7 +335,7 @@ name="Alessandro Raganato"
 picture="/assets/images/committee/alessandro_raganato.png"
 site=""
 institution="University of Milano-Bicocca"
-email = "alessandro.raganato@unimib.it"
+email =  ""
 %}
 
 <h2>Ethics Chairs</h2>
@@ -388,7 +388,7 @@ name="Niket Tandon"
 picture="/assets/images/committee/niket_tandon.png"
 site=""
 institution="Allen AI"
-email = "nikett@gmail.com"
+email = ""
 %}
 
 {% include committee-member.html
@@ -396,7 +396,7 @@ name="Lizhen Qu"
 picture="/assets/images/committee/Lizhen_Qu.png"
 site=""
 institution="Monash University"
-email = "lizhen.qu@monash.edu"
+email = ""
 %}
 
 <h2>Virtual Infrastructure Chairs</h2>
@@ -408,7 +408,7 @@ name="Manling Li"
 picture="/assets/images/committee/Manling_Li.png"
 site=""
 institution="Northwestern University"
-email = "limanling.ai@gmail.com"
+email =  ""
 %}
 
 {% include committee-member.html
@@ -416,7 +416,7 @@ name="Yang Liu"
 picture="/assets/images/committee/Yang_Liu.png"
 site=""
 institution="Microsoft"
-email = "yaliu10@microsoft.com"
+email =  ""
 %}
 
 {% include committee-member.html
@@ -424,7 +424,7 @@ name="Avi Sil"
 picture="/assets/images/committee/Avi_Sil.png"
 site=""
 institution="IBM Research"
-email = "avi@us.ibm.com"
+email =  ""
 %}
 
 <h2>Internal Communication Chairs</h2>
@@ -436,7 +436,7 @@ name="Wenjie Li"
 picture="/assets/images/committee/Wenjie_Li.png"
 site=""
 institution="Polytechnic University of Hong Kong"
-email = "cswjli@comp.polyu.edu.hk"
+email = ""
 %}
 
 {% include committee-member.html
@@ -444,7 +444,7 @@ name="Sara Tonelli"
 picture="/assets/images/committee/sara_tonelli.png"
 site=""
 institution="FBK"
-email = "satonelli@fbk.eu"
+email = ""
 %}
 
 <h2>Industry Track Chairs</h2>
@@ -456,7 +456,7 @@ name="Yunyao Li"
 picture="/assets/images/committee/Yunyao_Li.png"
 site=""
 institution="Adobe"
-email = "yunyao@gmail.com"
+email = ""
 %}
 
 {% include committee-member.html
@@ -464,7 +464,7 @@ name="Georg Rehm"
 picture="/assets/images/committee/Georg_Rehm.png"
 site=""
 institution="DFKI"
-email = "georg.rehm@dfki.de"
+email = ""
 %}
 
 <h2>Best Paper Committee Chairs</h2>
@@ -476,7 +476,7 @@ name="Rada Mihalcea"
 picture="/assets/images/committee/Rada_Mihalcea.png"
 site=""
 institution="University of Michighan"
-email = "mihalcea@umich.edu"
+email = ""
 %}
 
 {% include committee-member.html
@@ -484,7 +484,7 @@ name="Roi Reichart"
 picture="/assets/images/committee/roi_reichart.png"
 site=""
 institution="Technion - Israel Institute of Technology"
-email = "roireichart@gmail.com"
+email = ""
 %}
 
 <h2>Visa Chairs</h2>
@@ -496,7 +496,7 @@ name="Rexhina Blloshmi"
 picture="/assets/images/committee/rexhina_blloshmi.png"
 site=""
 institution="Amazon AGI"
-email = "blloshmi@amazon.com"
+email = ""
 %}
 
 {% include committee-member.html
@@ -504,7 +504,7 @@ name="Eleni Ilkou"
 picture="/assets/images/committee/Eleni_Ilkou.png"
 site=""
 institution="University of Hannover"
-email = "ilkou.el@gmail.com"
+email = ""
 %}
 
 
@@ -517,7 +517,7 @@ name="Chenghua Lin"
 picture="/assets/images/committee/Chenghua_Lin.png"
 site=""
 institution="University of Manchester"
-email = "chenghua.lin@manchester.ac.uk"
+email = ""
 %}
 
 
