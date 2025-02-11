@@ -100,6 +100,12 @@ The [**Conference Program Schedule**](/program/) is now online.
 
 ## Important Dates
 
+Submission deadline (all papers are submitted to ARR) | February 15, 2025 |
+ARR reviews & meta-reviews available to authors of the February cycle | April 15, 2025 |
+Commitment deadline for ACL 2025 | April 20, 2025 |
+Notification of acceptance | May 15, 2025 |
+Withdrawal deadline | May 30, 2025 |
+Camera-ready papers due | May 30, 2025 |
 Overall Conference | July 27 to August 1st |
 Tutorials & Welcome Reception | July 27 |
 Main Conference Dates | July 28 - 30 |
