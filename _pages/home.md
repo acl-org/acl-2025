@@ -106,10 +106,10 @@ Commitment deadline for ACL 2025 | April 20, 2025 |
 Notification of acceptance | May 15, 2025 |
 Withdrawal deadline | May 30, 2025 |
 Camera-ready papers due | May 30, 2025 |
-Overall Conference | July 27 to August 1st |
-Tutorials & Welcome Reception | July 27 |
-Main Conference Dates | July 28 - 30 |
-Workshops | July 31 - August 1 |
+Overall Conference | July 27 to August 1st, 2025 |
+Tutorials & Welcome Reception | July 27, 2025 |
+Main Conference Dates | July 28 - 30, 2025 |
+Workshops | July 31 - August 1, 2025 |
 
 <style>
 .dates-table { font-size: .9em; }
