@@ -14,7 +14,7 @@ Tutorials & Welcome Reception | July 27 |
 Main Conference Dates | July 28 - 30 |
 Workshops | July 31 - August 1 |
 
-## Accepted Workshop
+## Accepted Workshops
 
 - [**International Conference on Spoken Language Translation 2025**](https://iwslt.org/)
 - [**2nd Workshop on Natural Language Processing meets Climate Change**](https://nlp4climate.github.io/)
