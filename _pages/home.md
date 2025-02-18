@@ -21,6 +21,8 @@ More information will be announced soon.
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| Feb 18, 2025 | The list of [ACL tutorials](https://2025.aclweb.org/program/tutorials/) is out
+| Feb 18, 2025 | The list of [ACL workshops](https://2025.aclweb.org/program/workshops/) is out
 | Jan 26, 2025 | [Call for System Demonstrations](https://2025.aclweb.org/calls/system_demonstration/) is out
 | Jan 20, 2025 | [Second call for papers](https://2025.aclweb.org/calls/main_conference_papers/) is out
 | Dec 3, 2024 | [Call for Industry Track](https://2025.aclweb.org/calls/industry_track/) is out
