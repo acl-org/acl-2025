@@ -38,7 +38,7 @@ Workshops | July 31 - August 1 |
 - [**The 7th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (SIGTYP)**]()
 - [**Field Matters. The Fourth Workshop on NLP Applications to Field Linguistics**]()
 - [**The 4th Table Representation Learning Workshop at ACL 2025**](https://table-representation-learning.github.io/ACL2025/)
-- [**The 9th Workshop on Online Abuse and Harms (WOAH 2025)**]()
+- [**The 9th Workshop on Online Abuse and Harms (WOAH 2025)**](https://www.workshopononlineabuse.com)
 - [**The 4th Workshop on NLP for Positive Impact**](https://sites.google.com/view/nlp4positiveimpact)
 - [**REALM: First Workshop for Research on Agent Language Models**](https://realm-workshop.github.io)
 - [**WikiNLP: Advancing Natural Language Processing for Wikipedia**](https://meta.wikimedia.org/wiki/NLP_for_Wikipedia_(ACL_2025))
