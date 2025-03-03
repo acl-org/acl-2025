@@ -2,7 +2,7 @@
 title: Program Committee
 layout: single
 excerpt: "ACL 2025 Senior Program Committee."
-permalink: /committees/program_chairs/
+permalink: /committees/program/
 sidebar:
     nav: "committees"
 ---
