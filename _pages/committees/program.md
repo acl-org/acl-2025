@@ -4,7 +4,7 @@ layout: single
 excerpt: "ACL 2025 Senior Program Committee."
 permalink: /committees/program/
 sidebar:
-  nav: "committees"
+    nav: "committees"
 ---
 
 ## Senior Area Chairs
@@ -15,42 +15,42 @@ sidebar:
    name="Mohammad Atari"
    picture="/assets/images/committee/program/mohammad_atari.jpg"
    site=""
-   institution="UMass (Americas)"
+   institution="University of Massachusetts (Americas)"
 %}
 
 {% include committee-member.html
    name="Michael Sejr Schlichtkrull"
-   picture="/assets/images/committee/program/michael_sejr_schlichtkrull.jpg"
+   picture="/assets/images/committee/program/person.png"
    site=""
-   institution="QMU London (Europe)"
+   institution="Queen Mary University of London (Europe)"
 %}
 
 {% include committee-member.html
    name="Daniel Preotiuc-Pietro"
    picture="/assets/images/committee/program/daniel_preotiuc_pietro.jpg"
    site=""
-   institution="Bloomberg (Europe)"
+   institution="Bloomberg LP (Europe)"
 %}
 
 {% include committee-member.html
    name="Jose Camacho-Collados"
    picture="/assets/images/committee/program/jose_camacho_collados.jpg"
    site=""
-   institution="Cardiff U (Europe)"
+   institution="Cardiff University (Europe)"
 %}
 
 {% include committee-member.html
    name="Anjalie Field"
-   picture="/assets/images/committee/program/anjalie_field.jpg"
+   picture="/assets/images/committee/program/person.png"
    site=""
-   institution="JHU (Americas)"
+   institution="Johns Hopkins University (Americas)"
 %}
 
 {% include committee-member.html
    name="Arkaitz Zubiaga"
-   picture="/assets/images/committee/program/arkaitz_zubiaga.jpg"
+   picture="/assets/images/committee/program/person.png"
    site=""
-   institution="Queen Mary (Europe)"
+   institution="Queen Mary University of London (Europe)"
 %}
 
 ### Dialogue and Interactive Systems
@@ -66,21 +66,21 @@ sidebar:
    name="Philippe Muller"
    picture="/assets/images/committee/program/philippe_muller.jpg"
    site=""
-   institution="IRIT  (Europe)"
+   institution="Institut de Recherche en Informatique de Toulouse (Europe)"
 %}
 
 {% include committee-member.html
    name="Min Yang"
    picture="/assets/images/committee/program/min_yang.jpg"
    site=""
-   institution="Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS) (SIAT)"
+   institution="Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (Asia)"
 %}
 
 {% include committee-member.html
    name="Matthieu Labeau"
-   picture="/assets/images/committee/program/matthieu_labeau.jpg"
+   picture="/assets/images/committee/program/person.png"
    site=""
-   institution="Telecom Paris (Europe)"
+   institution="Télécom Paris (Europe)"
 %}
 
 {% include committee-member.html
@@ -108,7 +108,7 @@ sidebar:
    name="Albert Gatt"
    picture="/assets/images/committee/program/albert_gatt.jpg"
    site=""
-   institution="Utrecht U (Europe)"
+   institution="Utrecht University (Europe)"
 %}
 
 ### Discourse and Pragmatics
@@ -117,7 +117,7 @@ sidebar:
    name="Junyi Jessy Li"
    picture="/assets/images/committee/program/junyi_jessy_li.jpg"
    site=""
-   institution="UT Austin (Americas)"
+   institution="University of Texas at Austin (Americas)"
 %}
 
 {% include committee-member.html
@@ -133,7 +133,7 @@ sidebar:
    name="Anders Søgaard"
    picture="/assets/images/committee/program/anders_sogaard.jpg"
    site=""
-   institution="Copenhagen U (Europe)"
+   institution="University of Copenhagen (Europe)"
 %}
 
 {% include committee-member.html
@@ -175,7 +175,7 @@ sidebar:
    name="Luke Zettlemoyer"
    picture="/assets/images/committee/program/luke_zettlemoyer.jpg"
    site=""
-   institution="U Washington and Meta (Americas)"
+   institution="University of Washington and Meta (Americas)"
 %}
 
 {% include committee-member.html
@@ -187,37 +187,37 @@ sidebar:
 
 {% include committee-member.html
    name="Helen Yannakoudakis"
-   picture="/assets/images/committee/program/helen_yannakoudakis.jpg"
+   picture="/assets/images/committee/program/person.png"
    site=""
-   institution="KCL (Europe)"
+   institution="King's College London (Europe)"
 %}
 
 {% include committee-member.html
    name="Edoardo Ponti"
    picture="/assets/images/committee/program/edoardo_ponti.jpg"
    site=""
-   institution="U Edinburgh (Europe)"
+   institution="University of Edinburgh (Europe)"
 %}
 
 {% include committee-member.html
    name="Anne Lauscher"
    picture="/assets/images/committee/program/anne_lauscher.jpg"
    site=""
-   institution="U Hamburg (Europe)"
+   institution="University of Hamburg (Europe)"
 %}
 
 ### Ethics, Bias, and Fairness
 
 {% include committee-member.html
    name="Yi Zhou"
-   picture="/assets/images/committee/program/yi_zhou.jpg"
+   picture="/assets/images/committee/program/person.png"
    site=""
-   institution="Cardiff U (Europe)"
+   institution="Cardiff University (Europe)"
 %}
 
 {% include committee-member.html
    name="Qinlan Shen"
-   picture="/assets/images/committee/program/qinlan_shen.jpg"
+   picture="/assets/images/committee/program/person.png"
    site=""
    institution="Oracle Labs (Americas)"
 %}
@@ -226,42 +226,42 @@ sidebar:
    name="Nouha Dziri"
    picture="/assets/images/committee/program/nouha_dziri.jpg"
    site=""
-   institution="Allen Institute for AI (Americas)"
+   institution="Allen Institute for Artificial Intelligence (Americas)"
 %}
 
 {% include committee-member.html
    name="Wolfgang Nejdl"
    picture="/assets/images/committee/program/wolfgang_nejdl.jpg"
    site=""
-   institution="U Hannover (Europe)"
+   institution="Leibniz University Hannover (Europe)"
 %}
 
 {% include committee-member.html
    name="Nafise Sadat Moosavi"
    picture="/assets/images/committee/program/nafise_sadat_moosavi.jpg"
    site=""
-   institution="U Sheffield (Europe)"
+   institution="University of Sheffield (Europe)"
 %}
 
 {% include committee-member.html
    name="Malihe Alikhani"
    picture="/assets/images/committee/program/malihe_alikhani.jpg"
    site=""
-   institution="Northeastern U (Americas)"
+   institution="Northeastern University (Americas)"
 %}
 
 {% include committee-member.html
    name="Debora Nozza"
    picture="/assets/images/committee/program/debora_nozza.jpg"
    site=""
-   institution="U Bocconi (Europe)"
+   institution="Bocconi University (Europe)"
 %}
 
 {% include committee-member.html
    name="Maria Antoniak"
    picture="/assets/images/committee/program/maria_antoniak.jpg"
    site=""
-   institution="Allen Institute for AI (Americas)"
+   institution="Allen Institute for Artificial Intelligence (Americas)"
 %}
 
 ### Generation
@@ -270,7 +270,7 @@ sidebar:
    name="Shafiq Joty"
    picture="/assets/images/committee/program/shafiq_joty.jpg"
    site=""
-   institution="Salesforce (Americas)"
+   institution="Salesforce Research (Americas)"
 %}
 
 {% include committee-member.html
@@ -282,16 +282,16 @@ sidebar:
 
 {% include committee-member.html
    name="Ondřej Dušek"
-   picture="/assets/images/committee/program/ondřej_dušek.jpg"
+   picture="/assets/images/committee/program/person.png"
    site=""
-   institution="Prague U (Europe)"
+   institution="Charles University, Prague (Europe)"
 %}
 
 {% include committee-member.html
    name="Nader Akoury"
    picture="/assets/images/committee/program/nader_akoury.jpg"
    site=""
-   institution="Cornell (Americas)"
+   institution="Cornell University (Americas)"
 %}
 
 {% include committee-member.html
@@ -305,14 +305,14 @@ sidebar:
    name="Huaxiu Yao"
    picture="/assets/images/committee/program/huaxiu_yao.jpg"
    site=""
-   institution="UNC (Americas)"
+   institution="University of North Carolina at Chapel Hill (Americas)"
 %}
 
 {% include committee-member.html
    name="Ehsan Shareghi"
    picture="/assets/images/committee/program/ehsan_shareghi.jpg"
    site=""
-   institution="Monash U (Asia)"
+   institution="Monash University (Asia)"
 %}
 
 ### Human-centered NLP
@@ -328,21 +328,21 @@ sidebar:
    name="Diyi Yang"
    picture="/assets/images/committee/program/diyi_yang.jpg"
    site=""
-   institution="Stanford U (Americas)"
+   institution="Stanford University (Americas)"
 %}
 
 {% include committee-member.html
    name="Chenhao Tan"
    picture="/assets/images/committee/program/chenhao_tan.jpg"
    site=""
-   institution="U of Chicago (Americas)"
+   institution="University of Chicago (Americas)"
 %}
 
 {% include committee-member.html
    name="Carolin Lawrence"
    picture="/assets/images/committee/program/carolin_lawrence.jpg"
    site=""
-   institution="NEC Labs Europe (Europe)"
+   institution="NEC Laboratories Europe (Europe)"
 %}
 
 ### Information Extraction
@@ -351,7 +351,7 @@ sidebar:
    name="Yadollah Yaghoobzadeh"
    picture="/assets/images/committee/program/yadollah_yaghoobzadeh.jpg"
    site=""
-   institution="U of Tehran (Asia)"
+   institution="University of Tehran (Asia)"
 %}
 
 {% include committee-member.html
@@ -365,7 +365,7 @@ sidebar:
    name="Meishan Zhang"
    picture="/assets/images/committee/program/meishan_zhang.jpg"
    site=""
-   institution="Harbin Institute of Technology (Shenzhen) (Shenzhen)"
+   institution="Harbin Institute of Technology, Shenzhen (Asia)"
 %}
 
 {% include committee-member.html
@@ -386,7 +386,7 @@ sidebar:
 
 {% include committee-member.html
    name="Yiqun Liu"
-   picture="/assets/images/committee/program/yiqun_liu.jpg"
+   picture="/assets/images/committee/program/person.png"
    site=""
    institution="Tsinghua University (Asia)"
 %}
@@ -395,7 +395,7 @@ sidebar:
    name="Suzan Verberne"
    picture="/assets/images/committee/program/suzan_verberne.jpg"
    site=""
-   institution="U Leiden (Europe)"
+   institution="Leiden University (Europe)"
 %}
 
 {% include committee-member.html
@@ -409,21 +409,21 @@ sidebar:
    name="Giorgio Maria Di Nunzio"
    picture="/assets/images/committee/program/giorgio_maria_di_nunzio.jpg"
    site=""
-   institution="U Padova (Europe)"
+   institution="University of Padua (Europe)"
 %}
 
 {% include committee-member.html
    name="Gabriella Pasi"
-   picture="/assets/images/committee/program/gabriella_pasi.jpg"
+   picture="/assets/images/committee/program/person.png"
    site=""
-   institution="U Milano-Bicocca (Europe)"
+   institution="University of Milano-Bicocca (Europe)"
 %}
 
 {% include committee-member.html
    name="Fuli Feng"
    picture="/assets/images/committee/program/fuli_feng.jpg"
    site=""
-   institution="University of Science and Technology of China (China)"
+   institution="University of Science and Technology of China (Asia)"
 %}
 
 ### Interpretability and Analysis of Models for NLP
@@ -432,12 +432,12 @@ sidebar:
    name="Tiago Pimentel"
    picture="/assets/images/committee/program/tiago_pimentel.jpg"
    site=""
-   institution="ETH (Europe)"
+   institution="ETH Zurich (Europe)"
 %}
 
 {% include committee-member.html
    name="Peter Hase"
-   picture="/assets/images/committee/program/peter_hase.jpg"
+   picture="/assets/images/committee/program/person.png"
    site=""
    institution="University of North Carolina at Chapel Hill (Americas)"
 %}
@@ -453,19 +453,19 @@ sidebar:
    name="Zhijing JIN"
    picture="/assets/images/committee/program/zhijing_jin.jpg"
    site=""
-   institution="Max planck (Europe)"
+   institution="Max Planck Institute (Europe)"
 %}
 
 {% include committee-member.html
    name="Hanjie Chen"
    picture="/assets/images/committee/program/hanjie_chen.jpg"
    site=""
-   institution="Rice U (Americas)"
+   institution="Rice University (Americas)"
 %}
 
 {% include committee-member.html
    name="Yonatan Belinkov"
-   picture="/assets/images/committee/program/yonatan_belinkov.jpg"
+   picture="/assets/images/committee/program/person.png"
    site=""
    institution="Technion (Other)"
 %}
@@ -481,7 +481,7 @@ sidebar:
    name="Aaron Mueller"
    picture="/assets/images/committee/program/aaron_mueller.jpg"
    site=""
-   institution="Northeastern U (Americas)"
+   institution="Northeastern University (Americas)"
 %}
 
 {% include committee-member.html
@@ -497,7 +497,7 @@ sidebar:
    name="Ahmad Beirami"
    picture="/assets/images/committee/program/ahmad_beirami.jpg"
    site=""
-   institution="Deepmind (Americas)"
+   institution="Google DeepMind (Americas)"
 %}
 
 {% include committee-member.html
@@ -511,14 +511,14 @@ sidebar:
    name="Bill Yuchen Lin"
    picture="/assets/images/committee/program/bill_yuchen_lin.jpg"
    site=""
-   institution="Allen Institute for AI (Americas)"
+   institution="Allen Institute for Artificial Intelligence (Americas)"
 %}
 
 {% include committee-member.html
    name="Mohit Iyyer"
    picture="/assets/images/committee/program/mohit_iyyer.jpg"
    site=""
-   institution="UMass (Americas)"
+   institution="University of Massachusetts (Americas)"
 %}
 
 {% include committee-member.html
@@ -539,14 +539,14 @@ sidebar:
    name="Hao Peng"
    picture="/assets/images/committee/program/hao_peng.jpg"
    site=""
-   institution="Beihang University, China (Americas)"
+   institution="Beihang University (Americas)"
 %}
 
 {% include committee-member.html
    name="Greg Durrett"
    picture="/assets/images/committee/program/greg_durrett.jpg"
    site=""
-   institution="UT Austin (Americas)"
+   institution="University of Texas at Austin (Americas)"
 %}
 
 {% include committee-member.html
@@ -560,35 +560,35 @@ sidebar:
    name="Daniel Varab"
    picture="/assets/images/committee/program/daniel_varab.jpg"
    site=""
-   institution="DFKI (Europe)"
+   institution="German Research Center for Artificial Intelligence (DFKI) (Europe)"
 %}
 
 {% include committee-member.html
    name="Alan Akbik"
    picture="/assets/images/committee/program/alan_akbik.jpg"
    site=""
-   institution="Humboldt-Universität zu Berlin, Germany		 (Germany)"
+   institution="Humboldt University of Berlin (Europe)"
 %}
 
 {% include committee-member.html
    name="Byron Wallace"
    picture="/assets/images/committee/program/byron_wallace.jpg"
    site=""
-   institution="NorthEastern University (Americas)"
+   institution="Northeastern University (Americas)"
 %}
 
 {% include committee-member.html
    name="Ekaterina Kochmar"
    picture="/assets/images/committee/program/ekaterina_kochmar.jpg"
    site=""
-   institution="MBZUAI (Other)"
+   institution="Mohamed bin Zayed University of Artificial Intelligence (Other)"
 %}
 
 {% include committee-member.html
    name="Danushka Bollegala"
    picture="/assets/images/committee/program/danushka_bollegala.jpg"
    site=""
-   institution="Liverpool U (Europe)"
+   institution="University of Liverpool (Europe)"
 %}
 
 ### Linguistic Theories, Cognitive Modeling, and Psycholinguistics
@@ -597,7 +597,7 @@ sidebar:
    name="Vivi Nastase"
    picture="/assets/images/committee/program/vivi_nastase.jpg"
    site=""
-   institution="U of Geneva (Europe)"
+   institution="University of Geneva (Europe)"
 %}
 
 {% include committee-member.html
@@ -616,16 +616,16 @@ sidebar:
 
 {% include committee-member.html
    name="Michael Flor"
-   picture="/assets/images/committee/program/michael_flor.jpg"
+   picture="/assets/images/committee/program/person.png"
    site=""
-   institution="Educational Testing Service (Americas)"
+   institution="Educational Testing Service (ETS) (Americas)"
 %}
 
 {% include committee-member.html
    name="Jelke Bloem"
-   picture="/assets/images/committee/program/jelke_bloem.jpg"
+   picture="/assets/images/committee/program/person.png"
    site=""
-   institution="U Amsterdam (Europe)"
+   institution="University of Amsterdam (Europe)"
 %}
 
 ### Machine Learning for NLP
@@ -634,14 +634,14 @@ sidebar:
    name="Yulia Tsvetkov"
    picture="/assets/images/committee/program/yulia_tsvetkov.jpg"
    site=""
-   institution="CMU (Americas)"
+   institution="Carnegie Mellon University (Americas)"
 %}
 
 {% include committee-member.html
    name="Marek Rei"
    picture="/assets/images/committee/program/marek_rei.jpg"
    site=""
-   institution="Imperial College (Europe)"
+   institution="Imperial College London (Europe)"
 %}
 
 {% include committee-member.html
@@ -653,7 +653,7 @@ sidebar:
 
 {% include committee-member.html
    name="Kevin Small"
-   picture="/assets/images/committee/program/kevin_small.jpg"
+   picture="/assets/images/committee/program/person.png"
    site=""
    institution="Amazon (Americas)"
 %}
@@ -662,7 +662,7 @@ sidebar:
    name="Jacob Andreas"
    picture="/assets/images/committee/program/jacob_andreas.jpg"
    site=""
-   institution="MIT (Americas)"
+   institution="Massachusetts Institute of Technology (Americas)"
 %}
 
 {% include committee-member.html
@@ -674,9 +674,9 @@ sidebar:
 
 {% include committee-member.html
    name="Alla Rozovskaya"
-   picture="/assets/images/committee/program/alla_rozovskaya.jpg"
+   picture="/assets/images/committee/program/person.png"
    site=""
-   institution="Queens College (Americas)"
+   institution="Queens College, City University of New York (Americas)"
 %}
 
 ### Machine Translation
@@ -692,7 +692,7 @@ sidebar:
    name="Rico Sennrich"
    picture="/assets/images/committee/program/rico_sennrich.jpg"
    site=""
-   institution="U Zurich (Europe)"
+   institution="University of Zurich (Europe)"
 %}
 
 {% include committee-member.html
@@ -708,14 +708,14 @@ sidebar:
    name="Nedjma Ousidhoum"
    picture="/assets/images/committee/program/nedjma_ousidhoum.jpg"
    site=""
-   institution="Cardiff (Europe)"
+   institution="Cardiff University (Europe)"
 %}
 
 {% include committee-member.html
    name="Goran Glavaš"
    picture="/assets/images/committee/program/goran_glavas.jpg"
    site=""
-   institution="U Wurzburg (Europe)"
+   institution="University of Würzburg (Europe)"
 %}
 
 {% include committee-member.html
@@ -727,9 +727,9 @@ sidebar:
 
 {% include committee-member.html
    name="David Ifeoluwa Adelani "
-   picture="/assets/images/committee/program/david_ifeoluwa_adelani_.jpg"
+   picture="/assets/images/committee/program/person.png"
    site=""
-   institution="McGill School of Computer Science (Americas)"
+   institution="McGill University, School of Computer Science (Americas)"
 %}
 
 {% include committee-member.html
@@ -759,7 +759,7 @@ sidebar:
    name="Fangyu Liu"
    picture="/assets/images/committee/program/fangyu_liu.jpg"
    site=""
-   institution="Deepmind (Americas)"
+   institution="Google DeepMind (Americas)"
 %}
 
 {% include committee-member.html
@@ -773,26 +773,26 @@ sidebar:
    name="Frank Keller"
    picture="/assets/images/committee/program/frank_keller.jpg"
    site=""
-   institution="U Edinburgh (Europe)"
+   institution="University of Edinburgh (Europe)"
 %}
 
 {% include committee-member.html
    name="Hao Tan"
-   picture="/assets/images/committee/program/hao_tan.jpg"
+   picture="/assets/images/committee/program/person.png"
    site=""
    institution="Adobe Research (Americas)"
 %}
 
 {% include committee-member.html
    name="Edison Marrese-Taylor"
-   picture="/assets/images/committee/program/edison_marrese_taylor.jpg"
+   picture="/assets/images/committee/program/person.png"
    site=""
-   institution="National Institute of Advanced Industrial Science and Technology (AIST) (AIST)"
+   institution="National Institute of Advanced Industrial Science and Technology (AIST) (Asia)"
 %}
 
 {% include committee-member.html
    name="Dongxu Li"
-   picture="/assets/images/committee/program/dongxu_li.jpg"
+   picture="/assets/images/committee/program/person.png"
    site=""
    institution="Salesforce AI Research (Americas)"
 %}
@@ -801,7 +801,7 @@ sidebar:
    name="Desmond Elliott"
    picture="/assets/images/committee/program/desmond_elliott.jpg"
    site=""
-   institution="U Copenhagen (Europe)"
+   institution="University of Copenhagen (Europe)"
 %}
 
 {% include committee-member.html
@@ -815,7 +815,7 @@ sidebar:
    name="Emanuele Bugliarello"
    picture="/assets/images/committee/program/emanuele_bugliarello.jpg"
    site=""
-   institution="Google  (Europe)"
+   institution="Google (Europe)"
 %}
 
 ### NLP Applications
@@ -831,35 +831,35 @@ sidebar:
    name="Xianpei Han"
    picture="/assets/images/committee/program/xianpei_han.jpg"
    site=""
-   institution="Institute of Automation, Chinese Academy of Sciences  (Asia)"
+   institution="Institute of Automation, Chinese Academy of Sciences (Asia)"
 %}
 
 {% include committee-member.html
    name="Viviana Patti"
    picture="/assets/images/committee/program/viviana_patti.jpg"
    site=""
-   institution="U Turin (Europe)"
+   institution="University of Turin (Europe)"
 %}
 
 {% include committee-member.html
    name="Roland Roller"
    picture="/assets/images/committee/program/roland_roller.jpg"
    site=""
-   institution="German Research Center for Artificial Intelligence (DFKI) (DFKI)"
+   institution="German Research Center for Artificial Intelligence (DFKI) (Europe)"
 %}
 
 {% include committee-member.html
    name="Rebecca Passonneau"
    picture="/assets/images/committee/program/rebecca_passonneau.jpg"
    site=""
-   institution="Penn State (Americas)"
+   institution="Pennsylvania State University (Americas)"
 %}
 
 {% include committee-member.html
    name="Preslav Nakov"
    picture="/assets/images/committee/program/preslav_nakov.jpg"
    site=""
-   institution="MBZUAI (Asia)"
+   institution="Mohamed bin Zayed University of Artificial Intelligence (Asia)"
 %}
 
 {% include committee-member.html
@@ -880,7 +880,7 @@ sidebar:
    name="Leon Derczynski"
    picture="/assets/images/committee/program/leon_derczynski.jpg"
    site=""
-   institution="U Copenhagen (Europe)"
+   institution="University of Copenhagen (Europe)"
 %}
 
 {% include committee-member.html
@@ -901,21 +901,21 @@ sidebar:
    name="Steven Bethard"
    picture="/assets/images/committee/program/steven_bethard.jpg"
    site=""
-   institution="U Arizona (Americas)"
+   institution="University of Arizona (Americas)"
 %}
 
 {% include committee-member.html
    name="Xin Zhao"
    picture="/assets/images/committee/program/xin_zhao.jpg"
    site=""
-   institution="Renmin University (Asia)"
+   institution="Renmin University of China (Asia)"
 %}
 
 {% include committee-member.html
    name="Arman Cohan"
    picture="/assets/images/committee/program/arman_cohan.jpg"
    site=""
-   institution="Yale (Americas)"
+   institution="Yale University (Americas)"
 %}
 
 {% include committee-member.html
@@ -929,14 +929,14 @@ sidebar:
    name="Andrew Yates"
    picture="/assets/images/committee/program/andrew_yates.jpg"
    site=""
-   institution="Amsterdam U (Europe)"
+   institution="University of Amsterdam (Europe)"
 %}
 
 {% include committee-member.html
    name="Alexandra Birch-Mayne"
-   picture="/assets/images/committee/program/alexandra_birch_mayne.jpg"
+   picture="/assets/images/committee/program/person.png"
    site=""
-   institution="U Edinburgh (Europe)"
+   institution="University of Edinburgh (Europe)"
 %}
 
 ### Phonology, Morphology, and Word Segmentation
@@ -952,7 +952,7 @@ sidebar:
    name="Ryan Cotterell"
    picture="/assets/images/committee/program/ryan_cotterell.jpg"
    site=""
-   institution="ETH Zürich (Europe)"
+   institution="ETH Zurich (Europe)"
 %}
 
 ### Question Answering
@@ -975,7 +975,7 @@ sidebar:
    name="Peng Qi"
    picture="/assets/images/committee/program/peng_qi.jpg"
    site=""
-   institution="Amazon AWS (Americas)"
+   institution="Amazon Web Services (AWS) (Americas)"
 %}
 
 {% include committee-member.html
@@ -986,17 +986,24 @@ sidebar:
 %}
 
 {% include committee-member.html
+   name="Jonathan Berant"
+   picture="/assets/images/committee/program/jonathan_berant.jpg"
+   site=""
+   institution="Tel Aviv University (Asia)"
+%}
+
+{% include committee-member.html
    name="Jordan Boyd-Graber"
    picture="/assets/images/committee/program/jordan_boyd_graber.jpg"
    site=""
-   institution="Uni of Maryland (Americas)"
+   institution="University of Maryland (Americas)"
 %}
 
 {% include committee-member.html
    name="Ivan Vulic"
    picture="/assets/images/committee/program/ivan_vulic.jpg"
    site=""
-   institution="Cambridge University (Europe)"
+   institution="University of Cambridge (Europe)"
 %}
 
 {% include committee-member.html
@@ -1012,7 +1019,7 @@ sidebar:
    name="Svetlana Kiritchenko"
    picture="/assets/images/committee/program/svetlana_kiritchenko.jpg"
    site=""
-   institution="NRC Canada (Canada)"
+   institution="National Research Council Canada (Americas)"
 %}
 
 {% include committee-member.html
@@ -1026,28 +1033,28 @@ sidebar:
    name="Raj Dabre"
    picture="/assets/images/committee/program/raj_dabre.jpg"
    site=""
-   institution="National Institute of Information and Communications Technology (NICT) (NICT)"
+   institution="National Institute of Information and Communications Technology (Asia)"
 %}
 
 {% include committee-member.html
    name="Simone Paolo Ponzetto"
    picture="/assets/images/committee/program/simone_paolo_ponzetto.jpg"
    site=""
-   institution="Manheim U (Europe)"
+   institution="Manheim University (Europe)"
 %}
 
 {% include committee-member.html
    name="Martha Lewis"
    picture="/assets/images/committee/program/martha_lewis.jpg"
    site=""
-   institution="U Amsterdam (Europe)"
+   institution="University of Amsterdam (Europe)"
 %}
 
 {% include committee-member.html
    name="Karin Verspoor"
    picture="/assets/images/committee/program/karin_verspoor.jpg"
    site=""
-   institution="RMIT University (Other)"
+   institution="Royal Melbourne Institute of Technology (Other)"
 %}
 
 {% include committee-member.html
@@ -1061,21 +1068,21 @@ sidebar:
    name="Houda Bouamor"
    picture="/assets/images/committee/program/houda_bouamor.jpg"
    site=""
-   institution="CMU (Americas)"
+   institution="Carnegie Mellon University (Americas)"
 %}
 
 {% include committee-member.html
    name="Guy Emerson"
    picture="/assets/images/committee/program/guy_emerson.jpg"
    site=""
-   institution="Cambridge (Europe)"
+   institution="University of Cambridge (Europe)"
 %}
 
 {% include committee-member.html
    name="Anna Feldman"
    picture="/assets/images/committee/program/anna_feldman.jpg"
    site=""
-   institution="Montclair U (Americas)"
+   institution="Montclair State University (Americas)"
 %}
 
 {% include committee-member.html
@@ -1087,53 +1094,53 @@ sidebar:
 
 {% include committee-member.html
    name="Beata Beigman Klebanov"
-   picture="/assets/images/committee/program/beata_beigman_klebanov.jpg"
+   picture="/assets/images/committee/program/person.png"
    site=""
-   institution="ETS (Americas)"
+   institution="Educational Testing Service (Americas)"
 %}
 
 {% include committee-member.html
    name="Ehsaneddin Asgari"
    picture="/assets/images/committee/program/ehsaneddin_asgari.jpg"
    site=""
-   institution="QCRI (Asia)"
+   institution="Qatar Computing Research Institute (Asia)"
 %}
 
 {% include committee-member.html
    name="Seza Doğruöz"
-   picture="/assets/images/committee/program/seza_doğruoz.jpg"
+   picture="/assets/images/committee/program/person.png"
    site=""
-   institution="U Ghent (Europe)"
+   institution="University of Ghent (Europe)"
 %}
 
 {% include committee-member.html
    name="Antske Fokkens"
    picture="/assets/images/committee/program/antske_fokkens.jpg"
    site=""
-   institution="VU Amsterdam (Europe)"
+   institution="Vrije Universiteit Amsterdam (Europe)"
 %}
 
 ### Semantics: Lexical and Sentence-Level
 
 {% include committee-member.html
    name="Steven Schockaert"
-   picture="/assets/images/committee/program/steven_schockaert.jpg"
+   picture="/assets/images/committee/program/person.png"
    site=""
-   institution="U Cardiff (Europe)"
+   institution="University of Cardiff (Europe)"
 %}
 
 {% include committee-member.html
    name="Marianna Apidianaki"
    picture="/assets/images/committee/program/marianna_apidianaki.jpg"
    site=""
-   institution="U of Pennsylvania (Americas)"
+   institution="University of Pennsylvania (Americas)"
 %}
 
 {% include committee-member.html
    name="Meriem Beloucif"
-   picture="/assets/images/committee/program/meriem_beloucif.jpg"
+   picture="/assets/images/committee/program/person.png"
    site=""
-   institution="Uppsala (Europe)"
+   institution="Uppsala University (Europe)"
 %}
 
 ### Sentiment Analysis, Stylistic Analysis, and Argument Mining
@@ -1149,14 +1156,14 @@ sidebar:
    name="Ruifeng Xu"
    picture="/assets/images/committee/program/ruifeng_xu.jpg"
    site=""
-   institution="Harbin Institute of Technology (Shenzhen) (Shenzhen)"
+   institution="Harbin Institute of Technology (Shenzhen) (Asia)"
 %}
 
 {% include committee-member.html
    name="Saif Mohammad"
    picture="/assets/images/committee/program/saif_mohammad.jpg"
    site=""
-   institution="NRC Canada (Canada)"
+   institution="National Research Council of Canada (Americas)"
 %}
 
 {% include committee-member.html
@@ -1170,14 +1177,14 @@ sidebar:
 
 {% include committee-member.html
    name="Trang Tran"
-   picture="/assets/images/committee/program/trang_tran.jpg"
+   picture="/assets/images/committee/program/person.png"
    site=""
    institution="Reality Defender (Americas)"
 %}
 
 {% include committee-member.html
    name="Kai Yu"
-   picture="/assets/images/committee/program/kai_yu.jpg"
+   picture="/assets/images/committee/program/person.png"
    site=""
    institution="Shanghai Jiao Tong University (Asia)"
 %}
@@ -1188,7 +1195,7 @@ sidebar:
    name="Yue Dong"
    picture="/assets/images/committee/program/yue_dong.jpg"
    site=""
-   institution="Riverside (Americas)"
+   institution="University of California, Riverside (Americas)"
 %}
 
 {% include committee-member.html
@@ -1209,9 +1216,9 @@ sidebar:
 
 {% include committee-member.html
    name="Tejaswini Deoskar"
-   picture="/assets/images/committee/program/tejaswini_deoskar.jpg"
+   picture="/assets/images/committee/program/person.png"
    site=""
-   institution="Utrecht U (Europe)"
+   institution="Utrecht University (Europe)"
 %}
 
 ### Theme track: Generalisation of NLP models
@@ -1220,7 +1227,7 @@ sidebar:
    name="Mohammad Javad Hosseini"
    picture="/assets/images/committee/program/mohammad_javad_hosseini.jpg"
    site=""
-   institution="Deepmind (Europe)"
+   institution="Google DeepMind (Europe)"
 %}
 
 {% include committee-member.html
