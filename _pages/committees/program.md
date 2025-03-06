@@ -975,7 +975,7 @@ sidebar:
 %}
 
 {% include committee-member.html
-   name="Seza Doğruöz"
+   name="A. Seza Doğruöz"
    picture="/assets/images/committee/program_chairs/person.png"
    institution="University of Ghent"
 %}
