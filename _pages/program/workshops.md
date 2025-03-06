@@ -285,7 +285,7 @@ Location: to be defined.
 - [Murray Kenton](kenton@jhu.edu)
 - [Sanders Kate](ksande25@jhu.edu)
 
-[FieldMatters--SIGTYP : The 7th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (SIGTYP)](https://sigtyp.github.io/) and the [Fourth Workshop on NLP Applications to Field Linguistics (FieldMatters)] (https://field-matters.github.io/)
-Location : to be defined. 
-- [Michael Hahn] (mhahn@lst.uni-saarland.de)
-- [Ekaterina Vylomova] (evylomova@gmail.com)
+[FieldMatters--SIGTYP : The 7th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (SIGTYP)](https://sigtyp.github.io/) and the [Fourth Workshop on NLP Applications to Field Linguistics (FieldMatters)](https://field-matters.github.io/)
+Location: to be defined. 
+- [Michael Hahn](mhahn@lst.uni-saarland.de)
+- [Ekaterina Vylomova](evylomova@gmail.com)
