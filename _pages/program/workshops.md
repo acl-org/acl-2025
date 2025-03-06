@@ -71,7 +71,6 @@ Location: to be defined.
 - [Miwa Makoto](makoto-miwa@toyota-ti.ac.jp)
 - [Tsujii Junichi](j-tsujii@aist.go.jp)
 
-MANQUE HOMEPAGE
 [The Fourth Ukrainian Natural Language Processing Workshop (UNLP 2025)](https://unlp.org.ua/)
 Location: to be defined. 
 - [Romanyshyn Mariana](mariana.romanyshyn@grammarly.com)
