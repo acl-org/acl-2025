@@ -447,6 +447,14 @@ institution="FBK"
 email = ""
 %}
 
+{% include committee-member.html
+name="Yiquan Wu"
+picture="/assets/images/committee/Yiquan_Wu.png"
+site=""
+institution="Zhejiang University"
+email = ""
+%}
+
 <h2>Industry Track Chairs</h2>
 
 <!-- More information soon. -->
