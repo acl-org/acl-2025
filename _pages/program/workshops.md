@@ -134,7 +134,7 @@ Location: to be defined.
 - [Jekaterina Novikova]()
 - [Muhao Chen](muhchen@ucdavis.edu)
 
-**[Workshop Proposal: The 19th Linguistic Annotation Workshop (LAW XIX)](https://sigann.github.io/LAW-XIX-2025)**    
+**[The 19th Linguistic Annotation Workshop (LAW XIX)](https://sigann.github.io/LAW-XIX-2025)**    
 Location: to be defined. 
 - [Siyao Peng](siyaopeng@cis.lmu.de)
 - [Ines Rehbein](rehbein@uni-mannheim.de)
