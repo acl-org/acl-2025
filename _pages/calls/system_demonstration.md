@@ -44,6 +44,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”) Note that there is
 
 ## Submission Guidelines
 
+Paper submission is electronic, using the OpenReview conference management system.       
 - **Submission Website**: [https://openreview.net/group?id=aclweb.org/ACL/2025/Demo](https://openreview.net/group?id=aclweb.org/ACL/2025/Demo)
 
 Submissions must include the following:    
@@ -62,8 +63,6 @@ A paper submitted to accompany a demonstration should outline the design of the 
 - How was the system evaluated? Were user studies/human evaluation experiments conducted?     
 
 Note that this year, submissions that do not report any form of evaluation may be desk rejected.
-
-Paper submission is electronic, using the OpenReview conference management system. A link to the submission site will be added here at least 2 weeks before the deadline.      
 
 Submissions can contain up to 6 pages (longer submissions will be desk rejected), plus unlimited extra space for an optional ethics/broader impact statement and also unlimited space for references. Appendices are allowed but are limited to a maximum of 2 pages (note the difference to main track papers). Accepted papers will be given one additional page of content, so that reviewers’ comments can be taken into account.     
 
