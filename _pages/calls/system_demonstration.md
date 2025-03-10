@@ -44,6 +44,8 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”) Note that there is
 
 ## Submission Guidelines
 
+- **Submission Website**: [https://openreview.net/group?id=aclweb.org/ACL/2025/Demo](https://openreview.net/group?id=aclweb.org/ACL/2025/Demo)
+
 Submissions must include the following:    
 
 ### A Paper
