@@ -43,7 +43,7 @@ sidebar:
 
 {% include committee-member.html
    name="Arkaitz Zubiaga"
-   picture="/assets/images/committee/program_chairs/person.png"
+   picture="/assets/images/committee/program_chairs/Arkaitz_Zubiaga.png"
    institution="Queen Mary University of London"
 %}
 
@@ -160,7 +160,7 @@ sidebar:
 
 {% include committee-member.html
    name="Ignacio Iacobacci"
-   picture="/assets/images/committee/program_chairs/ignacio_iacobacci.jpg"
+   picture="/assets/images/committee/program_chairs/Ignacio_Iacobacci.png"
    institution="Elm Company"
 %}
 
@@ -250,7 +250,7 @@ sidebar:
 
 {% include committee-member.html
    name="Ondřej Dušek"
-   picture="/assets/images/committee/program_chairs/person.png"
+   picture="/assets/images/committee/program_chairs/Ondrej_Dusek.png"
    institution="Charles University, Prague"
 %}
 
@@ -475,7 +475,7 @@ sidebar:
 
 {% include committee-member.html
    name="Hao Peng"
-   picture="/assets/images/committee/program_chairs/hao_peng.jpg"
+   picture="/assets/images/committee/program_chairs/Peng_Hao.png"
    institution="University of Illinois Urbana-Champaign"
 %}
 
@@ -727,7 +727,7 @@ sidebar:
 
 {% include committee-member.html
    name="Yvette Graham"
-   picture="/assets/images/committee/program_chairs/yvette_graham.jpg"
+   picture="/assets/images/committee/program_chairs/Yvette_Graham.png"
    institution="Trinity College Dublin"
 %}
 
@@ -910,7 +910,7 @@ sidebar:
 
 {% include committee-member.html
    name="Raj Dabre"
-   picture="/assets/images/committee/program_chairs/raj_dabre.jpg"
+   picture="/assets/images/committee/program_chairs/Raj_Dabre.png"
    institution="National Institute of Information and Communications Technology"
 %}
 
@@ -1039,7 +1039,7 @@ sidebar:
 
 {% include committee-member.html
    name="Trang Tran"
-   picture="/assets/images/committee/program_chairs/person.png"
+   picture="/assets/images/committee/program_chairs/Trang_Tran.png"
    institution="USC Institute for Creative Technologies"
 %}
 
