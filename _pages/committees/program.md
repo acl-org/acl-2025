@@ -367,7 +367,7 @@ sidebar:
 
 {% include committee-member.html
    name="Gabriella Pasi"
-   picture="/assets/images/committee/program_chairs/person.png"
+   picture="/assets/images/committee/program_chairs/Gabriella_Pasi.jpg"
    institution="University of Milano-Bicocca"
 %}
 
