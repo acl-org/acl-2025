@@ -161,7 +161,7 @@ sidebar:
 {% include committee-member.html
    name="Ignacio Iacobacci"
    picture="/assets/images/committee/program_chairs/ignacio_iacobacci.jpg"
-   institution="Huawei"
+   institution="Elm Company"
 %}
 
 {% include committee-member.html
@@ -239,7 +239,7 @@ sidebar:
 {% include committee-member.html
    name="Shafiq Joty"
    picture="/assets/images/committee/program_chairs/shafiq_joty.jpg"
-   institution="Salesforce Research"
+   institution="Salesforce Research and NTU"
 %}
 
 {% include committee-member.html
@@ -284,7 +284,7 @@ sidebar:
 {% include committee-member.html
    name="Verena Rieser"
    picture="/assets/images/committee/program_chairs/verena_rieser.jpg"
-   institution="Google"
+   institution="Google DeepMind"
 %}
 
 {% include committee-member.html
@@ -399,9 +399,9 @@ sidebar:
 %}
 
 {% include committee-member.html
-   name="Zhijing JIN"
+   name="Zhijing Jin"
    picture="/assets/images/committee/program_chairs/zhijing_jin.jpg"
-   institution="Max Planck Institute"
+   institution="Max Planck Institute & University of Toronto"
 %}
 
 {% include committee-member.html
@@ -476,7 +476,7 @@ sidebar:
 {% include committee-member.html
    name="Hao Peng"
    picture="/assets/images/committee/program_chairs/hao_peng.jpg"
-   institution="Beihang University"
+   institution="University of Illinois Urbana-Champaign"
 %}
 
 {% include committee-member.html
@@ -677,7 +677,7 @@ sidebar:
 {% include committee-member.html
    name="Chunyuan Li"
    picture="/assets/images/committee/program_chairs/chunyuan_li.jpg"
-   institution="TikTok"
+   institution="xAI"
 %}
 
 {% include committee-member.html
@@ -860,7 +860,7 @@ sidebar:
 {% include committee-member.html
    name="Peng Qi"
    picture="/assets/images/committee/program_chairs/peng_qi.jpg"
-   institution="Amazon Web Services (AWS)"
+   institution="Orby AI"
 %}
 
 {% include committee-member.html
@@ -1040,7 +1040,7 @@ sidebar:
 {% include committee-member.html
    name="Trang Tran"
    picture="/assets/images/committee/program_chairs/person.png"
-   institution="Reality Defender"
+   institution="USC Institute for Creative Technologies"
 %}
 
 {% include committee-member.html
