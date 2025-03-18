@@ -11,7 +11,7 @@ sidebar:
 
 **July 31 and August 1 (2 days workshops)**
 
-**July 31**
+## July 31
 
 **[The International Conference on Spoken Language Translation (IWSLT 2025)](https://iwslt.org/2025/)**    
 Location: Hall N2 
@@ -201,7 +201,7 @@ Location: Hall C.
 - [Perlitz Yotam](y.perlitz@ibm.com)
 - [Tafjord Oyvind](oyvindt@allenai.org)
 
-**August 1st**
+## August 1st
 
 **[BioNLP 2025 and Shared Tasks (BioNLP-ST 2025)](https://aclweb.org/aclwiki/BioNLP_Workshop)**    
 Location: Room 2.15. 
