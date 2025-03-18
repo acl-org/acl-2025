@@ -13,7 +13,7 @@ toc_sticky: True
 
 **July 31 and August 1 (2 days workshops)**
 
-## July 31
+## July 31st
 
 **[The International Conference on Spoken Language Translation (IWSLT 2025)](https://iwslt.org/2025/)**    
 Location: Hall N2 
