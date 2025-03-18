@@ -11,9 +11,7 @@ toc_sticky: True
 
 ## Workshops Program
 
-**July 31 and August 1 (2 days workshops)**
-
-## July 31st
+## July 31st and August 1st (2-days workshops)
 
 **[The International Conference on Spoken Language Translation (IWSLT 2025)](https://iwslt.org/2025/)**    
 Location: Hall N2 
@@ -51,6 +49,7 @@ Location: Hall M2.
 - [Marcos Zampieri](mzampier@gmu.edu), George Mason University, USA
 - [Debanjan Ghosh](debanjan@gmail.com), Educational Testing Service
 
+## July 31st
 
 **[2nd Workshop on Natural Language Processing meets Climate Change](https://nlp4climate.github.io)**    
 Location: Room 2.17. 
