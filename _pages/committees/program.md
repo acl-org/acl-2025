@@ -538,7 +538,7 @@ sidebar:
 
 {% include committee-member.html
    name="Najoung Kim"
-   picture="/assets/images/committee/program_chairs/najoung_kim.jpg"
+   picture="/assets/images/committee/program_chairs/person.png"
    institution="Boston University"
 %}
 
