@@ -526,7 +526,7 @@ sidebar:
 
 {% include committee-member.html
    name="Vivi Nastase"
-   picture="/assets/images/committee/program_chairs/vivi_nastase.jpg"
+   picture="/assets/images/committee/program_chairs/person.png"
    institution="University of Geneva"
 %}
 
@@ -769,7 +769,7 @@ sidebar:
 
 {% include committee-member.html
    name="Zhiyuan Liu"
-   picture="/assets/images/committee/program_chairs/zhiyuan_liu.jpg"
+   picture="/assets/images/committee/program_chairs/person.png"
    institution="Tsinghua University"
 %}
 
@@ -818,7 +818,7 @@ sidebar:
 {% include committee-member.html
    name="Andrew Yates"
    picture="/assets/images/committee/program_chairs/andrew_yates.jpg"
-   institution="University of Amsterdam"
+   institution="Johns Hopkins University"
 %}
 
 {% include committee-member.html
@@ -916,7 +916,7 @@ sidebar:
 
 {% include committee-member.html
    name="Simone Paolo Ponzetto"
-   picture="/assets/images/committee/program_chairs/simone_paolo_ponzetto.jpg"
+   picture="/assets/images/committee/program_chairs/person.png"
    institution="Manheim University"
 %}
 
