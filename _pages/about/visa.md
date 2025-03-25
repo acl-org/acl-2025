@@ -9,18 +9,25 @@ toc: True
 toc_sticky: True
 ---
 
+
+## Who does NOT need a visa?
+
+Citizens of all countries of the European Union, Switzerland, Croatia, Israel, Japan, Australia, New Zealand, most of the countries of North and South America, members of the Schengen treaty and some other countries do not need a visa.
+
+Simply a valid passport is required to enter Austria. In case of doubt please contact the Austrian Consulate or Embassy well in advance before departure.
+
+Current member countries of the Schengen treaty are:
+
+Austria, Belgium, Bulgaria**, Croatia, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland*, Italy, Latvia, Liechtenstein*, Lithuania, Luxembourg, Malta, Netherlands, Norway*, Poland, Portugal, Romania**, Slovakia, Slovenia, Spain, Sweden, and Switzerland*.
+
+* non-EU members.
+** Schengen Air & Sea agreement
+
 ## Who needs a visa?
 
-Based on the [visa information](https://www.bmeia.gv.at/en/travel-stay/entrance-and-residence-in-austria/visa) from Ministry Republic of Austria:
+Travelers from other regions kindly consult the respective Austrian or Schengen-Partner representations regarding the current status. Travelers possessing a valid visa can travel freely within the Schengen zone for three months, enabled by a Schengen visa issued by any Schengen-treaty member country.
 
-> Citizens of EU member states, European Economic Area (EEA) and Switzerland do not need a visa for entering the Republic of Austria.
-
-> Nationals of other countries might require a visa in order to enter the Schengen Area or the Austrian territory.
-
-> Nationals of those states for which the visa requirement has been lifted by means of an EU regulation are entitled to visa-free entry to Austria for a maximum of 90 days per 180 days in case of no gainful employment.
-
-If you are unsure whether you require a visa or not, kindly check the information on the website of the [Federal Ministry of the Interior of Austria](https://www.bmi.gv.at/202/Fremdenpolizei_und_Grenzkontrolle/Visumpflichtige_Laender/start.aspx).
-
+Further information about visa regulations and Schengen visas can be found on the website of the [Federal Ministry for European and International Affairs of Austria](https://www.bmi.gv.at/202/Fremdenpolizei_und_Grenzkontrolle/Visumpflichtige_Laender/start.aspx).
 
 Kindly check the requirements applicable to your profile for issuing visa at the [Federal Ministry Republic of Austria](https://www.bmeia.gv.at/en/travel-stay/entrance-and-residence-in-austria/visa) under the tab "Requirements for issuing visa".
 
