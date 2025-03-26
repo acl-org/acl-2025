@@ -37,12 +37,12 @@ main:
   - title: "Venue"
     url: /venue/
 
+  - title: "Visa"
+    url: /visa/
+
   - title: "Blog"
     url: /blog/
 
-  - title: "Visa"
-    url: /visa/
-    
   #- title: "Reviewer"
   #  url: /not_available
 
