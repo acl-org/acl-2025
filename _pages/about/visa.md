@@ -1,10 +1,10 @@
 ---
 title: Visa
 layout: single
-excerpt: "ACL 2025 Venue"
-permalink: /venue/visa/
+excerpt: "ACL 2025 Visa"
+permalink: /visa/
 sidebar:
-  nav: "venue"
+  nav: "visa"
 toc: True
 toc_sticky: True
 ---
