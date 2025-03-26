@@ -39,7 +39,10 @@ main:
 
   - title: "Blog"
     url: /blog/
-  
+
+  - title: "Visa"
+    url: /visa/
+    
   #- title: "Reviewer"
   #  url: /not_available
 
@@ -166,10 +169,10 @@ venue:
     children:
       - title: "Venue"
         url: /venue/
-      - title: "Visa"
-        url: /venue/visa/
       - title: "Travel"
         url: /venue/travel/
+#      - title: "Visa"
+#        url: /venue/visa/
 #      - title: "Industry Track Papers"
 #        url: /calls/industry_track/
 #      - title: "Style Files and Formatting"
