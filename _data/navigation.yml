@@ -163,7 +163,7 @@ committees:
       #  url: /ethics/committee/
       #- title: "Diversity & Inclusion Committee"
       #  url: /committees/diversity-inclusion/
-      -
+      
 venue:
   - title: "Information for"
     children:
@@ -179,3 +179,9 @@ venue:
 #        url: /calls/style-and-formatting/
 #      - title: "Volunteers"
 #        url: /calls/volunteers/
+
+visa:
+  - title: "Information for"
+    children:
+      - title: "Visa"
+        url: /visa/
