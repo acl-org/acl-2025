@@ -24,7 +24,7 @@ color:#CCCCCC
             {%- else -%}
               {%- assign url = link.url | relative_url -%}
             {%- endif -%}
-            {%- if link.title contains 'Blog' or link.title contains 'Registration' or link.title contains 'Proceedings' or link.title contains 'Program' or link.title contains 'Committees' or link.title contains 'Venue' or link.title contains 'Volunteers' or link.title contains 'FAQ' or link.title contains 'Calls' or link.title contains 'Ethics' or  link.title contains 'Participants Info' or link.title contains 'Sponsors' or link.title contains 'Contact'-%}
+            {%- if link.title contains 'Blog' or link.title contains 'Visa' or link.title contains 'Registration' or link.title contains 'Proceedings' or link.title contains 'Program' or link.title contains 'Committees' or link.title contains 'Venue' or link.title contains 'Volunteers' or link.title contains 'FAQ' or link.title contains 'Calls' or link.title contains 'Ethics' or  link.title contains 'Participants Info' or link.title contains 'Sponsors' or link.title contains 'Contact'-%}
               <li class="masthead__menu-item">
                 <a href="{{ url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
               </li>
