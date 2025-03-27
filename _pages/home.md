@@ -104,6 +104,7 @@ The [**Conference Program Schedule**](/program/) is now online.
 ## Important Dates
 
 Submission deadline (all papers are submitted to ARR) | February 15, 2025 |
+Author response period | March 27 to April 3, 2025 |
 ARR reviews & meta-reviews available to authors of the February cycle | April 15, 2025 |
 Commitment deadline for ACL 2025 | April 20, 2025 |
 Notification of acceptance | May 15, 2025 |
