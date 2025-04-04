@@ -43,7 +43,7 @@ The fee is not required in some cases, you can find more details at the [Federal
 
 ### Invitation Letter
 
-Based on the official information we received from the Vienna Convention Bureau, ACL 2025 is only allowed to provide an invitation letter three cases: 1) to members of accepted workshops and tutorials, 2) authors of accepted papers, and 3) registered attendees in ACL 2025. 
+Based on the official information we received from the Vienna Convention Bureau, ACL 2025 is only allowed to provide an invitation letter in three cases: 1) to members of accepted workshops and tutorials, 2) authors of accepted papers, and 3) registered attendees in ACL 2025. 
 
 We understand that there might be significant delays to acquiring a visa appointment in Austrian embassies, and for this reason we are in coordination with the Vienna Convention Bureau to assist all international ACL 2025 attendees to ensure a visa appointment on time. It is important to submit your personal information by May 18th AoE and wait to receive the ACL 2025 inviation letter **before** submitting your visa documents to the Austrian embassy for an appointment. 
 
