@@ -28,7 +28,7 @@ Please apply for BoF session/Affinity Group meeting organization before May 25, 
 
 The application includes the following information:
 Name of your BoF/Affinity Group
-Brief description of the session or meeting (we may post this in the conference handbook and/or conference app to gather participants’ interests.)
+Brief description of the session or meeting (we may post this in the conference handbook and/or conference app to gather participants' interests.)
 Expected number of participants
 In-person or hybrid format
 Preferred day and time
@@ -44,6 +44,7 @@ Most events will be scheduled in 90-minute time slots during oral/poster session
 All deadlines are 11:59 pm UTC -12h (“Anywhere on Earth”, AoE).
 
 **Application Deadline:** May 25, 2025, 11:59pm (AoE)
+
 **Notification Deadline:** June 3, 2025, 11:59pm (AoE)
 
 # Notification of acceptance
