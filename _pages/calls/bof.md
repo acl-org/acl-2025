@@ -2,13 +2,15 @@
 title: Call for Birds-of-a-Feather and Affinity Group Events
 layout: single
 author: diversity-chairs
-author_profile: True
+excerpt: "ACL 2025 Birds-of-a-Feather and Affinity Group Events."
 permalink: /calls/bof_affinity_events/
 sidebar:
-    nav: "calls"
+  nav: "calls"
 toc: True
 toc_sticky: True
---
+---
+
+
 
 Applicants should fill out the [BoF/Affinity Group Meetings application form](https://forms.office.com/r/t43zHEJTH0) before May 25, 2025 11:59pm (AoE). Please read the information carefully to help you fill in the form.
 
