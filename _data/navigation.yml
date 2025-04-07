@@ -95,6 +95,8 @@ calls:
         url: /calls/tutorials/
       - title: "Industry Track Papers"
         url: /calls/industry_track/
+      - title: "Birds-of-a-Feather and Affinity Group Events"
+        url: /calls/bof_affinity_events/
 #      - title: "Style Files and Formatting"
 #        url: /calls/style-and-formatting/
 #      - title: "Volunteers"
