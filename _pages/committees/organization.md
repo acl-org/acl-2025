@@ -257,6 +257,8 @@ email =  ""
 
 <h2>Diversity and Inclusion Chairs</h2>
 
+Contact: acl2025diversity@googlegroups.com
+
 <!-- More information soon. -->
 
 {% include committee-member.html
