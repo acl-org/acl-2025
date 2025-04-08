@@ -27,11 +27,11 @@ Please apply for BoF session/Affinity Group meeting organization before May 25, 
 # Expressions of Interest
 
 The application includes the following information:
-Name of your BoF/Affinity Group
-Brief description of the session or meeting (we may post this in the conference handbook and/or conference app to gather participants' interests.)
-Expected number of participants
-In-person or hybrid format
-Preferred day and time
+- Name of your BoF/Affinity Group
+- Brief description of the session or meeting (we may post this in the conference handbook and/or conference app to gather participants' interests.)
+- Expected number of participants
+- In-person or hybrid format
+- Preferred day and time
 
 # Arrangement
 
