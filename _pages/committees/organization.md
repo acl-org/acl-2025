@@ -434,14 +434,6 @@ email =  ""
 <!-- More information soon. -->
 
 {% include committee-member.html
-name="Wenjie Li"
-picture="/assets/images/committee/Wenjie_Li.png"
-site=""
-institution="Polytechnic University of Hong Kong"
-email = ""
-%}
-
-{% include committee-member.html
 name="Sara Tonelli"
 picture="/assets/images/committee/sara_tonelli.png"
 site=""
