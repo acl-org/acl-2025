@@ -34,7 +34,7 @@ Papers submitted to ACL 2025, but not selected for the main conference, will als
 
 ## Paper Submission Information
 
-Papers may be submitted to the ARR 2025 February cycle. Papers that have received reviews and a meta-review from ARR (whether from the ARR 2025 February cycle or an earlier ARR cycle) may be committed to ACL 2025 via the conference commitment site (TBA).
+Papers may be submitted to the ARR 2025 February cycle. Papers that have received reviews and a meta-review from ARR (whether from the ARR 2025 February cycle or an earlier ARR cycle) may be committed to ACL 2025 via the [conference commitment site](https://openreview.net/group?id=aclweb.org/ACL/2025/Conference).
 
 ## Submission Topics
 
