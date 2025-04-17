@@ -17,6 +17,7 @@ toc_sticky: True
 - **Location**: Vienna, Austria
 - **Special Theme**: “Generalization of NLP Models”
 - **Submission Website**: [https://openreview.net/group?id=aclweb.org/ACL/ARR/2025/February](https://openreview.net/group?id=aclweb.org/ACL/ARR/2025/February)
+- **Commitment website**: [https://openreview.net/group?id=aclweb.org/ACL/2025/Conference](https://openreview.net/group?id=aclweb.org/ACL/2025/Conference)
 
 ## Contact
 - **General Chair**: [Roberto Navigli](https://www.diag.uniroma1.it/navigli/)
