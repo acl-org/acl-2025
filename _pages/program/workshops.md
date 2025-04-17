@@ -237,12 +237,15 @@ Location: Room 1.61-62.
 - [Zhang Meishan](mason.zms@gmail.com)
 - [Zhang Yue](yue.zhang@wias.org.cn)
 
-**[MAGMaR: Multimodal Augmented Generation via MultimodAl Retrieval]()**    
+**[MAGMaR: Multimodal Augmented Generation via MultimodAl Retrieval](https://nlp.jhu.edu/magmar/)**    
 Location: Room 2.44. 
-- [Kriz Reno](rkriz1@jh.eud)
-- [Murray Kenton](kenton@jhu.edu)
-- [Sanders Kate](ksande25@jhu.edu)
-
+- [Reno Kriz](rkriz1@jhu.edu)
+- [Kenton Murray](kenton@jhu.edu)
+- [Eugene Yang](eugene.yang@jhu.edu)
+- [Francis Ferraro](ferraro@umbc.edu)
+- [Kate Sanders](ksande25@jhu.edu)
+- [Cameron Carpenter](ccarpe18@jhu.edu)
+- [Benjamin Van Durme](vandurme@jhu.edu)
 
 **[The Second Workshop on Analogical Abstraction in Cognition, Perception, and Language (Analogy-ANGLE II)](https://analogy-angle.github.io/)**    
 Location: Room 1.34. 
