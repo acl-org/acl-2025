@@ -523,4 +523,30 @@ email = ""
 %}
 
 
+<h2>ARR Editors in Chief</h2>
 
+<!-- More information soon. -->
+
+{% include committee-member.html
+name="Jun Suzuki"
+picture="/assets/images/committee/person.png"
+site=""
+institution="Tohoku University"
+email = ""
+%}
+
+{% include committee-member.html
+name="Jing Jiang"
+picture="/assets/images/committee/Jing_Jiang.png"
+site=""
+institution="Australian National University"
+email = ""
+%}
+
+{% include committee-member.html
+name="Xiaodan Zhu"
+picture="/assets/images/committee/Xiaodan_Zhu.png"
+site=""
+institution="Queen's University"
+email = ""
+%}
