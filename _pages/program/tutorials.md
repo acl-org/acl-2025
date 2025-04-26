@@ -27,7 +27,7 @@ table th:nth-of-type(3) {
 }
 </style>
 
-| | <span>July 27, 2025</span> |
+| <span>July 27, 2025</span> | | |
 | -- | -- | -- |
 | Time | Location | Session Title |
 | 09:00 – 12:30 | Hall B | Inverse Reinforcement Learning Meets Large Language Model Alignment |
