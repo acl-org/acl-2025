@@ -17,19 +17,13 @@ table {
     font-size: small;
 }
 table th:first-of-type {
-    width: 5%;
+    width: 20%;
 }
 table th:nth-of-type(2) {
-    width: 40%;
+    width: 20%;
 }
 table th:nth-of-type(3) {
-    width: 37%;
-}
-table th:nth-of-type(4) {
-    width: 8%;
-}
-table th:nth-of-type(5) {
-    width: 10%;
+    width: 60%;
 }
 </style>
 
