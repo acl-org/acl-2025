@@ -1,4 +1,15 @@
-﻿# Student Volunteer Program
+---
+title: Volunteers
+layout: single
+excerpt: "ACL 2025 Call for Volunteers."
+permalink: /calls/volunteers/
+sidebar:
+  nav: "calls"
+toc: True
+toc_sticky: True
+---
+
+ # Student Volunteer Program
 
 
 A limited number of student volunteers are needed for the success of ACL 2025. Both online and in-person event volunteers are needed.
