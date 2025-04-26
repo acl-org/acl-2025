@@ -41,17 +41,17 @@ The deadline to sponsor **ACL 2025 is Tuesday, June 10, 2025.**
     </a>
     <a href="https://machinelearning.apple.com/" title="Apple">
       <div class="dummy-padding"></div>
-        <img src="/assets/images/sponsors/apple.ai" alt="Apple">
+        <img src="/assets/images/sponsors/apple.jpeg" alt="Apple">
     </a>
     <a href="https://www.bloomberg.com/company/values/tech-at-bloomberg/" title="Bloomberg">
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/bloomberg.png" alt="Bloomberg">
     </a>
-    Linkedin
     <a href="https://www.mi.com/global/" title="Xiaomi">
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/xiaomi.png" alt="Xiaomi">
     </a>
+	Linkedin
 </figure>
 
 ## Platinum
@@ -70,7 +70,7 @@ The deadline to sponsor **ACL 2025 is Tuesday, June 10, 2025.**
     </a>
     <a href="https://toloka.ai/" title="Toloka AI">
       <div class="dummy-padding"></div>
-        <img src="/assets/images/sponsors/toloka.pdf" alt="Toloka AI">
+        <img src="/assets/images/sponsors/toloka.jpg" alt="Toloka AI">
     </a>
     <a href="https://home.baidu.com/home/index" title="Baidu">
       <div class="dummy-padding"></div>
@@ -111,7 +111,7 @@ None at this time
     </a>
     <a href="https://neclab.eu/" title="NEC">
       <div class="dummy-padding"></div>
-        <img src="/assets/images/sponsors/nec.pdf" alt="NEC">
+        <img src="/assets/images/sponsors/nec.jpg" alt="NEC">
     </a>
     <a href="https://defined.ai/" title="Defined AI">
       <div class="dummy-padding"></div>
