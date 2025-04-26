@@ -21,6 +21,7 @@ More information will be announced soon.
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| Apr 26, 2025 | [Call for Volunteers](https://2025.aclweb.org/calls/volunteers/) is out
 | Mar 31, 2025 | [Visa information](https://2025.aclweb.org/visa/) has been updated
 | Mar 16, 2025 | [Call for Student Research Workshop](https://2025.aclweb.org/calls/student_research_workshop/) is updated
 | Feb 18, 2025 | The list of [ACL tutorials](https://2025.aclweb.org/program/tutorials/) is out
