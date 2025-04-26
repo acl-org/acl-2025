@@ -171,8 +171,8 @@ venue:
     children:
       - title: "Venue"
         url: /venue/
-      - title: "Travel"
-        url: /venue/travel/
+#      - title: "Travel"
+#        url: /venue/travel/
 #      - title: "Visa"
 #        url: /venue/visa/
 #      - title: "Industry Track Papers"
