@@ -166,13 +166,13 @@ committees:
       #- title: "Diversity & Inclusion Committee"
       #  url: /committees/diversity-inclusion/
       
-venue:
-  - title: "Information for"
+participants:
+  - title: "Participants Info"
     children:
-      - title: "Venue"
-        url: /venue/
-      - title: "Travel"
-        url: /venue/travel/
+      - title: "Participants"
+        url: /participants/
+#      - title: "Travel"
+#        url: /venue/travel/
 #      - title: "Visa"
 #        url: /venue/visa/
 #      - title: "Industry Track Papers"
