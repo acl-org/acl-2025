@@ -9,7 +9,7 @@ toc: True
 toc_sticky: True
 ---
 
-##Tutorials Schedule 
+## Tutorials Schedule 
 
 <style>
 table {
@@ -46,7 +46,7 @@ table th:nth-of-type(5) {
 | 14:00 – 17:30 | Hall C | Guardrails and Security for LLMs: Safe, Secure, and Controllable Steering of LLM Applications |
 
 
-##Tutorials Description
+## Tutorials Description
 
 **Navigating Ethical Challenges in NLP: Hands-on strategies for students and researchers**<br>
   <i>Luciana Benotti, Fanny Ducel, Karen Fort, Guido Ivetta, Zhijing Jin, Min-Yen Kan, Seunghun Lee, Margot Mieskes, Minzhi Li, and Adriana Pagano</i>
