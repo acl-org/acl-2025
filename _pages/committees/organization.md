@@ -215,6 +215,14 @@ institution="Central South University"
 email =  ""
 %}
 
+{% include committee-member.html
+name="Zhenghao Liu"
+picture="/assets/images/committee/Zhenghao_Liu.png"
+site=""
+institution="Northeastern University"
+email =  ""
+%}
+
 <h2>Handbook Chairs</h2>
 
 <!-- More information soon. -->
