@@ -58,7 +58,7 @@ The deadline to sponsor **ACL 2025 is Tuesday, June 10, 2025.**
 <figure class="sponsors-list third">
     <a href="https://www.amazon.science/" title="Amazon">
       <div class="dummy-padding"></div>
-        <img src="/assets/images/sponsors/amazon.png" alt="Amazon">
+        <img src="/assets/images/sponsors/amazon_logo_RGB.png" alt="Amazon">
     </a>
     <a href="https://research.ibm.com/" title="IBM Research">
       <div class="dummy-padding"></div>
