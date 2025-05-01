@@ -101,6 +101,10 @@ calls:
 #        url: /calls/style-and-formatting/
       - title: "Volunteers"
         url: /calls/volunteers/
+      - title: "Diversity and Inclusion Subsidies"
+        url: /calls/subsidies/        
+      - title: "Virtual Registration Subsidies"
+        url: /calls/virtual_subsidies/
 
 
   #- title: Submission Material
