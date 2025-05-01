@@ -537,7 +537,7 @@ email = ""
 
 {% include committee-member.html
 name="Jun Suzuki"
-picture="/assets/images/committee/person.png"
+picture="/assets/images/committee/jun_suzuki.jpg"
 site=""
 institution="Tohoku University"
 email = ""
