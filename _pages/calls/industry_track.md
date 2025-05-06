@@ -59,7 +59,7 @@ Submissions must clearly identify one of the following three areas they fall int
 
 Paper submission deadline: 21 March 2025     
 
-Notification of acceptance: 07 May 2025     
+Notification of acceptance: 09 May 2025     
 
 Camera-ready version of papers due: 23 May 2025    
 
