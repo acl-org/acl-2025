@@ -142,9 +142,17 @@ calls:
     #  - title: "Reviewing Advice"
     #    url: /reviewer/advice/
 
-#participants:
+participants:
+  - title: "Venue"
+    children:
+      - title: "Venue"
+        url: /participants/venue/
+      - title: "Visa"
+        url: /participants/visa/
+      - title: "Travel"
+        url: /participants/travel/
 #  - title: "Information for Participants"
-#    children:
+  #  children:
 #      - title: "Anti-harassment"
 #        url: /participants/anti_harassment/
 #      - title: "COVID-19 Safety at EMNLP 2022"
