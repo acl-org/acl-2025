@@ -112,9 +112,9 @@ Exceptions: Cancellation due to governmental travel restrictions, failure to obt
 
 ## Code of Ethics Policy
 
-“ACL adopts the ACM Code of Ethics (https://www.acm.org/code-of-ethics) in the version adopted June 22nd, 2018, by the ACM Council. In its application to ACL, it is to be read in the contextually appropriate interpretation, e.g., ““ACM member”” is to be read as ““ACL member””. Sec 4.2 should be read as follows:
+ACL adopts the ACM Code of Ethics (https://www.acm.org/code-of-ethics) in the version adopted June 22nd, 2018, by the ACM Council. In its application to ACL, it is to be read in the contextually appropriate interpretation, e.g., “ACM member” is to be read as “ACL member”. Sec 4.2 should be read as follows:
 
-"”4.2 Treat violations of the Code as inconsistent with membership in the ACL. Each ACL member should encourage and support adherence by all members of the CL/NLP community regardless of ACL membership. ACL members who recognize a breach of the Code should consider reporting the violation to the ACL, which may result in remedial action.”””
+“4.2 Treat violations of the Code as inconsistent with membership in the ACL. Each ACL member should encourage and support adherence by all members of the CL/NLP community regardless of ACL membership. ACL members who recognize a breach of the Code should consider reporting the violation to the ACL, which may result in remedial action.”
 
 “The open exchange of ideas, the freedom of thought and expression, and respectful scientific debate are central to the aims and goals of the ACL. These require a community and an environment that recognizes the inherent worth of every person and group, that fosters dignity, understanding, and mutual respect, and embraces diversity. For these reasons, ACL is dedicated to providing a harassment-free experience for all the members, as well as participants at our events and in our programs.
 
@@ -124,7 +124,7 @@ It is the responsibility of the community as a whole to promote an inclusive and
 
 ## Anti-Harassment Policy
 
-“ACL 2025 adheres to the ACL Anti-Harassment Policy. Any participant who experiences harassment or hostile behavior may contact any current member of the ACL Professional Conduct Committee or Jennifer Rachford, who is usually available at the registration desk of the conference. Please be assured that if you approach us, your concerns will be kept in strict confidence, and we will consult with you on any actions taken.
+ACL 2025 adheres to the ACL Anti-Harassment Policy. Any participant who experiences harassment or hostile behavior may contact any current member of the ACL Professional Conduct Committee or Jennifer Rachford, who is usually available at the registration desk of the conference. Please be assured that if you approach us, your concerns will be kept in strict confidence, and we will consult with you on any actions taken.
 
 The open exchange of ideas, the freedom of thought and expression, and respectful scientific debate are central to the aims and goals of a ACL conference. These require a community and an environment that recognizes the inherent worth of every person and group, that fosters dignity, understanding, and mutual respect, and that embraces diversity. For these reasons, ACL is dedicated to providing a harassment-free experience for participants at our events and in our programs.
 
@@ -135,9 +135,9 @@ The ACL board members are listed at: [https://www.aclweb.org/portal/about](https
 The full policy and its implementation is defined at: 
 [https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy)
 
-Program or Paper questions can be directed to [acl2025pcs@gmail.com](acl2025pcs@gmail.com) 
+Program or Paper questions can be directed to [acl2025pcs@gmail.com](mailto:acl2025pcs@gmail.com) 
 
-Questions regarding registration or payment can be directed to [ACLInfo@yesevents.com](ACLInfo@yesevents.com).
+Questions regarding registration or payment can be directed to [ACLInfo@yesevents.com](mailto:ACLInfo@yesevents.com).
 
 Please also refer to the ACL 25 website: [https://2025.aclweb.org/](https://2025.aclweb.org/)
 
