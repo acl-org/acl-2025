@@ -51,7 +51,19 @@ The deadline to sponsor **ACL 2025 is Tuesday, June 10, 2025.**
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/xiaomi.png" alt="Xiaomi">
     </a>
-	Linkedin
+    <a href="https://engineering.linkedin.com/" title="Linkedin">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/LinkedIn.png" alt="Linkedin">
+    </a>
+	<a href="https://www.antgroup.com/en" title="Ant Group">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/ANT_GROUP.png" alt="Ant Group">
+    </a>
+    <a href="https://research.google/" title="Google">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/Google.png" alt="Google">
+    </a>	
+	
 </figure>
 
 ## Platinum
@@ -80,12 +92,16 @@ The deadline to sponsor **ACL 2025 is Tuesday, June 10, 2025.**
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/snowflake.png" alt="Snowflake">
     </a>
+    <a href="https://www.oracle.com/careers/opportunities/oracle-cloud-infrastructure/?source=:ex:sn:::::24EMNLP&SC=:ex:sn:::::24EMNLP&pcode=" title="Oracle">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/Oracle.png" alt="Oracle">
+    </a>
+    <a href="https://www.alibabacloud.com/en?_p_lc=1&spm=a3c0i.14327653.6791778070.1.4dec188fn0rvGW" title="Alibaba">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/Alibaba.png" alt="Alibaba">
+    </a>	
 </figure>
 
-
-## Gold
-
-None at this time
 
 ## Silver
 <figure class="sponsors-list third">
@@ -95,7 +111,7 @@ None at this time
     </a>
     <a href="https://research.adobe.com/" title="Adobe">
       <div class="dummy-padding"></div>
-        <img src="/assets/images/sponsors/adobe.png" alt="Adobe">
+        <img src="/assets/images/sponsors/adobe.jpg" alt="Adobe">
     </a>	
 </figure>
 
@@ -117,10 +133,16 @@ None at this time
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/definedai.png" alt="Defined AI">
     </a>
+    <a href="https://www.jpmorgan.com/technology/applied-ai-and-ml/machine-learning" title="JP Morgan Chase">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/JPMC.pdf" alt="JP Morgan Chase">
+    </a>	
 </figure>
 
 ## Diversity & Inclusion
-
-None at this time
-
-
+<figure class="sponsors-list third">
+    <a href="https://machinelearning.apple.com/" title="Apple">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/apple.jpeg" alt="Apple">
+    </a>
+</figure>
