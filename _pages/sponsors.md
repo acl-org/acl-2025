@@ -135,7 +135,7 @@ The deadline to sponsor **ACL 2025 is Tuesday, June 10, 2025.**
     </a>
     <a href="https://www.jpmorgan.com/technology/applied-ai-and-ml/machine-learning" title="JP Morgan Chase">
       <div class="dummy-padding"></div>
-        <img src="/assets/images/sponsors/JPMC.eps" alt="JP Morgan Chase">
+        <img src="/assets/images/sponsors/JPMC.jpg" alt="JP Morgan Chase">
     </a>	
 </figure>
 
