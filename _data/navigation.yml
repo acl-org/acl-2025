@@ -19,8 +19,8 @@ main:
   - title: "Program"
     url: /program/
 
-  #- title: "Registration"
-  #  url: /registration/
+  - title: "Registration"
+    url: /registration/
 
   - title: "Committees"
     url: /organization
