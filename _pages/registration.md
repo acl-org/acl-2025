@@ -98,16 +98,9 @@ The Full Conference **Virtual Registration** Fee Includes:
 - Attendance to all recorded sessions on demand for at least one month following the meeting
 
 ### In-Person Registration Rates
-<style>
-  /* remove the default grey on all header cells */
-  table thead th {
-    background-color: transparent !important;
-  }
-</style>
+
 | **Start Date**                                                           | **May 19, 2025** | **July 3, 2025**  | **July 26, 2025** |
-| -------------------------------------------------------------------- | ------------ | ------------- | ------------- |
 | **End Date**                                                             | **7/2/2025 AOE** | **7/25/2025 CET** | **8/1/2025 CET**  |
-| -------------------------------------------------------------------- | ------------ | ------------- | ------------- |
 | **In-Person Registration Rates**                                         |              |               |               |
 | IP - Full Conference - Registering Paper Industrial/Non-Academic     | \$1,175.00   | \$1,325.00    | \$1,400.00    |
 | IP - Full Conference - Industrial/Non-Academic                       | \$975.00     | \$1,125.00    | \$1,200.00    |
