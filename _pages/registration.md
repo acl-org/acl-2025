@@ -98,7 +98,12 @@ The Full Conference **Virtual Registration** Fee Includes:
 - Attendance to all recorded sessions on demand for at least one month following the meeting
 
 ### In-Person Registration Rates
-
+<style>
+  /* remove the default grey on all header cells */
+  table thead th {
+    background-color: transparent !important;
+  }
+</style>
 | **Start Date**                                                           | **May 19, 2025** | **July 3, 2025**  | **July 26, 2025** |
 | -------------------------------------------------------------------- | ------------ | ------------- | ------------- |
 | **End Date**                                                             | **7/2/2025 AOE** | **7/25/2025 CET** | **8/1/2025 CET**  |
