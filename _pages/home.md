@@ -21,6 +21,7 @@ More information will be announced soon.
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| May 14, 2025 | [Registration page](https://2025.aclweb.org/registration/) is out
 | May 1, 2025 | [Call for Diversity and Inclusion Subsidies](https://2025.aclweb.org/calls/subsidies/) is out
 | May 1, 2025 | [Call for Virtual Registration Subsidies](https://2025.aclweb.org/calls/virtual_subsidies/) is out
 | Apr 26, 2025 | [Call for Volunteers](https://2025.aclweb.org/calls/volunteers/) is out
