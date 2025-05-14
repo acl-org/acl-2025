@@ -97,10 +97,11 @@ The Full Conference **Virtual Registration** Fee Includes:
 - Access to online networking opportunities
 - Attendance to all recorded sessions on demand for at least one month following the meeting
 
-| Start Date                                                           | May 19, 2025 | July 3, 2025  | July 26, 2025 |
+| **Start Date**                                                           | **May 19, 2025** | **July 3, 2025**  | **July 26, 2025** |
 | -------------------------------------------------------------------- | ------------ | ------------- | ------------- |
-| End Date                                                             | 7/2/2025 AOE | 7/25/2025 CET | 8/1/2025 CET  |
-| In-Person Registration Rates                                         |              |               |               |
+| **End Date**                                                             | **7/2/2025 AOE** | **7/25/2025 CET** | **8/1/2025 CET**  |
+| -------------------------------------------------------------------- | ------------ | ------------- | ------------- |
+| **In-Person Registration Rates**                                         |              |               |               |
 | IP - Full Conference - Registering Paper Industrial/Non-Academic     | \$1,175.00   | \$1,325.00    | \$1,400.00    |
 | IP - Full Conference - Industrial/Non-Academic                       | \$975.00     | \$1,125.00    | \$1,200.00    |
 | IP - Full Conference - Registering Paper Academic                    | \$875.00     | \$1,000.00    | \$1,100.00    |
@@ -124,9 +125,11 @@ The Full Conference **Virtual Registration** Fee Includes:
 | IP - Workshop & Tutorial - Student                                   | \$150.00     | \$200.00      | \$250.00      |
     
     
-| Start Date                                                           | May 19, 2025 | July 3, 2025  | July 26, 2025 |
-| End Date                                                             | 7/2/2025 AOE | 7/25/2025 CET | 8/1/2025 CET  |
-| Virtual Registration Rates                                           |              |               |               |
+| **Start Date**                                                      | **May 19, 2025** | **July 3, 2025**  | **July 26, 2025** |
+| -------------------------------------------------------------------- | ------------ | ------------- | ------------- |
+| **End Date**                                                         | **7/2/2025 AOE** | **7/25/2025 CET** | **8/1/2025 CET**  |
+| -------------------------------------------------------------------- | ------------ | ------------- | ------------- |
+| **Virtual Registration Rates**                                           |              |               |               |
 | V - Full Conference - Registering Paper Industrial/Non-Academic      | \$525.00     | \$650.00      | \$700.00      |
 | V - Full Conference - Industrial/Non-Academic                        | \$425.00     | \$550.00      | \$600.00      |
 | V - Full Conference - Registering Paper Academic                     | \$400.00     | \$500.00      | \$550.00      |
