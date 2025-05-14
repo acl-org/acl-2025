@@ -97,6 +97,60 @@ The Full Conference **Virtual Registration** Fee Includes:
 - Access to online networking opportunities
 - Attendance to all recorded sessions on demand for at least one month following the meeting
 
+| Start Date                                                           | May 19, 2025 | July 3, 2025  | July 26, 2025 |
+| -------------------------------------------------------------------- | ------------ | ------------- | ------------- |
+| End Date                                                             | 7/2/2025 AOE | 7/25/2025 CET | 8/1/2025 CET  |
+| In-Person Registration Rates                                         |              |               |               |
+| IP - Full Conference - Registering Paper Industrial/Non-Academic     | \$1,175.00   | \$1,325.00    | \$1,400.00    |
+| IP - Full Conference - Industrial/Non-Academic                       | \$975.00     | \$1,125.00    | \$1,200.00    |
+| IP - Full Conference - Registering Paper Academic                    | \$875.00     | \$1,000.00    | \$1,100.00    |
+| IP - Full Conference - Academic                                      | \$675.00     | \$800.00      | \$900.00      |
+| IP - Full Conference - Registering Paper Student                     | \$550.00     | \$625.00      | \$700.00      |
+| IP - Full Conference - Student                                       | \$350.00     | \$425.00      | \$500.00      |
+| IP - Workshop Only - Registering Paper Industrial/Non-Academic       | \$550.00     | \$600.00      | \$650.00      |
+| IP - Workshop Only - Industrial/Non-Academic                         | \$350.00     | \$400.00      | \$450.00      |
+| IP - Workshop Only - Registering Paper Academic                      | \$450.00     | \$500.00      | \$550.00      |
+| IP - Workshop Only - Academic                                        | \$250.00     | \$300.00      | \$350.00      |
+| IP - Workshop Only - Registering Paper Student                       | \$350.00     | \$400.00      | \$450.00      |
+| IP - Workshop Only - Student                                         | \$150.00     | \$200.00      | \$250.00      |
+| IP - Tutorial Only - Industrial/Non-Academic                         | \$175.00     | \$200.00      | \$225.00      |
+| IP - Tutorial Only - Academic                                        | \$100.00     | \$120.00      | \$140.00      |
+| IP - Tutorial Only - Student                                         | \$125.00     | \$150.00      | \$175.00      |
+| IP - Workshop & Tutorial - Registering Paper Industrial/Non-Academic | \$450.00     | \$500.00      | \$550.00      |
+| IP - Workshop & Tutorial - Industrial/Non-Academic                   | \$250.00     | \$300.00      | \$350.00      |
+| IP - Workshop & Tutorial - Registering Paper Academic                | \$350.00     | \$400.00      | \$450.00      |
+| IP - Workshop & Tutorial - Academic                                  | \$150.00     | \$200.00      | \$250.00      |
+| IP - Workshop & Tutorial - Registering Paper Student                 | \$350.00     | \$400.00      | \$450.00      |
+| IP - Workshop & Tutorial - Student                                   | \$150.00     | \$200.00      | \$250.00      |
+    
+    
+| Start Date                                                           | May 19, 2025 | July 3, 2025  | July 26, 2025 |
+| End Date                                                             | 7/2/2025 AOE | 7/25/2025 CET | 8/1/2025 CET  |
+| Virtual Registration Rates                                           |              |               |               |
+| V - Full Conference - Registering Paper Industrial/Non-Academic      | \$525.00     | \$650.00      | \$700.00      |
+| V - Full Conference - Industrial/Non-Academic                        | \$425.00     | \$550.00      | \$600.00      |
+| V - Full Conference - Registering Paper Academic                     | \$400.00     | \$500.00      | \$550.00      |
+| V - Full Conference - Academic                                       | \$300.00     | \$400.00      | \$450.00      |
+| V - Full Conference - Registering Paper Student                      | \$250.00     | \$350.00      | \$400.00      |
+| V - Full Conference - Student                                        | \$150.00     | \$250.00      | \$300.00      |
+| V - Workshop Only - Registering Paper Industrial/Non-Academic        | \$250.00     | \$300.00      | \$300.00      |
+| V - Workshop Only - Industrial/Non-Academic                          | \$150.00     | \$200.00      | \$200.00      |
+| V - Workshop Only - Registering Paper Academic                       | \$200.00     | \$250.00      | \$250.00      |
+| V - Workshop Only - Academic                                         | \$100.00     | \$150.00      | \$150.00      |
+| V - Workshop Only - Registering Paper Student                        | \$150.00     | \$200.00      | \$200.00      |
+| V - Workshop Only - Student                                          | \$50.00      | \$100.00      | \$100.00      |
+| V - Tutorial Only - Industrial/Non-Academic                          | \$75.00      | \$125.00      | \$125.00      |
+| V - Tutorial Only - Academic                                         | \$50.00      | \$85.00       | \$85.00       |
+| V - Tutorial Only - Student                                          | \$25.00      | \$40.00       | \$40.00       |
+| V - Workshop & Tutorial - Registering Paper Industrial/Non-Academic  | \$250.00     | \$300.00      | \$300.00      |
+| V - Workshop & Tutorial - Industrial/Non-Academic                    | \$150.00     | \$200.00      | \$200.00      |
+| V - Workshop & Tutorial - Registering Paper Academic                 | \$200.00     | \$250.00      | \$250.00      |
+| V - Workshop & Tutorial - Academic                                   | \$100.00     | \$150.00      | \$150.00      |
+| V - Workshop & Tutorial - Registering Paper Student                  | \$150.00     | \$200.00      | \$200.00      |
+| V - Workshop & Tutorial - Student                                    | \$50.00      | \$100.00      | \$100.00      |
+
+
+
 ## Membership Policy
 
 The ACL policy is that everyone attending an ACL conference must be a current (CY 2025) ACL member. So, in addition to the registration fee, each Regular will add $100 membership fee to their registration and each Student will add $50 membership fee to their registration if not already a 2025 paid member. Your ACL membership is for the entire calendar year, providing membership in the society devoted to promoting CL research throughout the world, open access to the CL and TACL Journals and ACL Anthology as well as access to other ACL conferences in the same year without paying membership again. Membership also entitles you to electronic notification of new issues of the journals, discounts on publications from participating publishers, announcements of ACL and related conferences, workshops, and journal calls of interest to the community.
