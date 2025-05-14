@@ -1,7 +1,7 @@
 ---
 title: Registration
 layout: single
-permalink: /registration
+permalink: /registration/
 sidebar:
     nav: "registration"
 toc: True
