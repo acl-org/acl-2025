@@ -2,8 +2,7 @@
 title: Registration
 layout: single
 permalink: /registration/
-sidebar:
-    nav: "registration"
+sidebar: False
 toc: True
 toc_sticky: True
 ---
