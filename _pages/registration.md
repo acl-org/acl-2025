@@ -97,6 +97,8 @@ The Full Conference **Virtual Registration** Fee Includes:
 - Access to online networking opportunities
 - Attendance to all recorded sessions on demand for at least one month following the meeting
 
+### In-Person Registration Rates
+
 | **Start Date**                                                           | **May 19, 2025** | **July 3, 2025**  | **July 26, 2025** |
 | -------------------------------------------------------------------- | ------------ | ------------- | ------------- |
 | **End Date**                                                             | **7/2/2025 AOE** | **7/25/2025 CET** | **8/1/2025 CET**  |
@@ -124,6 +126,8 @@ The Full Conference **Virtual Registration** Fee Includes:
 | IP - Workshop & Tutorial - Registering Paper Student                 | \$350.00     | \$400.00      | \$450.00      |
 | IP - Workshop & Tutorial - Student                                   | \$150.00     | \$200.00      | \$250.00      |
     
+	
+### Virtual Registration Rates
     
 | **Start Date**                                                      | **May 19, 2025** | **July 3, 2025**  | **July 26, 2025** |
 | -------------------------------------------------------------------- | ------------ | ------------- | ------------- |
