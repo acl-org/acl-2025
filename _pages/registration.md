@@ -6,7 +6,7 @@ sidebar: False
 toc: True
 toc_sticky: True
 ---
-<br>
+
 The ACL Exec have put together the following 3 registration types, each with an option for Authors to register their paper to present at the conference and cover their hard costs of presenting at the conference while allowing non-presenting authors and attendees a discounted rate for future advancement of the CL & NLP Communities ability to attend. 
      
 1. Industrial/Non-Academic
@@ -17,7 +17,7 @@ The ACL Exec have put together the following 3 registration types, each with an 
 **Prices are not final.** Final registration prices and schedule will be posted on or about May 19, 2025. Registration will open the week of May 19, 2025.     
 In order to keep prices affordable for students, the ACL Board has introduced a three-tier system, listed below.	
 
-##Authors Registration Details
+## Authors Registration Details
 
 Author Register Paper (for presentation) Industrial/Non-Academic, Academic or Student. All Registration fees cover up to 2 accepted papers. Additional registration fees apply for any papers above 2.    
  
@@ -48,7 +48,7 @@ Since workshop notifications can come after early registration ends, there will 
  
 Paper registration instructions, policy and fees are below the conference rates listed after membership and cancellation policies.    
 
-##Implementation
+## Implementation
 
 - Every paper will be assigned a “Registration ID”
 - When participants register, they will have the choice to register as
@@ -61,7 +61,7 @@ Paper registration instructions, policy and fees are below the conference rates 
 - When registering you will select your paper title in the dropdown box this will guarantee that your paper has been registered. (Papers not registered for the conference with the registration type Author Paper Presenter will be pulled from the conference and will not be published). Furthermore, if a paper accepted to finding is presenting, they would follow the same guidelines with the exception that Findings not presenting are not required to register for the conference. Therefore, if a Finding paper shows it’s being presented in person, and they are not registered 2 weeks before the conference, then they will be removed from the program as a presenter.
 - Each paper ID must be linked to an Author/Paper Presenter (Regular or Student) Registration. However, a student author on the paper registered under a student fee is permitted to present the registered paper.
 
-##Further Details
+## Further Details
 
 Invited speakers and panelists for the main conference and workshops will receive an invited speaker code according to policy. Once the codes are used, all additional invited speakers will register as an attendee. Please note that invited speakers do not include ACL membership.
 
@@ -71,7 +71,7 @@ Invited speakers and panelists for the main conference and workshops will receiv
 - D&I subsidies will continue to be available to offset registration costs and travel for those in need.
 - Papers where all authors are in regions covered by the free/sliding-scale virtual registration can be registered under the free/sliding-scale registration fee.
 
-##Registration Rates
+## Registration Rates
 
 We offer early and late rates to encourage early registrations. This helps us estimate the number of onsite and virtual attendees for planning space, food, beverage, supplies, and to avoid system crashes and other glitches from unexpected high volume with last-minute registrations.
 
@@ -97,11 +97,11 @@ The Full Conference **Virtual Registration** Fee Includes:
 - Access to online networking opportunities
 - Attendance to all recorded sessions on demand for at least one month following the meeting
 
-##Membership Policy
+## Membership Policy
 
 The ACL policy is that everyone attending an ACL conference must be a current (CY 2025) ACL member. So, in addition to the registration fee, each Regular will add $100 membership fee to their registration and each Student will add $50 membership fee to their registration if not already a 2025 paid member. Your ACL membership is for the entire calendar year, providing membership in the society devoted to promoting CL research throughout the world, open access to the CL and TACL Journals and ACL Anthology as well as access to other ACL conferences in the same year without paying membership again. Membership also entitles you to electronic notification of new issues of the journals, discounts on publications from participating publishers, announcements of ACL and related conferences, workshops, and journal calls of interest to the community.
 
-##Cancellation Policy
+## Cancellation Policy
 
 Cancellation of registration one month or more prior to the conference (June 27, 2025, or before), will be refunded the full amount paid (Minus up to $50 processing fee).
 
@@ -110,7 +110,7 @@ Cancellations 2 weeks prior to the start of the conference (July 11, 2025), and 
 
 Exceptions: Cancellation due to governmental travel restrictions, failure to obtain a visa, or serious illness that prevents travel to the conference will be refunded the full amount paid (Minus up to $50 processing fee) regardless of when the notification is received by the ACL Office and must submit documentation supporting the above cancellation exceptions. 
 
-##Code of Ethics Policy
+## Code of Ethics Policy
 
 “ACL adopts the ACM Code of Ethics (https://www.acm.org/code-of-ethics) in the version adopted June 22nd, 2018, by the ACM Council. In its application to ACL, it is to be read in the contextually appropriate interpretation, e.g., ““ACM member”” is to be read as ““ACL member””. Sec 4.2 should be read as follows:
 
@@ -122,7 +122,7 @@ Harassment and hostile behavior are unwelcome at any ACL conference, associated 
 
 It is the responsibility of the community as a whole to promote an inclusive and positive environment for our scholarly activities. In addition, anyone who experiences harassment or hostile behavior may contact any member of the Professional Conduct Committee. Members of this committee are instructed to keep any such contact in strict confidence, and those who approach the committee will be consulted before any actions are taken.”
 
-##Anti-Harassment Policy
+## Anti-Harassment Policy
 
 “ACL 2025 adheres to the ACL Anti-Harassment Policy. Any participant who experiences harassment or hostile behavior may contact any current member of the ACL Professional Conduct Committee or Jennifer Rachford, who is usually available at the registration desk of the conference. Please be assured that if you approach us, your concerns will be kept in strict confidence, and we will consult with you on any actions taken.
 
