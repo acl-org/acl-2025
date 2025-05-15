@@ -57,7 +57,7 @@ The deadline to sponsor **ACL 2025 is Tuesday, June 10, 2025.**
     </a>
 	<a href="https://www.antgroup.com/en" title="Ant Group">
       <div class="dummy-padding"></div>
-        <img src="/assets/images/sponsors/ANT_GROUP.png" alt="Ant Group">
+        <img src="/assets/images/sponsors/ANT_GROUP.svg" alt="Ant Group">
     </a>
     <a href="https://research.google/" title="Google">
       <div class="dummy-padding"></div>
