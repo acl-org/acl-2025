@@ -11,7 +11,7 @@ toc_sticky: True
 
 ## Conference Venue
 
-Austria Center Vienna    
+Austria Center Vienna
 Bruno-Kreisky-Platz 1, 1220 Wien, Austria    
 +43 1 260690      
 [https://www.acv.at/en/](https://www.acv.at/en/)     
@@ -20,15 +20,86 @@ The Austria Center Vienna is an easy-to-reach location, and right in the heart o
 
 ## Accommodations
 
-Conference Host Hotels    
-ACL 2025 has secured a room block at The Meliá Vienna Hotel, ARCOTEL Donauzentrum Vienna and, Spark by Hilton Vienna Donaustadt. While there are hotels and lodging of all options, we kindly ask delegates to book inside the conference block to ensure that we meet our contractual obligations.     
-      
-Meliá Vienna    
-Donau-City-Straße 7    
-Vienna    
-+43 190 104 2003     
-[melia.vienna@melia.com](mailto:melia.vienna@melia.com)    
-Distances: 0,2 km from metro station; 4,8 km from city center; 21,2 km from airport    
+Conference Host Hotels  
+ACL 2025 has secured a room block at The Meliá Vienna Hotel, NH Danube City Hotel and, Spark by Hilton Vienna Donaustadt. While there are hotels and lodging of all options, we kindly ask delegates to book inside the conference block to ensure that we meet our contractual obligations.
+
+Meliá Vienna is located 650 meters (2-minute drive, 2-minute walk)  from the Austria Center 0,2 km from the metro station, and 21.2 km from the airport  
+Donau-City-Straße 7  
+Vienna  
+\+43 190 104 2003  
+[melia.vienna@melia.com](mailto:melia.vienna@melia.com)
+
+Discounted booking link [here](https://sites.melia.com/en/events/melia-vienna/HPN-GLOBAL_31769022_RO_07_25.html?author=true). Cutoff date is July 5, 2025 
+
+Discounted Rates
+
+* € 210,00 / $233.00 Single Occupancy per room night, including taxes and service charges; Double room surcharge € 30,00 (per room / per night)
+
+NH Danube City is located 1.9km (5-minute drive, 13-minute walk) from the Austria Center, 22.6 km from the airport  
+Wagramer Straße 21,   
+1220 Wien
+
+Discounted booking link found [here](https://www.nh-hotels.com/en/event/the-association-of-computational-linguistics). Cutoff date is June 27, 2025 
+
+Discounted Rates
+
+* € 179,00 / $199.00 Single Occupancy per room night, including taxes
+
+Spark by Hilton Vienna Donaustadt is located 2.8km (8-minute drive, 30-minute walk) from the Austria Center, 22.6 km from the airport  
+Verkehrsbüro Hotellerie GmbH  
+Dr.-Adolf-Schärf-Platz 6, 1220 Wien  
+\+43 1 3617979
+
+Discounted booking link found [here](https://hil.tn/ggg4zl). Book fast\! Reservations at the negotiated rates are subject to availability at the time of booking\!
+
+Discounted Rates
+
+* € 120,00 / $134.00 Single Occupancy per room night, including breakfast, taxes and service charge  
+* € 144,00 / $160.00 Double Occupancy per room night, including breakfast, taxes and service charge
+
+Parking  
+The garage parking fee of€ 26,00 per day is not included in the standard room price.
+
+Additional Hotel Options
+
+[Arcotel Kaiserwasser](https://kaiserwasser.arcotel.com/en/) is located 750m (3-minute drive, 9-minute walk) from the Austria Center,   21.5km from the airport  
+Wagramer Straße 81220 Vienna Austria  
+Reception: \+43 1 224 24-0 [kaiserwasser@arcotel.com](mailto:kaiserwasser@arcotel.com)  
+Central Reservation: \+43 1 224 24 200 |  [reservation.kaiserwasser@arcotel.com](mailto:reservation.kaiserwasser@arcotel.com)  
+Reservation times: Monday to Friday 08.00 a.m. \- 05.00 p.m.
+
+[Schani Wien Uno-City](https://www.schanihotels.com/en/hotels/hotel-schani-uno-city/rooms) is located 1.2km (4-minute drive, 12-minute walk) from the Austria Center, 21.9km from the airport  
+Wagramer Str. 16, 1220 Wien, Austria  
+Telephone \+43 1 955 07 15 1220  
+[unocity@schanihotels.com](mailto:unocity@schanihotels.com)
+
+[ibis budget Wien Messe](https://all.accor.com/hotel/7098/index.en.shtml) is located  2.4km (5-minute drive, 31-minute walk) from the Austria Center, 19.3km from the airport  
+Lassallestrasse 7, 1020 VIENNA, Austria  
+Telephone \+43 1 2120424  
+[H7098@accor.com](mailto:H7098@accor.com)
+
+[Novotel Suites Wien City Donau](https://all.accor.com/hotel/3720/index.en.shtml) is located 2.6km (6-minute drive, 28-minute walk) from the Austria Center, 19.6km from the airport  
+Radingerstrasse 2, 1020 VIENNA, Austria  
+Telephone \+43 1 245880  
+[h3720@accor.com](mailto:h3720@accor.com)
+
+[roomz Vienna Prater](https://www.roomz-hotels.com/en/%20\<https://www.roomz-hotels.com/en/\>) is located 2.8km (6-minute drive, 37-minute walk) from the Austria Center,  19km from the airport  
+Rothschildplatz 2, 1020 Wien  
+Telephone \+43 1 36 15 540
+
+[Arcotel Donauzentrum](https://donauzentrum.arcotel.com/en/)  is located 3.0km (7-minute drive, 35-minute walk) from the Austria Center, 23.7km from the airport
+
+[Social Hub](https://www.thesocialhub.co/vienna/stay/hotel-stay/) is located 3.2km (7-minute drive, 44-minute walk) from the Austria Center, 19.3km from the airport  
+Nordbahnstraße 47, 1020 Vienna  
+Telephone \+43 72 0882556  
+[vienna@thesocialhub.co](mailto:vienna@thesocialhub.co)
+
+[Citadines Danube Vienna](https://www.discoverasr.com/en/citadines/austria/citadines-danube-vienna) is located  3.4km (7-minute drive, 33-minute walk) from the Austria Center, 21km from the airport  
+Dr. Adolf-Schaerf Platz 7, 1220 Vienna, Austria  
+Telephone \+4313460642  
+[danube@citadines.com](mailto:danube@citadines.com)
+
+
 
 ## About Vienna
 
