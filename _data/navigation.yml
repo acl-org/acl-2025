@@ -1,7 +1,6 @@
 # main links
 #in masthead.html
 main:
-
   #- title: "Schedule"
   #  url: /schedule/
 
@@ -32,7 +31,7 @@ main:
   #  url: /contact
 
   #- title: "Volunteers"
-  #  url: /volunteers 
+  #  url: /volunteers
 
   - title: "Venue"
     url: /venue/
@@ -51,22 +50,21 @@ main:
 
   #- title: "FAQ"
   #  url: /faq/
-   
+
   #- title: "Ethics"
   #  url: /ethics/faq/
- 
 
 program:
   - title: Programs
     children:
       - title: "Conference Overview"
         url: /program/
-#      - title: "Keynote"
-#        url: /program/keynotes/
+      #      - title: "Keynote"
+      #        url: /program/keynotes/
       - title: "Workshops"
         url: /program/workshops/
       - title: "Tutorials"
-        url: /program/tutorials/     
+        url: /program/tutorials/
 #      - title: "Careers in NLP"
 #        url: /program/careers_in_nlp/
 #      - title: "Social Programs"
@@ -97,15 +95,14 @@ calls:
         url: /calls/industry_track/
       - title: "Birds-of-a-Feather and Affinity Group Events"
         url: /calls/bof_affinity_events/
-#      - title: "Style Files and Formatting"
-#        url: /calls/style-and-formatting/
+      #      - title: "Style Files and Formatting"
+      #        url: /calls/style-and-formatting/
       - title: "Volunteers"
         url: /calls/volunteers/
       - title: "Diversity and Inclusion Subsidies"
-        url: /calls/subsidies/        
+        url: /calls/subsidies/
       - title: "Virtual Registration Subsidies"
         url: /calls/virtual_subsidies/
-
 
   #- title: Submission Material
   #  children:
@@ -136,35 +133,35 @@ calls:
 #  - title: Reviewer
 #    children:
 #      - title: "Reviewer Instructions"
-    #    url: /reviewer/instructions/
-    #  - title: "Example Review Form"
-    #    url: /downloads/NAACL2021-Review-Form.pdf
-    #  - title: "Reviewing Advice"
-    #    url: /reviewer/advice/
+#    url: /reviewer/instructions/
+#  - title: "Example Review Form"
+#    url: /downloads/NAACL2021-Review-Form.pdf
+#  - title: "Reviewing Advice"
+#    url: /reviewer/advice/
 
-participants:
-  - title: "Venue"
-    children:
-      - title: "Venue"
-        url: /participants/venue/
-      - title: "Visa"
-        url: /participants/visa/
-      - title: "Travel"
-        url: /participants/travel/
+# participants:
+#   - title: "Venue"
+#     children:
+#       - title: "Venue"
+#         url: /participants/venue/
+#       - title: "Visa"
+#         url: /participants/visa/
+#       - title: "Travel"
+#         url: /participants/travel/
 #  - title: "Information for Participants"
-  #  children:
+#  children:
 #      - title: "Anti-harassment"
 #        url: /participants/anti_harassment/
 #      - title: "COVID-19 Safety at EMNLP 2022"
 #        url: /participants/covid_19_safety/
-     # - title: "Instructions for Paper Presenters"
-     #   url: /participants/presenters/
-     # - title: "Instructions for Zoom Rooms"
-     #   url: /participants/zoom-rooms/
-     #  - title: "Accommodation"
-     #    url: /participants/accommodation/
-     #  - title: "Social Event"
-     #    url: /participants/social/
+# - title: "Instructions for Paper Presenters"
+#   url: /participants/presenters/
+# - title: "Instructions for Zoom Rooms"
+#   url: /participants/zoom-rooms/
+#  - title: "Accommodation"
+#    url: /participants/accommodation/
+#  - title: "Social Event"
+#    url: /participants/social/
 
 committees:
   - title: Committees
@@ -177,14 +174,14 @@ committees:
       #  url: /ethics/committee/
       #- title: "Diversity & Inclusion Committee"
       #  url: /committees/diversity-inclusion/
-      
+
 venue:
   - title: "Information for"
     children:
       - title: "Venue"
         url: /venue/
-#      - title: "Travel"
-#        url: /venue/travel/
+      - title: "Travel"
+        url: /venue/travel/
 #      - title: "Visa"
 #        url: /venue/visa/
 #      - title: "Industry Track Papers"
