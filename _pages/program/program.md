@@ -5,6 +5,8 @@ excerpt: "ACL 2025 Conference Overview."
 permalink: /program/
 sidebar:
   nav: "program"
+toc: True
+toc_sticky: True
 ---
 
 ## ACL 2025 Program Overview
@@ -22,7 +24,7 @@ sidebar:
 
 ### Sunday, July 27, 2025: Tutorials
 
-Breakfast, lunch, and dinner are not provided
+Breakfast, lunch, and dinner are not provided.    
 See detailed schedule in [Tutorials](https://2025.aclweb.org/program/tutorials/)
 
 | Time          | Location              | Description                                                                      |
@@ -35,7 +37,7 @@ See detailed schedule in [Tutorials](https://2025.aclweb.org/program/tutorials/)
 
 ### Monday, July 28, 2025: Main Conference Day 1
 
-Breakfast, lunch, and dinner are not provided
+Breakfast, lunch, and dinner are not provided.    
 
 | Time          | Location              | Description                                                 |
 | ------------- | --------------------- | -------------------------------------------------------- |
@@ -54,7 +56,7 @@ Breakfast, lunch, and dinner are not provided
 
 ### Tuesday, July 29, 2025 Main Conference Day 2
 
-Breakfast, lunch, and dinner are not provided
+Breakfast, lunch, and dinner are not provided.    
 
 | Time          | Location              | Description                                                            |
 | ------------- | --------------------- | ------------------------------------------------------------------- |
@@ -73,7 +75,7 @@ Breakfast, lunch, and dinner are not provided
 
 ### Wednesday, July 30, 2025: Main Conference Day 3
 
-Breakfast, lunch, and dinner are not provided
+Breakfast, lunch, and dinner are not provided.    
 
 | Time          | Location              | Description                          |
 | ------------- | --------------------- | --------------------------------- |
@@ -93,7 +95,7 @@ Breakfast, lunch, and dinner are not provided
 
 ### Thursday, July 31, 2025: Workshops
 
-Breakfast, lunch, and dinner are not provided
+Breakfast, lunch, and dinner are not provided.    
 See detailed schedule in [Workshops](https://2025.aclweb.org/program/workshops/)
 
 | Time          | Location | Description             |
@@ -105,7 +107,7 @@ See detailed schedule in [Workshops](https://2025.aclweb.org/program/workshops/)
 
 ### Friday, August 1, 2025: Workshops
 
-Breakfast, lunch, and dinner are not provided
+Breakfast, lunch, and dinner are not provided.    
 See detailed schedule in [Workshops](https://2025.aclweb.org/program/workshops/)
 
 | Time          | Location | Description             |
