@@ -20,7 +20,7 @@ toc_sticky: True
 
 | Time          | Location              | Description     |
 | ------------- | --------------------- | ------------ |
-| 14:00 - 18:00 | Level 0 Entrance Hall | Registration |
+| **14:00 - 18:00** | **Level 0 Entrance Hall** | **Registration** |
 
 ### Sunday, July 27, 2025: Tutorials
 
@@ -29,7 +29,7 @@ See detailed schedule in [Tutorials](https://2025.aclweb.org/program/tutorials/)
 
 | Time          | Location              | Description                                                                      |
 | ------------- | --------------------- | ----------------------------------------------------------------------------- |
-|               | Level 0 Entrance Hall | Registration                                                                  |
+|               | **Level 0 Entrance Hall** | **Registration**                                                                  |
 | 07:30 - 20:30 |                       | Coffee Break                                                                  |
 | 12:30 - 14:00 |                       | Lunch Break                                                                   |
 | 15:30 - 16:00 |                       | Coffee Break                                                                  |
@@ -41,7 +41,7 @@ Breakfast, lunch, and dinner are not provided.
 
 | Time          | Location              | Description                                                 |
 | ------------- | --------------------- | -------------------------------------------------------- |
-| 07:30 - 16:30 | Level 0 Entrance Hall | Registration                                             |
+| **07:30 - 16:30** | **Level 0 Entrance Hall** | **Registration**                                             |
 | 09:00 - 09:30 |                       | Session 1: Welcome                                       |
 | 09:30 - 10:30 |                       | Session 1: Keynote: Luke Zettlemoyer                     |
 | 10:30 - 11:00 |                       | Coffee Break                                             |
@@ -60,7 +60,7 @@ Breakfast, lunch, and dinner are not provided.
 
 | Time          | Location              | Description                                                            |
 | ------------- | --------------------- | ------------------------------------------------------------------- |
-| 08:30 - 16:30 | Level 0 Entrance Hall | Registration                                                        |
+| **08:30 - 16:30** | **Level 0 Entrance Hall** | **Registration**                                                        |
 | 09:00 - 10:30 |                       | Session 6: Keynote: Verena Rieser                                   |
 | 10:00 - 10:30 |                       | Coffee Break                                                        |
 | 10:30 - 12:00 |                       | Session 7: Virtual Orals C (for virtual attendees only)             |
@@ -79,7 +79,7 @@ Breakfast, lunch, and dinner are not provided.
 
 | Time          | Location              | Description                          |
 | ------------- | --------------------- | --------------------------------- |
-| 08:30 - 16:30 | Level 0 Entrance Hall | Registration                      |
+| **08:30 - 16:30** | **Level 0 Entrance Hall** | **Registration**                      |
 | 09:00 - 10:30 |                       | Session 11: In Person Orals C     |
 | 10:30 - 11:00 |                       | Coffee Break                      |
 | 11:00 - 11:30 |                       | Session 12: CL Dissertation Award |
@@ -98,21 +98,21 @@ Breakfast, lunch, and dinner are not provided.
 Breakfast, lunch, and dinner are not provided.    
 See detailed schedule in [Workshops](https://2025.aclweb.org/program/workshops/)
 
-| Time          | Location | Description             |
-| ------------- | -------- | -------------------- |
-| 08:00 - 16:30 |          | Registration         |
-| 10:30 - 11:00 |          | Coffee Break         |
-| 12:30 - 14:00 |          | Lunch Break (on own) |
-| 15:30 - 16:00 |          | Coffee Break         |
+| Time          | Description             |
+| ------------- | -------------------- |
+| **08:00 - 16:30** | **Registration**         |
+| 10:30 - 11:00 | Coffee Break         |
+| 12:30 - 14:00 | Lunch Break (on own) |
+| 15:30 - 16:00 | Coffee Break         |
 
 ### Friday, August 1, 2025: Workshops
 
 Breakfast, lunch, and dinner are not provided.    
 See detailed schedule in [Workshops](https://2025.aclweb.org/program/workshops/)
 
-| Time          | Location | Description             |
-| ------------- | -------- | -------------------- |
-| 08:00 - 16:30 |          | Registration         |
-| 10:30 - 11:00 |          | Coffee Break         |
-| 12:30 - 14:00 |          | Lunch Break (on own) |
-| 15:30 - 16:00 |          | Coffee Break         |
+| Time          | Description             |
+| ------------- | ------------------- |
+| **08:00 - 16:30** | **Registration**         |
+| 10:30 - 11:00 | Coffee Break         |
+| 12:30 - 14:00 | Lunch Break (on own) |
+| 15:30 - 16:00 | Coffee Break         |
