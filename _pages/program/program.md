@@ -45,10 +45,8 @@ Breakfast, lunch, and dinner are not provided.
 | 09:00 - 09:30 |                       | Session 1: Welcome                                       |
 | 09:30 - 10:30 |                       | Session 1: Keynote: Luke Zettlemoyer                     |
 | 10:30 - 11:00 |                       | Coffee Break                                             |
-<!-- | 11:00 - 12:30 |                       | Session 2: Virtual Orals A (for virtual attendees only)  | -->
 | 11:00 - 12:30 |                       | Session 2: In Person Posters A (Main)                    |
 | 12:30 - 14:00 |                       | Lunch Break (on own)                                     |
-<!--| 14:00 - 15:30 |                       | Session 3: Virtual Orals B (for virtual attendees only)  | -->
 | 14:00 - 15:30 |                       | Session 3: In Person Posters B (Main)                    |
 | 15:30 - 16:00 |                       | Coffee Break                                             |
 | 16:00 - 17:30 |                       | Session 4: In Person Orals A                             |
@@ -63,13 +61,11 @@ Breakfast, lunch, and dinner are not provided.
 | **08:30 - 16:30** | **Level 0 Entrance Hall** | **Registration**                                                        |
 | 09:00 - 10:30 |                       | Session 6: Keynote: Verena Rieser                                   |
 | 10:00 - 10:30 |                       | Coffee Break                                                        |
-<!-- | 10:30 - 12:00 |                       | Session 7: Virtual Orals C (for virtual attendees only)             | -->
 | 10:30 - 12:00 |                       | Session 7: In Person Posters D (Main, IND, SRW)                     |
 | 12:00 - 14:00 |                       | Lunch Break (on own)                                                |
 | 13:00 - 13:45 |                       | Session 8: Business Meeting                                         |
 | 14:00 - 15:30 |                       | Session 9: In Person Orals B                                        |
 | 15:30 - 16:00 |                       | Coffee Break                                                        |
-<!-- | 16:00 - 17:30 |                       | Session 10: Virtual Orals D (for virtual attendees only)            | -->
 | 16:00 - 17:30 |                       | Session 10: In Person Posters E (Main, SRW)                         |
 | 19:00 - 22:00 |                       | Social Event for all Registered Full, Main, or Social Event add-ons |
 
