@@ -29,7 +29,7 @@ See detailed schedule in [Tutorials](https://2025.aclweb.org/program/tutorials/)
 
 | Time          | Location              | Description                                                                      |
 | ------------- | --------------------- | ----------------------------------------------------------------------------- |
-|  07:30 - 20:30  | **Level 0 Entrance Hall** | **Registration**                                                                  |
+| **07:30 - 20:30**  | **Level 0 Entrance Hall** | **Registration**                                                                  |
 | 10:30 - 11:00 |                       | Coffee Break                                                                  |
 | 12:30 - 14:00 |                       | Lunch Break                                                                   |
 | 15:30 - 16:00 |                       | Coffee Break                                                                  |
