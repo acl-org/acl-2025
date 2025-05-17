@@ -20,7 +20,7 @@ toc_sticky: True
 
 | Time          | Location              | Description     |
 | ------------- | --------------------- | ------------ |
-| **14:00 - 18:00** | **Level 0 Entrance Hall** | **Registration** |
+| **14:00 - 19:00** | **Level 0 Entrance Hall** | **Registration** |
 
 ### Sunday, July 27, 2025: Tutorials
 
