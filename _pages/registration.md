@@ -198,4 +198,4 @@ Questions regarding registration or payment can be directed to [ACLInfo@yesevent
 
 Please also refer to the ACL 25 website: [https://2025.aclweb.org/](https://2025.aclweb.org/)
 
-Questions regarding the virtual platform can be directed to [ACL25@underline.io](mailto:ACL25@underline.io)
+Questions regarding the virtual platform can be directed to [acl2025@underline.io](mailto:acl2025@underline.io)
