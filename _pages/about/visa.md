@@ -43,14 +43,14 @@ The fee is not required in some cases, you can find more details at the [Federal
 
 ### Invitation Letter
 
-<b><p style="color:red;"> [Updated on May 19th]</p></b>
+#### [Updated on May 19th] 
 
-<p style="color:red;"> Round 2 (ongoing): To support delays on submitting the invitation form due to missing documents or delayed acceptance notification for your paper (e.g., workshops), we will collect a new list of applications until June 1st, AoE.
+Round 2 (ongoing): To support delays on submitting the invitation form due to missing documents or delayed acceptance notification for your paper (e.g., workshops), we will collect a new list of applications until June 1st, AoE.
 
-<p style="color:red;">**Important note**: We are expecting to open the registration during the week of May 19th (see https://2025.aclweb.org/registration/). Once the registration is open, **you should register to automatically download an invitation letter through registration**. 
+**Important note**: We are expecting to open the registration during the week of May 19th (see https://2025.aclweb.org/registration/). Once the registration is open, **you should register to automatically download an invitation letter through registration**. 
 The information provided through the form below serves as our channel of communication with the Vienna Convention Bureau and the embassy you apply for, to facilitate your application. The information in the form is important but optional, you will nevertheless get an invitation letter through registration.
 
-<hr>
+---
 
 Based on the official information we received from the Vienna Convention Bureau, ACL 2025 is only allowed to provide an invitation letter in three cases: 1) to members of accepted workshops and tutorials, 2) authors of accepted papers, and 3) registered attendees in ACL 2025. 
 
