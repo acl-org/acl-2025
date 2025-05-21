@@ -33,7 +33,7 @@ main:
   #- title: "Volunteers"
   #  url: /volunteers
 
-  - title: "Venue"
+  - title: "Participant Information"
     url: /venue/
 
   - title: "Visa"
