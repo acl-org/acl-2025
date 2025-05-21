@@ -46,6 +46,7 @@ The fee is not required in some cases, you can find more details at the [Federal
 #### [Updated on May 21st] 
 **Important note**: Registration is officially open. You can find the information about the registration here: https://2025.aclweb.org/registration/
 At the end of the registration process, on the right-hand side of the screen there will be a blue button that reads Invitation Letter. Registered attendees can download from there.
+
 #### [Updated on May 19th] 
 
 Round 2 (ongoing): To support delays on submitting the invitation form due to missing documents or delayed acceptance notification for your paper (e.g., workshops), we will collect a new list of applications until June 1st, AoE.
