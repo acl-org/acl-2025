@@ -13,8 +13,9 @@ The ACL Exec have put together the following 3 registration types, each with an 
 2. Academic 
 3. Student
     
-**The registration pricing below has been proposed to the ACL Board for approval.**    
-**Prices are not final.** Final registration prices and schedule will be posted on or about May 19, 2025. Registration will open the week of May 19, 2025.     
+**Registration is officially open, register now at:**
+[https://acl.swoogo.com/acl2025](https://acl.swoogo.com/acl2025)
+
 In order to keep prices affordable for students, the ACL Board has introduced a three-tier system, listed below.	
 
 ## Authors Registration Details
