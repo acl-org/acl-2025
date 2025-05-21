@@ -182,7 +182,9 @@ Kärntner Straße:
 
 ### **Printshops for Poster**
 
-XEST \- partner of the ACL
+XEST is the ACL 2025 preferred poster printing company. Order through the custom link provided [here](https://xest.info/acl).
+Participants can order with attractive early bird pricing until July 20. From July 21 and throughout the event, regular pricing applies. The daily deadline for next-day pick-up is 11 a.m.
+
 
 Alternative in the City Center:
 
