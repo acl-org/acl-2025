@@ -59,7 +59,7 @@ Breakfast, lunch, and dinner are not provided.
 | Time          | Location              | Description                                                            |
 | ------------- | --------------------- | ------------------------------------------------------------------- |
 | **08:30 - 16:30** | **Level 0 Entrance Hall** | **Registration**                                                        |
-| 09:00 - 10:30 |                       | Session 6: Keynote: Verena Rieser                                   |
+| 09:00 - 10:00 |                       | Session 6: Keynote: Verena Rieser                                   |
 | 10:00 - 10:30 |                       | Coffee Break                                                        |
 | 10:30 - 12:00 |                       | Session 7: In Person Posters D (Main, IND, SRW)                     |
 | 12:00 - 14:00 |                       | Lunch Break (on own)                                                |
