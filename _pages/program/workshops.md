@@ -49,7 +49,7 @@ Location: Hall M2.
 - [Marcos Zampieri](mzampier@gmu.edu), George Mason University, USA
 - [Debanjan Ghosh](debanjan@gmail.com), Educational Testing Service
 
-**[Towards Knowledgeable Foundation Models] (https://knowledgeable-lm.github.io/)**    
+**[Towards Knowledgeable Foundation Models](https://knowledgeable-lm.github.io/)**    
 Location: Hall N1.    
 - [Manling Li](manling.li@northwestern.edu)	
 - [Sha Li]()
