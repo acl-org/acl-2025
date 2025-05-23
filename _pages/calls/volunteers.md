@@ -10,8 +10,6 @@ toc_sticky: True
 ---
 
 ## Call For ACL 2025 Volunteers
-
-
 A limited number of student volunteers are needed for the success of ACL 2025. Both online and in-person event volunteers are needed.
 
 
@@ -47,14 +45,15 @@ The selection process for the Student Volunteer Program will involve a careful e
 - Student presenters who demonstrate financial need (Applicants can optionally include a letter from a faculty advisor to explain financial need).
 - For virtual volunteers, students who are familiar with GatherTown and Whova.
 
+If feasible, we will also consider applications from postdocs who lack travel funding and very recent PhDs who have not yet secured employment.
 
 **IMPORTANT: Applicants who are selected must commit to attending the training sessions and fulfilling the assigned responsibilities. If you are unsure whether you will attend the conference, please do not apply–we expect every volunteer to show up and demonstrate enthusiasm for helping out the conference**.
 
 
 ## Submission Procedure
 
-
-Applicants for the Student Volunteer Program must be full-time students and should submit the completed application form, where we ask a few questions and a one-page CV (resume). Students should make travel arrangements and accommodations independent of the results of the application. Apply via the following form:
+Applicants for the Student Volunteer Program must be full-time students at the undergraduate or graduate level. If feasible, we will also consider applications from postdocs who lack travel funding and very recent PhDs who have not yet secured employment. 
+Applicants for the Student Volunteer Program should submit the completed application form, where we ask a few questions and a one-page CV (resume). Students should make travel arrangements and accommodations independent of the results of the application. Apply via the following form:
 
 
 - [ACL 2025 Volunteering](https://forms.gle/THCSnxw8dte34Wbu5)
