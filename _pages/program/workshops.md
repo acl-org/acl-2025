@@ -301,12 +301,6 @@ Location:  Room 2.17.
 - [Plaza del Acro Flor Miriam](flor.plaza@unibocconi.it)
 - [Talat Zeerak](z@zeerak.org)
 - [Vargas Francielle](francielleavargas@usp.br)
-- [Hulsebos Madelon](madelon@cwi.nl)
-- [Chang Shuaichen](cshuaich@amazon.com)
-- [Chen Wenhu](wenhuchen@uwaterloo.ca)
-- [Gralinski Filip](ilipg@amu.edu.pl)
-- [Liu Qian](liuqian.sea@gmail.com)
-- [Sun Huan](sun.397@osu.edu)
 
 **[FieldMatters--SIGTYP: The 7th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (SIGTYP)](https://sigtyp.github.io/) and the [Fourth Workshop on NLP Applications to Field Linguistics (FieldMatters)](https://field-matters.github.io/)**    
 Location: Room 1.14. 
