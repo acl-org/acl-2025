@@ -49,17 +49,6 @@ Location: Hall M2.
 - [Marcos Zampieri](mzampier@gmu.edu), George Mason University, USA
 - [Debanjan Ghosh](debanjan@gmail.com), Educational Testing Service
 
-**[Towards Knowledgeable Foundation Models](https://knowledgeable-lm.github.io/)**    
-Location: Hall N1.    
-- [Manling Li](manling.li@northwestern.edu)	
-- [Sha Li]()
-- [Yuji Zhang](yujiz@illinois.edu)
-- [Xiaozhi Wang]()
-- [Mor Geva]()
-- [Chi Han](chihan3@illinois.edu)
-- [Shangbin Feng]()
-- [Silin Gao]()
-
 ## July 31st
 
 **[2nd Workshop on Natural Language Processing meets Climate Change](https://nlp4climate.github.io)**    
@@ -292,6 +281,16 @@ Location: Room 1.31-32.
 - [Wei Johnny](jtwei@usc.edu)
 - [Lesci Pietro](pl487@cam.ac.uk)
 
+**[Towards Knowledgeable Foundation Models](https://knowledgeable-lm.github.io/)**    
+Location: Hall N1.    
+- [Manling Li](manling.li@northwestern.edu)	
+- [Sha Li]()
+- [Yuji Zhang](yujiz@illinois.edu)
+- [Xiaozhi Wang]()
+- [Mor Geva]()
+- [Chi Han](chihan3@illinois.edu)
+- [Shangbin Feng]()
+- [Silin Gao]()
 
 **[The 9th Workshop on Online Abuse and Harms (WOAH 2025)](https://www.workshopononlineabuse.com/)**    
 Location:  Room 2.17. 
