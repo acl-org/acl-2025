@@ -63,7 +63,10 @@ The deadline to sponsor **ACL 2025 is Tuesday, June 10, 2025.**
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/Google.png" alt="Google">
     </a>	
-	
+    <a href="https://cohere.com/" title="Cohere">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/Cohere.png" alt="Cohere">
+    </a>		
 </figure>
 
 ## Platinum
@@ -100,6 +103,10 @@ The deadline to sponsor **ACL 2025 is Tuesday, June 10, 2025.**
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/Alibaba.png" alt="Alibaba">
     </a>	
+    <a href="https://www.bytedance.com/en/" title="ByteDance">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/ByteDance.png" alt="ByteDance">
+    </a>		
 </figure>
 
 
@@ -113,6 +120,10 @@ The deadline to sponsor **ACL 2025 is Tuesday, June 10, 2025.**
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/adobe.jpg" alt="Adobe">
     </a>	
+    <a href="https://www.nexdata.ai" title="Nexdata">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/nexdata.png" alt="Nexdata">
+    </a>		
 </figure>
 
 ## Bronze
@@ -137,6 +148,10 @@ The deadline to sponsor **ACL 2025 is Tuesday, June 10, 2025.**
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/JPMC.jpg" alt="JP Morgan Chase">
     </a>	
+    <a href="https://dataoceanai.com/" title="DataOcean AI ">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/DataoceanAI.png" alt="DataOcean AI ">
+    </a>		
 </figure>
 
 ## Diversity & Inclusion
