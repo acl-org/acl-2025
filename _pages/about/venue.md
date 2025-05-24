@@ -119,8 +119,6 @@ Telephone \+43 1 404460
 [regina@kremslehnerhotels.at](mailto:regina@kremslehnerhotels.at)
 
 
-Under the Vienna Sights and Tourism Info Desk, in the last sentence, “The official Vienna City Card provides you with discounts for public transportation and tourist attractions.” Please add this hyperlink to “Vienna City Card” [https://www.viennacitycard.at/en/](https://www.viennacitycard.at/en/)
-
 
 ## About Vienna
 
@@ -177,7 +175,8 @@ The Vienna Tourism Board will provide a tourism info desk directly at the confer
 
 Feel free to also explore all attractive sights and events in Vienna around the time of the conference here.
 
-The official Vienna City Card provides you with discounts for public transportation and tourist attractions.
+The official [Vienna City Card](https://www.viennacitycard.at/en/) provides you with discounts for public transportation and tourist attractions.     
+
 
 ### **Popular Destinations**
 
