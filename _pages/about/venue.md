@@ -33,7 +33,7 @@ Discounted booking link [here](https://sites.melia.com/en/events/melia-vienna/HP
 
 Discounted Rates
 
-* € 210,00 / $233.00 Single Occupancy per room night, including taxes and service charges; Double room surcharge € 30,00 (per room / per night)
+* € 210,00 / $239.00 Single Occupancy per room night, including taxes and service charges; Double room surcharge € 30,00 (per room / per night)
 
 NH Danube City is located 1.9km (5-minute drive, 13-minute walk) from the Austria Center, 22.6 km from the airport  
 Wagramer Straße 21,   
@@ -62,7 +62,7 @@ The garage parking fee of€ 26,00 per day is not included in the standard room 
 
 Additional Hotel Options
 
-[Arcotel Kaiserwasser](https://kaiserwasser.arcotel.com/en/) is located 750m (3-minute drive, 9-minute walk) from the Austria Center,   21.5km from the airport  
+[Arcotel Kaiserwasser](https://kaiserwasser.arcotel.com/en/) is located 750m (3-minute drive, 9-minute walk) from the Austria Center,   21.5km from the airport   
 Wagramer Straße 81220 Vienna Austria  
 Reception: \+43 1 224 24-0 [kaiserwasser@arcotel.com](mailto:kaiserwasser@arcotel.com)  
 Central Reservation: \+43 1 224 24 200 |  [reservation.kaiserwasser@arcotel.com](mailto:reservation.kaiserwasser@arcotel.com)  
@@ -87,7 +87,11 @@ Telephone \+43 1 245880
 Rothschildplatz 2, 1020 Wien  
 Telephone \+43 1 36 15 540
 
-[Arcotel Donauzentrum](https://donauzentrum.arcotel.com/en/)  is located 3.0km (7-minute drive, 35-minute walk) from the Austria Center, 23.7km from the airport
+[Arcotel Donauzentrum](https://donauzentrum.arcotel.com/en/)  is located 3.0km (7-minute drive, 35-minute walk) from the Austria Center, 23.7km from the airport       
+Wagramer Straße 83-85     
+1220 Vienna, Austria       
+Telephone \+43 1 2022 333     
+[donauzentrum@arcotel.com](mailto:donauzentrum@arcotel.com)    
 
 [Social Hub](https://www.thesocialhub.co/vienna/stay/hotel-stay/) is located 3.2km (7-minute drive, 44-minute walk) from the Austria Center, 19.3km from the airport  
 Nordbahnstraße 47, 1020 Vienna  
@@ -97,8 +101,25 @@ Telephone \+43 72 0882556
 [Citadines Danube Vienna](https://www.discoverasr.com/en/citadines/austria/citadines-danube-vienna) is located  3.4km (7-minute drive, 33-minute walk) from the Austria Center, 21km from the airport  
 Dr. Adolf-Schaerf Platz 7, 1220 Vienna, Austria  
 Telephone \+4313460642  
-[danube@citadines.com](mailto:danube@citadines.com)
+[danube@citadines.com](mailto:danube@citadines.com)    
 
+[Motel One Vienna-Staatsoper](https://www.motel-one.com/en/hotels/vienna/hotel-vienna-staatsoper/) is located 6.3 km (13-minute drive) from the Austria Center, 20.6km from the airport      
+Elisabethstraße 5, 1010 Vienna, Austria       
+Telephone \+43 1 5850505      
+[wien-staatsoper@motel-one.com](mailto:wien-staatsoper@motel-one.com)
+
+[Hotel Tigra](https://www.hotel-tigra.at/en/) is located 6.3 km (13-minute drive) from the Austria Center, 20.6km from the airport
+Tiefer Graben 14-20, 1010 Vienna, Austria      
+Telephone \+43 1 533 96 41 0     
+[info@hotel-tigra.at](mailto:info@hotel-tigra.at)     
+
+[Hotel Regina](https://www.hotelregina.at/en/hotels-vienna/hotel-regina-vienna) is located 7.2 km (14-minute drive) from the Austria Center, 21.6km from the airport      
+Rooseveltplatz 15, 1090 Wien, Austria      
+Telephone \+43 1 404460     
+[regina@kremslehnerhotels.at](mailto:regina@kremslehnerhotels.at)
+
+
+Under the Vienna Sights and Tourism Info Desk, in the last sentence, “The official Vienna City Card provides you with discounts for public transportation and tourist attractions.” Please add this hyperlink to “Vienna City Card” [https://www.viennacitycard.at/en/](https://www.viennacitycard.at/en/)
 
 
 ## About Vienna
