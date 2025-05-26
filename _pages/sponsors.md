@@ -55,7 +55,7 @@ The deadline to sponsor **ACL 2025 is Tuesday, June 10, 2025.**
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/LinkedIn.png" alt="Linkedin">
     </a>
-	<a href="https://www.antgroup.com/en" title="Ant Group">
+	  <a href="https://www.antgroup.com/en" title="Ant Group">
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/ANT_GROUP.svg" alt="Ant Group">
     </a>
@@ -67,6 +67,10 @@ The deadline to sponsor **ACL 2025 is Tuesday, June 10, 2025.**
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/Cohere.png" alt="Cohere">
     </a>		
+    <a href="https://www.alibabacloud.com/en?_p_lc=1&spm=a3c0i.14327653.6791778070.1.4dec188fn0rvGW" title="Alibaba">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/Alibaba.png" alt="Alibaba">
+    </a>	
 </figure>
 
 ## Platinum
@@ -99,10 +103,6 @@ The deadline to sponsor **ACL 2025 is Tuesday, June 10, 2025.**
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/Oracle.png" alt="Oracle">
     </a>
-    <a href="https://www.alibabacloud.com/en?_p_lc=1&spm=a3c0i.14327653.6791778070.1.4dec188fn0rvGW" title="Alibaba">
-      <div class="dummy-padding"></div>
-        <img src="/assets/images/sponsors/Alibaba.png" alt="Alibaba">
-    </a>	
     <a href="https://www.bytedance.com/en/" title="ByteDance">
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/ByteDance.png" alt="ByteDance">
