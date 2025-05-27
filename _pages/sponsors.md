@@ -70,6 +70,10 @@ The deadline to sponsor **ACL 2025 is Tuesday, June 10, 2025.**
     <a href="https://www.alibabacloud.com/en?_p_lc=1&spm=a3c0i.14327653.6791778070.1.4dec188fn0rvGW" title="Alibaba">
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/Alibaba.png" alt="Alibaba">
+    </a>
+    <a href="https://ai.meta.com/" title="Meta">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/meta.png" alt="Meta">
     </a>	
 </figure>
 
