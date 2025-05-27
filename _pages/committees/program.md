@@ -11,11 +11,6 @@ sidebar:
 
 ### Computational Social Science and Cultural Analytics
 
-{% include committee-member.html
-   name="Mohammad Atari"
-   picture="/assets/images/committee/program_chairs/mohammad_atari.jpg"
-   institution="University of Massachusetts"
-%}
 
 {% include committee-member.html
    name="Michael Sejr Schlichtkrull"
@@ -47,6 +42,11 @@ sidebar:
    institution="Queen Mary University of London"
 %}
 
+{% include committee-member.html
+   name="Carla Perez-Almendros"
+   picture="/assets/images/committee/program_chairs/person.png"
+   institution="Cardiff University"
+%}
 
 ### Dialogue and Interactive Systems
 
@@ -87,12 +87,6 @@ sidebar:
 %}
 
 {% include committee-member.html
-   name="Abhinav Rastogi"
-   picture="/assets/images/committee/program_chairs/abhinav_rastogi.jpg"
-   institution="Google"
-%}
-
-{% include committee-member.html
    name="Albert Gatt"
    picture="/assets/images/committee/program_chairs/albert_gatt.jpg"
    institution="Utrecht University"
@@ -120,12 +114,6 @@ sidebar:
    name="Anders Søgaard"
    picture="/assets/images/committee/program_chairs/anders_sogaard.jpg"
    institution="University of Copenhagen"
-%}
-
-{% include committee-member.html
-   name="Marie-Francine Moens"
-   picture="/assets/images/committee/program_chairs/marie_francine_moens.jpg"
-   institution="KU Leuven"
 %}
 
 {% include committee-member.html
@@ -216,12 +204,6 @@ sidebar:
 %}
 
 {% include committee-member.html
-   name="Malihe Alikhani"
-   picture="/assets/images/committee/program_chairs/malihe_alikhani.jpg"
-   institution="Northeastern University"
-%}
-
-{% include committee-member.html
    name="Debora Nozza"
    picture="/assets/images/committee/program_chairs/debora_nozza.jpg"
    institution="Bocconi University"
@@ -243,21 +225,9 @@ sidebar:
 %}
 
 {% include committee-member.html
-   name="Shashi Narayan"
-   picture="/assets/images/committee/program_chairs/shashi_narayan.jpg"
-   institution="Google"
-%}
-
-{% include committee-member.html
    name="Ondřej Dušek"
    picture="/assets/images/committee/program_chairs/Ondrej_Dusek.png"
    institution="Charles University, Prague"
-%}
-
-{% include committee-member.html
-   name="Nader Akoury"
-   picture="/assets/images/committee/program_chairs/nader_akoury.jpg"
-   institution="Cornell University"
 %}
 
 {% include committee-member.html
@@ -278,6 +248,11 @@ sidebar:
    institution="Monash University"
 %}
 
+{% include committee-member.html
+   name="Piji Li"
+   picture="/assets/images/committee/program_chairs/person.png"
+   institution="Nanjing University of Aeronautics and Astronautics, China"
+%}
 
 ### Human-centered NLP
 
@@ -450,12 +425,6 @@ sidebar:
 %}
 
 {% include committee-member.html
-   name="Bill Yuchen Lin"
-   picture="/assets/images/committee/program_chairs/bill_yuchen_lin.jpg"
-   institution="Allen Institute for Artificial Intelligence"
-%}
-
-{% include committee-member.html
    name="Mohit Iyyer"
    picture="/assets/images/committee/program_chairs/mohit_iyyer.jpg"
    institution="University of Massachusetts"
@@ -521,6 +490,11 @@ sidebar:
    institution="University of Liverpool"
 %}
 
+{% include committee-member.html
+   name="Harish Tayyar Madabushi"
+   picture="/assets/images/committee/program_chairs/person.png"
+   institution="University of Bath"
+%}
 
 ### Linguistic Theories, Cognitive Modeling, and Psycholinguistics
 
@@ -528,12 +502,6 @@ sidebar:
    name="Vivi Nastase"
    picture="/assets/images/committee/program_chairs/person.png"
    institution="University of Geneva"
-%}
-
-{% include committee-member.html
-   name="Natalie Schluter"
-   picture="/assets/images/committee/program_chairs/natalie_schluter.jpg"
-   institution="Apple"
 %}
 
 {% include committee-member.html
@@ -554,6 +522,11 @@ sidebar:
    institution="University of Amsterdam"
 %}
 
+{% include committee-member.html
+   name="Raquel Alhama"
+   picture="/assets/images/committee/program_chairs/person.png"
+   institution="University of Amsterdam"
+%}
 
 ### Machine Learning for NLP
 
@@ -614,12 +587,6 @@ sidebar:
    institution="University of Zurich"
 %}
 
-{% include committee-member.html
-   name="Ernest Mwebaze"
-   picture="/assets/images/committee/program_chairs/ernest_mwebaze.jpg"
-   institution="Sunbird AI"
-%}
-
 
 ### Multilingualism and Cross-Lingual NLP
 
@@ -675,12 +642,6 @@ sidebar:
 %}
 
 {% include committee-member.html
-   name="Chunyuan Li"
-   picture="/assets/images/committee/program_chairs/chunyuan_li.jpg"
-   institution="xAI"
-%}
-
-{% include committee-member.html
    name="Frank Keller"
    picture="/assets/images/committee/program_chairs/frank_keller.jpg"
    institution="University of Edinburgh"
@@ -722,6 +683,11 @@ sidebar:
    institution="Google"
 %}
 
+{% include committee-member.html
+   name="Alberto Testoni"
+   picture="/assets/images/committee/program_chairs/person.png"
+   institution="University of Amsterdam"
+%}
 
 ### NLP Applications
 
@@ -759,12 +725,6 @@ sidebar:
    name="Preslav Nakov"
    picture="/assets/images/committee/program_chairs/preslav_nakov.jpg"
    institution="Mohamed bin Zayed University of Artificial Intelligence"
-%}
-
-{% include committee-member.html
-   name="Manaal Faruqui"
-   picture="/assets/images/committee/program_chairs/manaal_faruqui.jpg"
-   institution="Google"
 %}
 
 {% include committee-member.html
