@@ -44,7 +44,7 @@ sidebar:
 
 {% include committee-member.html
    name="Carla Perez-Almendros"
-   picture="/assets/images/committee/program_chairs/person.png"
+   picture="/assets/images/committee/program_chairs/carla_perez-almendros.png"
    institution="Cardiff University"
 %}
 
@@ -492,7 +492,7 @@ sidebar:
 
 {% include committee-member.html
    name="Harish Tayyar Madabushi"
-   picture="/assets/images/committee/program_chairs/person.png"
+   picture="/assets/images/committee/program_chairs/harish_tayyar_madabushi.png"
    institution="University of Bath"
 %}
 
@@ -524,7 +524,7 @@ sidebar:
 
 {% include committee-member.html
    name="Raquel Alhama"
-   picture="/assets/images/committee/program_chairs/person.png"
+   picture="/assets/images/committee/program_chairs/raquel_alhama.png"
    institution="University of Amsterdam"
 %}
 
@@ -685,7 +685,7 @@ sidebar:
 
 {% include committee-member.html
    name="Alberto Testoni"
-   picture="/assets/images/committee/program_chairs/person.png"
+   picture="/assets/images/committee/program_chairs/alberto_testoni.png"
    institution="University of Amsterdam"
 %}
 
