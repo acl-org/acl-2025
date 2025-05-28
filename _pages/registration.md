@@ -116,12 +116,12 @@ The Full Conference **Virtual Registration** Fee Includes:
 | IP - Workshop Only - Registering Paper Student                       | \$350.00     | \$400.00      | \$450.00      |
 | IP - Workshop Only - Student                                         | \$150.00     | \$200.00      | \$250.00      |
 | IP - Tutorial Only - Industrial/Non-Academic                         | \$175.00     | \$200.00      | \$225.00      |
-| IP - Tutorial Only - Academic                                        | \$100.00     | \$120.00      | \$140.00      |
-| IP - Tutorial Only - Student                                         | \$125.00     | \$150.00      | \$175.00      |
-| IP - Workshop & Tutorial - Registering Paper Industrial/Non-Academic | \$450.00     | \$500.00      | \$550.00      |
-| IP - Workshop & Tutorial - Industrial/Non-Academic                   | \$250.00     | \$300.00      | \$350.00      |
-| IP - Workshop & Tutorial - Registering Paper Academic                | \$350.00     | \$400.00      | \$450.00      |
-| IP - Workshop & Tutorial - Academic                                  | \$150.00     | \$200.00      | \$250.00      |
+| IP - Tutorial Only - Academic                                        | \$125.00     | \$150.00      | \$175.00      |
+| IP - Tutorial Only - Student                                         | \$75.00      | \$100.00      | \$125.00      |
+| IP - Workshop & Tutorial - Registering Paper Industrial/Non-Academic | \$550.00     | \$600.00      | \$650.00      |
+| IP - Workshop & Tutorial - Industrial/Non-Academic                   | \$350.00     | \$400.00      | \$450.00      |
+| IP - Workshop & Tutorial - Registering Paper Academic                | \$450.00     | \$500.00      | \$550.00      |
+| IP - Workshop & Tutorial - Academic                                  | \$250.00     | \$300.00      | \$350.00      |
 | IP - Workshop & Tutorial - Registering Paper Student                 | \$350.00     | \$400.00      | \$450.00      |
 | IP - Workshop & Tutorial - Student                                   | \$150.00     | \$200.00      | \$250.00      |
     
