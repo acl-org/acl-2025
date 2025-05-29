@@ -5,8 +5,8 @@ excerpt: "ACL 2025 Accepted CL Papers"
 permalink: /program/cl_papers/
 sidebar:
     nav: "program"
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
 ---
 
 * **Neural Semantic Parsing with Extremely Rich Symbolic Meaning Representations**<br>*Xiao Zhang, Gosse Bouma ,Johan Bos*

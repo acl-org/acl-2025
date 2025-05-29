@@ -5,8 +5,8 @@ excerpt: "ACL 2025 Accepted TACL Papers"
 permalink: /program/tacl_papers/
 sidebar:
     nav: "program"
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
 ---
 
 * **Phonetic Reconstruction of the Consonant System of Middle Chinese via Mixed Integer Optimization**<br>*Xiaoxi Luo, Weiwei Sun*

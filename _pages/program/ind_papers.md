@@ -5,8 +5,8 @@ excerpt: "ACL 2025 Accepted Industry Track Papers"
 permalink: /program/ind_papers/
 sidebar:
     nav: "program"
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
 ---
 
 * **Boosting Decision-Making Ability of LLMs with Speculative Reward Model Cost-Effectively**<br>*need*

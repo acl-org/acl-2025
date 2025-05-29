@@ -5,8 +5,8 @@ excerpt: "ACL 2025 Accepted Findings Papers"
 permalink: /program/find_papers/
 sidebar:
     nav: "program"
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
 ---
 
 * **Explicit vs. Implicit: Investigating Social Bias in Large Language Models through Self-Reflection**<br>*Yachao Zhao, Bo Wang, Yan Wang, Dongming Zhao, Ruifang He, Yuexian Hou*

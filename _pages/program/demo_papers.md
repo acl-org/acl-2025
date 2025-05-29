@@ -5,8 +5,8 @@ excerpt: "ACL 2025 Accepted System Demonstrations Papers"
 permalink: /program/demo_papers/
 sidebar:
     nav: "program"
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
 ---
 
 * **MapQaTor: An Extensible Framework for Efficient Annotation of Map-Based QA Datasets**<br>*Mahir Labib Dihan(~Mahir_Labib_Dihan1),Mohammed Eunus Ali(~Mohammed_Eunus_Ali1),Md Rizwan Parvez(~Md_Rizwan_Parvez1)*
