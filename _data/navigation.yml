@@ -71,6 +71,20 @@ program:
 #        url: /program/social/
 #       - title: "Careers in NLP Panel"
 #         url: /program/careerspanel/
+  - title: Accepted
+    children:
+      - title: "Main Conference Papers"
+        url: /program/main_papers/
+      - title: "Findings Papers"
+        url: /program/find_papers/
+      - title: "System Demonstrations Papers"
+        url: /program/demo_papers/
+      - title: "Industry Track Papers"
+        url: /program/ind_papers/
+      - title: "CL Papers"
+        url: /program/cl_papers/
+      - title: "TACL Papers"
+        url: /program/tacl_papers/
 
 # sponsors:
 #   - title: Sponsors
