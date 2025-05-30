@@ -41,7 +41,7 @@ The Schengen-Visa fee costs 90 €.
 The fee is not required in some cases, you can find more details at the [Federal Ministry Republic of Austria](https://www.bmeia.gv.at/en/travel-stay/entrance-and-residence-in-austria/visa) under the tab "Fees".
 
 
-### Invitation Letter
+### Invitation Letter via Registration
 
 #### [Updated on May 21st] 
 **Important note**: Registration is officially open. You can find the information about the registration here: https://2025.aclweb.org/registration/
@@ -56,22 +56,17 @@ The information provided through the form below serves as our channel of communi
 
 ---
 
+### Visa Appointment and Form
+
 Based on the official information we received from the Vienna Convention Bureau, ACL 2025 is only allowed to provide an invitation letter in three cases: 1) to members of accepted workshops and tutorials, 2) authors of accepted papers, and 3) registered attendees in ACL 2025. 
 
 We understand that there might be significant delays to acquiring a visa appointment in Austrian embassies, and for this reason we are in coordination with the Vienna Convention Bureau to assist all international ACL 2025 attendees to ensure a visa appointment on time. 
 
 - Round 1 (completed): It is important to submit your personal information by May 18th AoE and wait to receive the ACL 2025 inviation letter **before** submitting your visa documents to the Austrian embassy for an appointment. 
 
+- Round 2 (on going): Deadline for submitting the form is June 1st.
 
-You can apply for an invitation letter for obtaining a VISA for ACL 2025 in this [form](https://cryptpad.fr/form/#/2/form/view/IrfF8hdarp0UwDMlrIApSUjPIo5XoyzsBLRHIPkhMIU/). 
-
-If you have a paper accepted to the main conference including Findings, industry track, system demonstration track, and submitted to student research workshop, see Important Note for authors. If you are not an author for ACL 2025, but intend to attend the conference as an industry professional, see Important Note for Non-authors.
-
-- **Important Note for Authors**: If you have a paper, we will send an invitation letter to you only after the acceptance notification. In the meantime, please fill in the form and we will store your information to aid the fast-tracking of your application at the Austrian embassy after the notification period.
-
-- **Important Note for Non-authors**: If you do not have a paper, we will send you an invitation letter only after the registration. In the meantime, please fill in the form and we will store your information to aid the fast-tracking of your application at the Austrian embassy after the registration.
-
-We will store your provided information in the form to help you fast track your visa application after notification and registration date, respectively.
+**Form** You can apply for an invitation letter for obtaining a VISA for ACL 2025 in this [form](https://cryptpad.fr/form/#/2/form/view/IrfF8hdarp0UwDMlrIApSUjPIo5XoyzsBLRHIPkhMIU/). Please fill in the form and we will store your information to aid the fast-tracking of your application at the Austrian embassy after the notification period.
 
 
 ### Recommendations from ACL 2025 Visa chairs
