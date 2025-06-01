@@ -30,14 +30,14 @@ table th:nth-of-type(3) {
 | <span>July 27, 2025</span> | | |
 | -- | -- | -- |
 | Time | Location | Session Title |
-| 09:00 - 12:30 | Hall B | T1: Inverse Reinforcement Learning Meets Large Language Model Alignment                      |
+| 09:00 - 12:30 | Hall B | T1: Bridging Inverse Reinforcement Learning and Large Language Model Alignment: Toward Safe and Human-Centric AI Systems                      |
 | 09:00 - 12:30 | Hall M | T2: Eyetracking and NLP                                                                      |
-| 09:00 - 12:30 | Hall C | T3: Guardrails andSecurity for LLMs:Safe, Secure, andControllableSteering of LLMApplications |
+| 09:00 - 12:30 | Hall C | T3: Uncertainty Quantification for Large Language Models |
 | 09:00 - 12:30 | Hall N | T4: Human-AI Collaboration: How AIs Augment Human Teammates                                  |
 | 14:00 - 17:30 | Hall M | T5: Navigating Ethical Challenges in NLP: Hands-on strategies for students and researchers   |
 | 14:00 - 17:30 | Hall N | T6: NLP for Counterspeech against Hate and Misinformation                                    |
 | 14:00 - 17:30 | Hall B | T7: Synthetic Data in the Era of Large Language Models                                       |
-| 14:00 - 17:30 | Hall C | T8: Uncertainty Quantification for Large Language Models                                     |
+| 14:00 - 17:30 | Hall C | T8: Guardrails and Security for LLMs: Safe, Secure, and Controllable Steering of LLM Applications                                     |
 
 ## Tutorials Description
 
