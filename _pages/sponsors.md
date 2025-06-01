@@ -111,6 +111,10 @@ The deadline to sponsor **ACL 2025 is Tuesday, June 10, 2025.**
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/ByteDance.png" alt="ByteDance">
     </a>		
+    <a href="https://consumer.huawei.com/en/about-us/" title="Huawei">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/Huawei.png" alt="Huawei">
+    </a>	
 </figure>
 
 
