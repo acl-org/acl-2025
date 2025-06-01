@@ -1047,7 +1047,7 @@ toc_sticky: false
 * **Modeling the Evolution of English Noun Compounds with Feature-Rich Diachronic Compositionality Prediction**<br>*Filip Miletić, Sabine Schulte im Walde*
 * **What's the Difference? Supporting Users in Identifying the Effects of Prompt and Model Changes Through Token Patterns**<br>*Michael A. Hedderich, Anyi Wang, Raoyuan Zhao, Florian Eichin, Jonas Fischer, Barbara Plank*
 * **V-Oracle: Making Progressive Reasoning in Deciphering Oracle Bones for You and Me**<br>*Runqi Qiao, Qiuna Tan, Guanting Dong, MinhuiWu, Jiapeng Wang, YiFan Zhang, Zhuoma GongQue, Chong Sun, Yida Xu, Yadong Xue, Ye Tian, Zhimin Bao, LAN YANG, Chen Li, Honggang Zhang*
-* **Unveiling Cultural Blind Spots: Analyzing the Limitations of mLLMs in Procedural Text Comprehension**<br>*Fajri Koto, Amir Hossein Yari*
+* **Unveiling Cultural Blind Spots: Analyzing the Limitations of mLLMs in Procedural Text Comprehension**<br>*Amir Hossein Yari, Fajri Koto*
 * **Improving Language and Modality Transfer in Translation by Character-level Modeling**<br>*Ioannis Tsiamas, David Dale, Marta R. Costa-jussà*
 * **DialUp! Modeling the Language Continuum by Adapting Models to Dialects and Dialects to Models**<br>*Niyati Bafna, Emily Chang, Nathaniel Romney Robinson, David R. Mortensen, Kenton Murray, David Yarowsky, Hale Sirin*
 * **AutoMixAlign: Adaptive Data Mixing for Multi-Task Preference Optimization in LLMs**<br>*Nicholas E. Corrado, Julian Katz-Samuels, Adithya M Devraj, Hyokun Yun, Chao Zhang, Yi Xu, Yi Pan, Bing Yin, Trishul Chilimbi*
