@@ -43,6 +43,8 @@ The fee is not required in some cases, you can find more details at the [Federal
 
 ### Invitation Letter via Registration
 
+You will be able to issue an invitation letter once your registration is complete. If you have applied for a registration waiver (e.g., as a student volunteer or D&I) but have not yet received the results, please proceed with your registration and select "wire transfer" as your payment method.
+
 #### [Updated on May 21st] 
 **Important note**: Registration is officially open. You can find the information about the registration here: https://2025.aclweb.org/registration/
 At the end of the registration process, on the right-hand side of the screen there will be a blue button that reads Invitation Letter. Registered attendees can download from there.
