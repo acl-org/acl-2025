@@ -86,9 +86,8 @@ Breakfast, lunch, and dinner are not provided.
 | 11:00 - 12:30 |   | Session 12: Virtual Presentations (for virtual attendees only) |
 | 11:00 - 12:30 |   | Session 12: In Person Posters (Main, IND, SRW)                 |
 | 12:30 - 14:00 |   | Lunch Break (on own)                                           |
-| 14:00 - 14:15 |   | Session 13: Memorial                                           |
-| 14:15 - 14:45 |   | Session 13: Presidential Address                               |
-| 14:45 - 15:00 |   | Session 13: ToT Awards                                         |
+| 14:00 - 14:30 |   | Session 13: Presidential Address                               |
+| 14:30 - 15:00 |   | Session 13: ToT Awards                                         |
 | 15:00 - 16:00 |   | Session 13: ACL Lifetime                                       |
 | 16:00 - 16:30 |   | Coffee Break                                                   |
 | 16:30 - 17:30 |   | Session 14: Best Paper Awards                                  |
