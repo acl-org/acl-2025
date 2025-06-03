@@ -30,7 +30,7 @@ table th:nth-of-type(3) {
 | <span>July 27, 2025</span> | | |
 | -- | -- | -- |
 | Time | Location | Session Title |
-| 09:00 - 12:30 | Hall B | T1: Bridging Inverse Reinforcement Learning and Large Language Model Alignment: Toward Safe and Human-Centric AI Systems                      |
+| 09:00 - 12:30 | Hall B | T1: Inverse Reinforcement Learning Meets Large Language Model Alignment                      |
 | 09:00 - 12:30 | Hall M | T2: Eyetracking and NLP                                                                      |
 | 09:00 - 12:30 | Hall C | T3: Uncertainty Quantification for Large Language Models |
 | 09:00 - 12:30 | Hall N | T4: Human-AI Collaboration: How AIs Augment Human Teammates                                  |
@@ -46,7 +46,7 @@ table th:nth-of-type(3) {
 * <small>With NLP research being rapidly productionized into real-world applications, it is important to be aware of and think through the consequences of our research. Such ethical considerations are important in both authoring and reviewing (e.g. privacy, consent, fairness, etc).
 <br>This tutorial will equip participants with basic guidelines for thinking deeply about ethical issues and review common considerations that recur in NLP research. The methodology is interactive and participatory, including case studies and working in groups. Participants will gain practical experience on when to flag a paper for ethics review and how to write an ethical consideration section, that will be shared with the broader community. Importantly, the participants will be co-creating the tutorial outcomes and extending tutorial materials to share as public outcomes.</small>  
 
-**Inverse Reinforcement Learning Meets Large Language Model Alignmen**<br>
+**Inverse Reinforcement Learning Meets Large Language Model Alignment**<br>
   <i>Mihaela van der Schaar and Hao Sun</i>
 * <small>Large Language Models (LLMs) are characterized as universal samplers or generators in the literature, yet maximizing their capabilities in different roles with post-training is a complex challenge. Previous efforts in the NLP community have extensively explored the diverse applications of LLMs across various domains, including enhancing chat abilities, solving mathematical problems, adopting LLMs for evaluation, generating synthetic data, improving Bayesian optimization, and designing external systems such as the reward function in reinforcement learning. Despite these advancements, key methods in post-training for improving LLM performance --- such as prompt optimization, in-context learning, supervised fine-tuning, and reinforcement learning from human feedback --- are typically studied in isolation. In this tutorial, we intend to use a unified Inverse Reinforcement Learning (IRL) perspective to characterize the applications of LLMs, and highlight the importance of task-specific post-training and alignment using the techniques of IRL, which has been shown empirically to achieve great success in the recent o1 model from OpenAI. We will demonstrate when and why post-training with IRL is necessary to ensure safe and human-centric AI systems. We will also introduce what would be the optimized practices in different applications under various data and knowledge availability.</small> 
 
