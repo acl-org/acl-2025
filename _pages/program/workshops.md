@@ -116,7 +116,7 @@ Location: Room 2.31.
 - [Thorne James](thorne@kaist.ac.kr)
 - [Vlachos Andreas](av308@cam.ac.uk)
 
-**[GEM: Natural Language Generation, Evaluation, and Metrics](https://gem-benchmark.com/workshop)**  
+**[GEM2 Workshop: Generation, Evaluation & Metrics](https://gem-benchmark.com/workshop)**  
 Location: Hall C.
 
 - [Gehrmann Sebastian](gehrmann.seb@gmail.com)
