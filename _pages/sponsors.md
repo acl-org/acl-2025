@@ -146,7 +146,7 @@ The deadline to sponsor **ACL 2025 is Tuesday, June 10, 2025.**
     </a>
     <a href="https://neclab.eu/" title="NEC">
       <div class="dummy-padding"></div>
-        <img src="/assets/images/sponsors/nec.jpg" alt="NEC">
+        <img src="/assets/images/sponsors/NEC.png" alt="NEC">
     </a>
     <a href="https://defined.ai/" title="Defined AI">
       <div class="dummy-padding"></div>
