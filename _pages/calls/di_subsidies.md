@@ -26,7 +26,8 @@ This is for getting a waiver for ACL registration. You can also request ACL memb
 2. *"I have an accepted paper at an ACL Workshop. I live in a developing country [name the country], and I/my institution cannot afford the registration fees."*
 3. *"I have a paper accepted at the main conference/workshop/ and I am an active member of Latinx/Masakhane/North Africans in NLP/QueerInAI/WiNLP."*
    
-***Note*** that if you are applying for a registration fee waiver, **you SHOULD NOT register for the conference until you hear from us about your D&I subsidy application.** Keep in mind that we will take your justification into account when processing your application.
+***Note*** that if you are applying for a registration fee waiver, **you SHOULD NOT register for the conference until you hear from us about your D&I subsidy application.** If you need to register sooner to generate a visa letter, please see [visa guidance](https://2025.aclweb.org/visa/).    
+Keep in mind that we will take your justification into account when processing your application.
  
 # Travel and Accommodation Subsidies
 
