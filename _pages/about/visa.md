@@ -66,12 +66,47 @@ We understand that there might be significant delays to acquiring a visa appoint
 
 - Round 1 (completed): It is important to submit your personal information by May 18th AoE and wait to receive the ACL 2025 inviation letter **before** submitting your visa documents to the Austrian embassy for an appointment. 
 
-- Round 2 (on going): Deadline for submitting the form is June 1st.
+- Round 2 (completed): Deadline for submitting the form is June 1st.
+
+#### [Updated on June 5th] 
+There is an ongoing 3rd round for filling out the form to be included in the internal communication list with the Austrian embassies. However, for all visa applicants from June onward, there is no guarantee that you will be able to secure an appointment at one of the representative embassies due to the limited time and the heavy workload some embassies face during the high season.
+
+- Round 3 (ongoing): Final deadline for submitting the form is June 17th AoE.
 
 **Form** You can apply for an invitation letter for obtaining a VISA for ACL 2025 in this [form](https://cryptpad.fr/form/#/2/form/view/IrfF8hdarp0UwDMlrIApSUjPIo5XoyzsBLRHIPkhMIU/). Please fill in the form and we will store your information to aid the fast-tracking of your application at the Austrian embassy after the notification period.
 
 
-### Recommendations from ACL 2025 Visa chairs
+## FAQ
+
+### Contact details of visiting company 
+University of Vienna
+Univ.-Prof. Dr. Benjamin Roth
+Kolingasse 14
+A-1090 Vienna
+Austria
+
+and 
+
+University of Vienna
+Assoz.-Prof. Dr. Dagmar Gromann
+Gymnasiumstrasse 50
+A-1190 Vienna
+Austria
+
+### Extension of the stay in the invitation letter
+Unfortunately, we cannot modify the dates in the invitation letter, which indicate the dates of the ACL event. 
+
+### Acquiring a visa appointment
+Unfortunately, we cannot book visa appointments nor we can guarantee of finding an appointment in the embassy of your preference. 
+
+We recommend regularly checking the embassy website for available appointment slots, as they may open up at any time. Alternatively, consider applying for visa in an another embassy. 
+
+
+### Electronic letter of guarantee 
+We do not provide such a letter, however, the Austrian representative embassies have been informed that the conference is not responsible for covering the costs of attendees transportation, accommodation nor any activity outside of the beverages and food provided during the conference hours, which are 09:00-17:00 from July 27th to August 1st. 
+
+
+## Recommendations from ACL 2025 Visa chairs
 
 Carefully double check the requirements of the embassy you are applying for a visa to Austria. Having an incomplete application can significantly delay your visa approval.
 
