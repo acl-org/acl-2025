@@ -18,10 +18,9 @@ Simply a valid passport is required to enter Austria. In case of doubt please co
 
 Current member countries of the Schengen treaty are:
 
-Austria, Belgium, Bulgaria\*\*, Croatia, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland\*, Italy, Latvia, Liechtenstein\*, Lithuania, Luxembourg, Malta, Netherlands, Norway\*, Poland, Portugal, Romania\*\*, Slovakia, Slovenia, Spain, Sweden, and Switzerland\*.
+Austria, Belgium, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland\*, Italy, Latvia, Liechtenstein\*, Lithuania, Luxembourg, Malta, Netherlands, Norway\*, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, and Switzerland\*.
 
-\* non-EU members.     
-\*\* Schengen Air & Sea agreement.    
+\* non-EU members.
 
 ## Who needs a visa?
 
