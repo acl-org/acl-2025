@@ -1668,7 +1668,6 @@ toc_sticky: false
 * **Energy Considerations of Large Language Model Inference and Efficiency Optimizations**<br>*Jared Fernandez, Clara Na, Vashisth Tiwari, Yonatan Bisk, Sasha Luccioni, Emma Strubell*
 * **Optimizing Pre-Training Data Mixtures with Mixtures of Data Expert Models**<br>*Lior Belenki, Alekh Agarwal, Tianze Shi, Kristina Toutanova*
 * **BFS-Prover: Scalable Best-First Tree Search for LLM-based Automatic Theorem Proving**<br>*Ran Xin, Chenguang Xi, Jie Yang, Feng Chen, Hang Wu, Xia Xiao, Yifan Sun, Shen Zheng, Ming Ding*
-* **Tempest: Automatic Multi-Turn Jailbreaking of Large Language Models with Tree Search**<br>*Andy Zhou, Ron Arel*
 * **Magnet: Multi-turn Tool-use Data Synthesis and Distillation via Graph Translation**<br>*Fan Yin, Zifeng Wang, I-Hung Hsu, Jun Yan, Ke Jiang, Yanfei Chen, Jindong Gu, Long Le, Kai-Wei Chang, Chen-Yu Lee, Hamid Palangi, Tomas Pfister*
 * **Cross-Lingual Representation Alignment Through Contrastive Image-Caption Tuning**<br>*Nathaniel Krasner, Nicholas Lanuzo, Antonios Anastasopoulos*
 * **Logic-Regularized Verifier Elicits Reasoning from LLMs**<br>*Xinyu Wang, Changzhi Sun, Lian Cheng, Yuanbin Wu, Dell Zhang, Xuelong Li, Xiaoling Wang*
