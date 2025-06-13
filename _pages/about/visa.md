@@ -101,9 +101,12 @@ Unfortunately, we cannot book visa appointments nor we can guarantee of finding 
 
 We recommend regularly checking the embassy website for available appointment slots, as they may open up at any time. Alternatively, consider applying for visa in an another embassy. 
 
-
 ### Electronic letter of guarantee 
 We do not provide such a letter, however, the Austrian representative embassies have been informed that the conference is not responsible for covering the costs of attendees transportation, accommodation nor any activity outside of the beverages and food provided during the conference hours, which are 09:00-17:00 from July 27th to August 1st. 
+
+### In case of visa rejection 
+In the unfortunate event that your visa gets rejected, we advice you to follow the [cancellation policy](https://2025.aclweb.org/registration/#cancellation-policy) of your registration.
+
 
 
 ## Recommendations from ACL 2025 Visa chairs
