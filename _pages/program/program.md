@@ -38,22 +38,43 @@ See detailed schedule in [Tutorials](https://2025.aclweb.org/program/tutorials/)
 ### Monday, July 28, 2025: Main Conference Day 1
 
 Breakfast, lunch, and dinner are not provided.    
+All Plenary & Oral Sessions will be available to view online		
 
 | Time          | Location              | Description                                                 |
 | ------------- | --------------------- | -------------------------------------------------------- |
 | **08:00 - 18:30** | **Level 0 Entrance Hall** | **Registration**                                             |
-| 09:00 - 09:30 |   | Session 1: Welcome                                            |
-| 09:30 - 10:30 |   | Session 1: Keynote: Luke Zettlemoyer                          |
+| 09:00 - 09:30 | Level 2 Hall A - C  | Session 1: Welcome                                            |
+| 09:30 - 10:30 |  Level 2 Hall A - C | Session 1: Keynote: Luke Zettlemoyer                          |
 | 10:30 - 11:00 |   | Coffee Break                                                  |
-| 11:00 - 12:30 |   | Session 2: Virtual Presentations (for virtual attendees only) |
+| 11:00 - 12:30 | Underline  | Session 2: Virtual Presentations (for virtual attendees only) |
 | 11:00 - 12:30 |   | Session 2: In Person Posters (Main)                           |
+| |   | **Track/Theme**                           |
+| | Level 0 Exhibit Halls X4 or X5  |     Ethics, Bias, and Fairness   |
+| | Level 0 Exhibit Halls X4 or X5  | Efficient/Low-Resource Methods for NLP   |
+| | Level 0 Exhibit Halls X4 or X5  | NLP Applications  |
+| | Level 0 Exhibit Halls X4 or X5  | Speech Recognition, Text-to-Speech and Spoken Language Understanding    |
+| | Level 0 Exhibit Halls X4 or X5  | Human-centered NLP  |
+| | Level 0 Exhibit Halls X4 or X5  | Information Retrieval and Text Mining  |
 | 12:30 - 14:00 |   | Lunch Break (on own)                                          |
 | 14:00 - 15:30 |   | Session 3: In Person Orals                                    |
+| |   | **Track/Theme**                           |
+| | Level 1 1.86 | Discourse and Pragmatics  |
+| | Level 1 M.2 | Ethics, Bias, and Fairness 1  |
+| | Level 1 M.1 | Generation    |
+| | Level 1 1.62 | Human-centered NLP  |
+| | Level 1 N.1 | Information Retrieval and Text Mining  |
+| | Level 1 1.61 | Linguistic Theories, Cognitive Modeling, and Psycholinguistics  |
+| | Level 1 1.85 | Machine Translation  |
+| | Level 2 Hall C | Multimodality and Language Grounding to Vision, Robotics and Beyond 1  |
+| | Level 2 Hall B | NLP Applications 1  |
+| | Level 2 Hall A | Resources and Evaluation 1  |
+| | Level 1 1.15-16 | Generalisation of NLP models 1  |
 | 15:30 - 16:00 |   | Coffee Break                                                  |
-| 16:00 - 16:30 |   | Session 4: CL Dissertation Award                              |
-| 16:30 - 17:30 |   | Session 4: Panel                                              |
-| 18:00 - 19:30 |   | Session 5: In Person Posters (Findings with Reception)        |
-| 18:00 - 19:30 |   | Session 5: Virtual Posters (Findings in Gather)               |
+| 16:00 - 16:30 | Level 2 Hall A - C  | Session 4: CL Dissertation Award                              |
+| 16:30 - 17:30 | Level 2 Hall A - C  | Session 4: Panel: Generalization on NLP Models              |
+|  |   |Panelist: Mirella Lapata, Dan Roth, Yue Zhang - Moderator: Eduard Hovy                     |
+| 18:00 - 19:30 | Level 0 Exhibit Halls X4 or X5  | Session 5: In Person Posters (Findings with Reception)        |
+| 18:00 - 19:30 |  Gather | Session 5: Virtual Posters (Findings in Gather)               |
 
 ### Tuesday, July 29, 2025 Main Conference Day 2
 
