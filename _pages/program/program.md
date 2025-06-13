@@ -126,21 +126,44 @@ All Plenary & Oral Sessions will be available to view online
 ### Wednesday, July 30, 2025: Main Conference Day 3
 
 Breakfast, lunch, and dinner are not provided.    
+All Plenary & Oral Sessions will be available to view online		
 
 | Time          | Location              | Description                          |
 | ------------- | --------------------- | --------------------------------- |
 | **08:30 - 17:30** | **Level 0 Entrance Hall** | **Registration**                      |
 | 09:00 - 10:30 |   | Session 11: In Person Orals                                    |
+| | | **Track/Theme** |
+| | TBD | Efficient/Low-Resource Methods for NLP  | 
+| | TBD | Interpretability and Analysis of Models for NLP  | 
+| | TBD | Machine Learning for NLP |
+| | TBD | Multilingualism and Cross-Lingual NLP |
+| | TBD | Multimodality and Language Grounding to Vision, Robotics and Beyond  | 
+| | TBD | NLP Applications  | 
+| | TBD | Question Answering | 
+| | TBD | Computational Social Science and Cultural Analytics  | 
+| | TBD | Ethics, Bias, and Fairness  | 
+| | TBD | Language Modeling  | 
+| | TBD | Resources and Evaluation  | 
+| | TBD | Generalisation of NLP models  | 
 | 10:30 - 11:00 |   | Coffee Break                                                   |
-| 11:00 - 12:30 |   | Session 12: Virtual Presentations (for virtual attendees only) |
+| 11:00 - 12:30 |  Underline | Session 12: Virtual Presentations (for virtual attendees only) |
 | 11:00 - 12:30 |   | Session 12: In Person Posters (Main, IND, SRW)                 |
+| |  | Track/Theme | 
+| | Level 0 Exhibit Halls X4 or X5 | Language Modeling | 
+| | Level 0 Exhibit Halls X4 or X5 | Computational Social Science and Cultural Analytics 2 | 
+| | Level 0 Exhibit Halls X4 or X5 | Question Answering | 
+| | Level 0 Exhibit Halls X4 or X5 | Phonology, Morphology, and Word Segmentation AND Syntax: Tagging, Chunking and Parsing | 
+| | Level 0 Exhibit Halls X4 or X5 | Linguistic Theories, Cognitive Modeling, and Psycholinguistics | 
+| | Level 0 Exhibit Halls X4 or X5 | Machine Translation | 
+| | Level 0 Exhibit Halls X4 or X5 | Discourse and Pragmatics | 
 | 12:30 - 14:00 |   | Lunch Break (on own)                                           |
-| 14:00 - 14:30 |   | Session 13: Presidential Address                               |
-| 14:30 - 15:00 |   | Session 13: ToT Awards                                         |
-| 15:00 - 16:00 |   | Session 13: ACL Lifetime                                       |
+| 14:00 - 14:30 | Level 2 Hall A - C  | Session 13: Presidential Address                               |
+| 14:30 - 14:50 | Level 2 Hall A - C  | Session 13: Test of Times |
+| 14:50 - 15:00 | Level 2 Hall A - C  | Session 13: ACL Distinguished Service Awards |
+| 15:00 - 16:00 | Level 2 Hall A - C  | Session 13: ACL Lifetime Achievement Award                |
 | 16:00 - 16:30 |   | Coffee Break                                                   |
-| 16:30 - 17:30 |   | Session 14: Best Paper Awards                                  |
-| 17:30 - 18:00 |   | Session 15: Closing Session                                    |
+| 16:30 - 17:30 | Level 2 Hall A - C  | Session 14: Best Paper Awards                                  |
+| 17:30 - 18:00 | Level 2 Hall A - C  | Session 15: Closing Session                                    |
 
 ### Thursday, July 31, 2025: Workshops
 
