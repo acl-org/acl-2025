@@ -181,7 +181,7 @@ toc_sticky: false
 * **No Questions are Stupid, but some are Poorly Posed: Understanding Poorly-Posed Information-Seeking Questions**<br>*Neha Srikanth, Rachel Rudinger, Jordan Lee Boyd-Graber*
 * **Understanding Common Ground Misalignment in Goal-Oriented Dialog: A Case-Study with Ubuntu Chat Logs**<br>*Rupak Sarkar, Neha Srikanth, Taylor Hudson, Rachel Rudinger, Claire Bonial, Philip Resnik*
 * **Grounded, or a Good Guesser? A Per-Question Balanced Dataset to Separate Blind from Grounded Models for Embodied Question Answering**<br>*Miles Shelton, Nate Wingerd, Kritim K Rijal, Ayush Garg, Adelina Gutic, Brett Barnes, Catherine Finegan-Dollak*
-* **Addressing Blind Guessing: Calibration of Selection Bias in Multiple-Choice Question Answering by Video Language Models**<br>*Olga Loginova, Oleksandr Bezrukov, Alexey Kravets*
+* **Addressing Blind Guessing: Calibration of Selection Bias in Multiple-Choice Question Answering by Video Language Models**<br>*Olga Loginova, Oleksandr Bezrukov, Ravi Shekhar, Alexey Kravets*
 * **Towards Reward Fairness in RLHF: From a Resource Allocation Perspective**<br>*Sheng Ouyang, Yulan Hu, Ge Chen, Qingyang Li, Fuzheng Zhang, Yong Liu*
 * **Taming LLMs with Gradient Grouping**<br>*Siyuan Li, Juanxi Tian, Zedong Wang, Xin Jin, Zicheng Liu, Wentao Zhang, Dan Xu*
 * **LazyReview A Dataset for Uncovering Lazy Thinking in NLP Peer Reviews**<br>*Sukannya Purkayastha, Zhuang Li, Anne Lauscher, Lizhen Qu, Iryna Gurevych*
