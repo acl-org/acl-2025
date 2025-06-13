@@ -148,7 +148,7 @@ All Plenary & Oral Sessions will be available to view online
 | 10:30 - 11:00 |   | Coffee Break                                                   |
 | 11:00 - 12:30 |  Underline | Session 12: Virtual Presentations (for virtual attendees only) |
 | 11:00 - 12:30 |   | Session 12: In Person Posters (Main, IND, SRW)                 |
-| |  | Track/Theme | 
+| |  | **Track/Theme** | 
 | | Level 0 Exhibit Halls X4 or X5 | Language Modeling | 
 | | Level 0 Exhibit Halls X4 or X5 | Computational Social Science and Cultural Analytics 2 | 
 | | Level 0 Exhibit Halls X4 or X5 | Question Answering | 
