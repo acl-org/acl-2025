@@ -121,6 +121,13 @@ The deadline to sponsor **ACL 2025 is Tuesday, June 10, 2025.**
     </a>		
 </figure>
 
+## Gold
+<figure class="sponsors-list third">
+    <a href="https://www.thomsonreuters.com/en/careers/our-jobs/join-thomson-reuters-labs" title="Thomson Reuters">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/thomson_reuters.png" alt="Appen">
+    </a>
+</figure>
 
 ## Silver
 <figure class="sponsors-list third">
