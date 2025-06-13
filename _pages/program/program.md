@@ -79,20 +79,48 @@ All Plenary & Oral Sessions will be available to view online
 ### Tuesday, July 29, 2025 Main Conference Day 2
 
 Breakfast, lunch, and dinner are not provided.    
+All Plenary & Oral Sessions will be available to view online		  
 
 | Time          | Location              | Description                                                            |
 | ------------- | --------------------- | ------------------------------------------------------------------- |
 | **08:30 - 21:30** | **Level 0 Entrance Hall** | **Registration**                                                        |
-| 09:00 - 10:00 |   | Session 6: Keynote: Verena Rieser                                    |
+| 09:00 - 10:00 | Level 2 Hall A - C  | Session 6: Keynote: Verena Rieser                                    |
+| | | Title: Whose Gold? Re-imagining Alignment for Truly Beneficial AI |
 | 10:00 - 10:30 |   | Coffee Break                                                         |
-| 10:30 - 12:00 |   | Session 7: Virtual Presentations (for virtual attendees only)        |
+| 10:30 - 12:00 | Underline  | Session 7: Virtual Presentations (for virtual attendees only)        |
 | 10:30 - 12:00 |   | Session 7: In Person Posters (Main, IND, SRW)                        |
+| | | **Track/Theme** | 
+| | Level 0 Exhibit Halls X4 or X5 | Resources and Evaluation   | 
+| | Level 0 Exhibit Halls X4 or X5 | Interpretability and Analysis of Models for NLP   | 
+| | Level 0 Exhibit Halls X4 or X5 | Machine Learning for NLP | 
+| | Level 0 Exhibit Halls X4 or X5 | Multilingualism and Cross-Lingual NLP | 
+| | Level 0 Exhibit Halls X4 or X5 | Semantics: Lexical and Sentence-Level   | 
+| | Level 0 Exhibit Halls X4 or X5 | Information Extraction   | 
 | 12:00 - 13:00 |   | Lunch Break (on own)                                                 |
-| 13:00 - 13:45 |   | Session 8: Business Meeting                                          |
+| 13:00 - 13:45 | Level 2 Hall B  | Session 8: Business Meeting                                          |
 | 14:00 - 15:30 |   | Session 9: In Person Orals                                           |
+| | | **Track/Theme** | 
+| | Level 1 N.1 | Computational Social Science and Cultural Analytics 1 | 
+| | Level 1 M.2 | Dialogue and Interactive Systems  | 
+| | Level 2 Hall C | Efficient/Low-Resource Methods for NLP 1 | 
+| | Level 1 N.2 | Information Extraction  | 
+| | Level 1 M.1 | Interpretability and Analysis of Models for NLP 1   | 
+| | Level 2 Hall B | Language Modeling 1 | 
+| | Level 1 1.86 | Phonology, Morphology, and Word Segmentation AND Syntax: Tagging, Chunking and Parsing | 
+| | Level 1 1.62 | Semantics: Lexical and Sentence-Level  | 
+| | Level 1 1.15-16 | Sentiment Analysis, Stylistic Analysis, and Argument Mining  | 
+| | Level 1 1.61 | Speech Recognition, Text-to-Speech and Spoken Language Understanding  | 
+| | Level 1 1.85 | Summarization  | 
 | 15:30 - 16:00 |   | Coffee Break                                                         |
-| 16:00 - 17:30 |   | Session 10: Virtual Presentations (for virtual attendees only)       |
+| 16:00 - 17:30 | Underline  | Session 10: Virtual Presentations (for virtual attendees only)       |
 | 16:00 - 17:30 |   | Session 10: In Person Posters (Main, IND, SRW)                       |
+| |  | **Track/Theme** | 
+| | Level 0 Exhibit Halls X4 or X5 | Generalisation of NLP models   | 
+| | Level 0 Exhibit Halls X4 or X5 | Multimodality and Language Grounding to Vision, Robotics and Beyond   | 
+| | Level 0 Exhibit Halls X4 or X5 | Summarization   | 
+| | Level 0 Exhibit Halls X4 or X5 | Sentiment Analysis, Stylistic Analysis, and Argument Mining  | 
+| | Level 0 Exhibit Halls X4 or X5 | Dialogue and Interactive Systems   | 
+| | Level 0 Exhibit Halls X4 or X5 | Generation   | 
 | 19:00 - 22:00 |   | Social Event  for all Registered Full, Main, or Social Event add-ons |
 
 ### Wednesday, July 30, 2025: Main Conference Day 3
