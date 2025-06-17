@@ -24,7 +24,7 @@ If you are presenting a demo, a student research workshop paper or industry trac
 All pre-recorded presentations, posters and slides must be uploaded to Underline by **June 29, 2025** through a [Speaker Form](https://acl2025-mainconference.paperform.co/) detailed on slide 5.    
 
 Content Submission Instructions also provide a simple set of guidelines on how to record your presentation.
-If you need help or have questions please email Underline Support Team at acl2025@underline.io
+If you need help or have questions please email Underline Support Team at [acl2025@underline.io](mailto:acl2025@underline.io)
 
 ## Submission Requirements - Workshops    
 Authors of accepted papers are invited to submit a pre-recorded video presentation, a poster PDF and/or presentation slides.    
@@ -44,10 +44,10 @@ Posters should be A0 size (33.1 x 46.8 inches) in portrait orientation.
 XEST is the ACL 2025 preferred poster printing company. Order through the custom link provided [here](https://xest.info/acl). Participants can order with attractive early bird pricing until July 20. From July 21 and throughout the event, regular pricing applies. The daily deadline for next-day pick-up is 11 a.m.    
 
 Alternative in the City Center:     
-https://diekopie.at/poster-plane-plakate/      
+[https://diekopie.at/poster-plane-plakate/](https://diekopie.at/poster-plane-plakate/)      
 
 Alternative near Austria Center Vienna:       
-https://www.iprinter.at/copyshop.html     
+[https://www.iprinter.at/copyshop.html](https://www.iprinter.at/copyshop.html)     
 
 ## Miscellaneous FAQs    
 **Will I be able to see my notes?** - Yes, all main conference breakout rooms have confidence monitors.     
