@@ -1070,7 +1070,7 @@ toc_sticky: false
 * **MWPO: Enhancing LLMs Performance through Multi-Weight Preference Strength and Length Optimization**<br>*Shiyue Xu, Fu Zhang, Jingwei Cheng, Linfeng Zhou*
 * **CLEAR: Character Unlearning in Textual and Visual Modalities**<br>*Alexey Dontsov, Dmitrii Korzh, Alexey Zhavoronkin, Boris Mikheev, Denis Bobkov, Aibek Alanov, Oleg Rogov, Ivan Oseledets, Elena Tutubalina*
 * **Assessing the Reasoning Capabilities of LLMs in the context of Evidence-based Claim Verification**<br>*John Dougrez-Lewis, Mahmud Elahi Akhter, Federico Ruggeri, Sebastian Löbbers, Yulan He, Maria Liakata*
-* **Temporal Generalizability in the Realm of Event Detection: The Role of Multilingual Models and Stochasticity**<br>*Stella Verkijk, Piek Vossen, Pia Sommerauer*
+* **Language Models Lack Temporal Generalisation and Bigger is Not Better**<br>*Stella Verkijk, Piek Vossen, Pia Sommerauer*
 * **DiffLM: Controllable Synthetic Data Generation via Diffusion Language Models**<br>*Ying Zhou, Xinyao Wang, Yulei Niu, Yaojie Shen, Lexin Tang, Fan Chen, Ben He, Le Sun, Longyin Wen*
 * **Uncertainty Unveiled: Can Exposure to More In-context Examples Mitigate Uncertainty for Large Language Models?**<br>*Yifei Wang, Yu Sheng, Linjing Li, Daniel Dajun Zeng*
 * **ToolSpectrum: Towards Personalized Tool Utilization for Large Language Models**<br>*Zihao Cheng, Hongru WANG, Zeming Liu, Yuhang Guo, Yuanfang Guo, Yunhong Wang, Haifeng Wang*
