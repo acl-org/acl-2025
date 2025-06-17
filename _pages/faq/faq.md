@@ -5,6 +5,8 @@ excerpt: "ACL 2025 FAQ"
 permalink: /faq/
 sidebar: 
     nav: "FAQ"
+toc: True
+toc_sticky: True	
 ---
 
 
