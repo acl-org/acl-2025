@@ -169,7 +169,11 @@ The deadline to sponsor **ACL 2025 is Tuesday, June 10, 2025.**
     </a>	
     <a href="https://dataoceanai.com/" title="DataOcean AI ">
       <div class="dummy-padding"></div>
-        <img src="/assets/images/sponsors/DataoceanAI.png" alt="DataOcean AI ">
+        <img src="/assets/images/sponsors/DataoceanAI.png" alt="DataOcean AI">
+    </a>	
+    <a href="https://dataoceanai.com/" title="NatWest Group">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/nwg.png" alt="NatWest Group">
     </a>		
 </figure>
 
