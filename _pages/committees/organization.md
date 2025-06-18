@@ -511,9 +511,9 @@ email = ""
 
 {% include committee-member.html
 name="Eleni Ilkou"
-picture="/assets/images/committee/Eleni_Ilkou.png"
+picture="/assets/images/committee/Ilkou.png"
 site=""
-institution="University of Hannover"
+institution="TIB"
 email = ""
 %}
 
