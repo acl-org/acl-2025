@@ -18,7 +18,7 @@ p.speaker-bio { font-style: italic; font-size: 80%; }
 
 ## Luke Zettlemoyer
 
-![Luke Zettlemoyer](assets/images/speaker/Luke_Zettlemoyer.png){: .align-center}
+![Luke Zettlemoyer](/assets/images/speaker/Luke_Zettlemoyer.png){: .align-center}
 
 
 ### Rethinking Pretraining: Data and Architecture
@@ -29,7 +29,7 @@ p.speaker-bio { font-style: italic; font-size: 80%; }
 
 ## Verena Rieser
 
-![Verena Rieser](assets/images/speaker/Verena_Rieser.jpg){: .align-center}
+![Verena Rieser](/assets/images/speaker/Verena_Rieser.jpg){: .align-center}
 
 ### Whose Gold? Re-imagining Alignment for Truly Beneficial AI
 
