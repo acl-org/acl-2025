@@ -85,6 +85,16 @@ program:
         url: /program/cl_papers/
       - title: "TACL Papers"
         url: /program/tacl_papers/
+  - title: Events
+    children:
+      # - title: "Welcome Reception"
+      #   url: /program/welcome/
+      - title: "Keynotes"
+        url: /program/keynotes/
+      - title: "Panel"
+        url: /program/panel/
+      # - title: "Social Gala"
+      #   url: /program/gala/
 
 # sponsors:
 #   - title: Sponsors
