@@ -13,6 +13,35 @@ If your organization would like to sponsor the ACL, please refer to our [Sponsor
 
 The deadline to sponsor **ACL 2025 is Tuesday, June 10, 2025.**
 
+
+## Destination Partner
+<style>
+.sponsors-list { justify-content: flex-start; }
+.sponsors-list > a {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #fff;
+  border: 1px solid #d3d3d3;
+  border-radius: 5px;
+  align-items: center;
+  margin: 0.2em;
+  padding: 0.5em;
+  text-align: center;
+}
+.sponsors-list a { text-decoration: none; }
+.sponsors-list > a > .dummy-padding { margin-top: 100%; }
+.sponsors-list > a > img { margin: 0; }
+.sponsors-list > a:hover { box-shadow: 0 0 10px #00000044; }
+.sponsors-list > a:hover > img { box-shadow: none !important; }
+</style>
+<figure class="sponsors-list third">
+    <a href="https://meeting.vienna.info/en" title="Meeting Destination Vienna">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/MDV.jpg" alt="Meeting Destination Vienna">
+    </a>	
+</figure>
+
 ## Diamond
 <style>
 .sponsors-list { justify-content: flex-start; }
