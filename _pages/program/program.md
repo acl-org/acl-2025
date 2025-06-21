@@ -61,17 +61,19 @@ All Plenary & Oral Sessions will be available to view online
 | 12:30 - 14:00 |   | Lunch Break (on own)                                          |
 | 14:00 - 15:30 |   | Session 3: In Person Orals                                    |
 | |   | **Track/Theme**                           |
-| | Level 1 1.86 | Discourse and Pragmatics  |
-| | Level 1 M.2 | Ethics, Bias, and Fairness 1  |
-| | Level 1 M.1 | Generation    |
-| | Level 1 1.62 | Human-centered NLP  |
-| | Level 1 N.1 | Information Retrieval and Text Mining  |
-| | Level 1 1.61 | Linguistic Theories, Cognitive Modeling, and Psycholinguistics  |
-| | Level 1 1.85 | Machine Translation  |
-| | Level 2 Hall C | Multimodality and Language Grounding to Vision, Robotics and Beyond 1  |
-| | Level 2 Hall B | NLP Applications 1  |
-| | Level 2 Hall A | Resources and Evaluation 1  |
-| | Level 1 1.15-16 | Generalisation of NLP models 1  |
+|   | Level 1 1.85            | Machine Translation                              |
+|   | Level 1 1.86            | Semantics                                         |
+|   | Level 1 M.2             | Ethics, Bias, and Fairness 1                      |
+|   | Level 1 M.1             | Generation                                        |
+|   | Level 1 1.62            | Human-centered NLP                                |
+|   | Level 1 N.1             | Information Retrieval and Text Mining             |
+|   | Level 1 1.61            | Linguistic Theories and Cognitive Modeling        |
+|   | Level 1 1.85            | Machine Translation                              |
+|   | Level 2 Hall C          | Multimodality and Language Grounding 1           |
+|   | Level 2 Hall B          | NLP Applications 1                                |
+|   | Level 2 Hall A          | Resources and Evaluation 1                        |
+|   | Level 1 1.15–16         | Theme track: Generalisation of NLP models 1       |
+|   | Level 1 Hall L.1–L.3    | IND: TBA                                          |
 | 15:30 - 16:00 |   | Coffee Break                                                  |
 | 16:00 - 16:30 | Level 2 Hall A - C  | Session 4: CL Dissertation Award                              |
 | 16:30 - 17:30 | Level 2 Hall A - C  | Session 4: Panel: Generalization on NLP Models              |
