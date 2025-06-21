@@ -95,12 +95,16 @@ All Plenary & Oral Sessions will be available to view online
 | 10:30 - 12:00 | Underline  | Session 7: Virtual Presentations (for virtual attendees only)        |
 | 10:30 - 12:00 |   | Session 7: In Person Posters (Main, IND, SRW)                        |
 | | | **Track/Theme** | 
-| | Level 0 Exhibit Halls X4 or X5 | Resources and Evaluation   | 
-| | Level 0 Exhibit Halls X4 or X5 | Interpretability and Analysis of Models for NLP   | 
-| | Level 0 Exhibit Halls X4 or X5 | Machine Learning for NLP | 
-| | Level 0 Exhibit Halls X4 or X5 | Multilingualism and Cross-Lingual NLP | 
-| | Level 0 Exhibit Halls X4 or X5 | Semantics: Lexical and Sentence-Level   | 
-| | Level 0 Exhibit Halls X4 or X5 | Information Extraction   | 
+|   | Level 0 Exhibit Halls X4 or X5 | NLP Applications                       |
+|   | Level 0 Exhibit Halls X4 or X5 | Resources and Evaluation               |
+|   | Level 0 Exhibit Halls X4 or X5 | Language Modeling                      |
+|   | Level 0 Exhibit Halls X4 or X5 | Interpretability and Model Analysis    |
+|   | Level 0 Exhibit Halls X4 or X5 | Question Answering                     |
+|   | Level 0 Exhibit Halls X4 or X5 | Machine Learning for NLP               |
+|   | Level 0 Exhibit Halls X4 or X5 | Multilingualism and Cross-Lingual NLP  |
+|   | Level 0 Exhibit Halls X4 or X5 | Semantics                              |
+|   | Level 1 Hall N.2              | SRW: TBA                               |
+|   | Level 1 Hall L.1–L.3         | IND: TBA                               |
 | 12:00 - 13:00 |   | Lunch Break (on own)                                                 |
 | 13:00 - 13:45 | Level 2 Hall B  | Session 8: Business Meeting                                          |
 | 14:00 - 15:30 |   | Session 9: In Person Orals                                           |
