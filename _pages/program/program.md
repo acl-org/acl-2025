@@ -49,12 +49,15 @@ All Plenary & Oral Sessions will be available to view online
 | 11:00 - 12:30 | Underline  | Session 2: Virtual Presentations (for virtual attendees only) |
 | 11:00 - 12:30 |   | Session 2: In Person Posters (Main)                           |
 | |   | **Track/Theme**                           |
-| | Level 0 Exhibit Halls X4 or X5  |     Ethics, Bias, and Fairness   |
-| | Level 0 Exhibit Halls X4 or X5  | Efficient/Low-Resource Methods for NLP   |
-| | Level 0 Exhibit Halls X4 or X5  | NLP Applications  |
-| | Level 0 Exhibit Halls X4 or X5  | Speech Recognition, Text-to-Speech and Spoken Language Understanding    |
-| | Level 0 Exhibit Halls X4 or X5  | Human-centered NLP  |
-| | Level 0 Exhibit Halls X4 or X5  | Information Retrieval and Text Mining  |
+|   | Level 0 Exhibit Halls X4 or X5 | NLP Applications                          |
+|   | Level 0 Exhibit Halls X4 or X5 | Resources and Evaluation                  |
+|   | Level 0 Exhibit Halls X4 or X5 | Multimodality and Language Grounding      |
+|   | Level 0 Exhibit Halls X4 or X5 | Efficient Methods for NLP                 |
+|   | Level 0 Exhibit Halls X4 or X5 | Generation                                |
+|   | Level 0 Exhibit Halls X4 or X5 | Ethics, Bias and Fairness                 |
+|   | Level 0 Exhibit Halls X4 or X5 | Information Retrieval and Text Mining     |
+|   | Level 0 Exhibit Halls X4 or X5 | Human-centered NLP                        |
+|   | Level 0 Exhibit Halls X4 or X5 | Speech Processing                         |
 | 12:30 - 14:00 |   | Lunch Break (on own)                                          |
 | 14:00 - 15:30 |   | Session 3: In Person Orals                                    |
 | |   | **Track/Theme**                           |
