@@ -109,27 +109,33 @@ All Plenary & Oral Sessions will be available to view online
 | 13:00 - 13:45 | Level 2 Hall B  | Session 8: Business Meeting                                          |
 | 14:00 - 15:30 |   | Session 9: In Person Orals                                           |
 | | | **Track/Theme** | 
-| | Level 1 N.1 | Computational Social Science and Cultural Analytics 1 | 
-| | Level 1 M.2 | Dialogue and Interactive Systems  | 
-| | Level 2 Hall C | Efficient/Low-Resource Methods for NLP 1 | 
-| | Level 1 N.2 | Information Extraction  | 
-| | Level 1 M.1 | Interpretability and Analysis of Models for NLP 1   | 
-| | Level 2 Hall B | Language Modeling 1 | 
-| | Level 1 1.86 | Phonology, Morphology, and Word Segmentation AND Syntax: Tagging, Chunking and Parsing | 
-| | Level 1 1.62 | Semantics: Lexical and Sentence-Level  | 
-| | Level 1 1.15-16 | Sentiment Analysis, Stylistic Analysis, and Argument Mining  | 
-| | Level 1 1.61 | Speech Recognition, Text-to-Speech and Spoken Language Understanding  | 
-| | Level 1 1.85 | Summarization  | 
+|   | Level 1 N.1            | Dialogue and Interactive Systems             |
+|   | Level 1 M.2            | Interpretability and Model Analysis 1        |
+|   | Level 2 Hall C         | Language Modeling 1                          |
+|   | Level 1 N.2            | Summarization and Information Extraction     |
+|   | Level 1 M.1            | Efficient Methods for NLP 1                  |
+|   | Level 2 Hall B         | Resources and Evaluation 2                   |
+|   | Level 1 1.86           | Phonology, Morphology, and Syntax            |
+|   | Level 1 1.62           | Sentiment, Style and Argumentation Analysis  |
+|   | Level 1 1.15–16        | Multilingualism and Cross-Lingual NLP        |
+|   | Level 1 1.61           | Speech Processing                            |
+|   | Level 1 1.85           | Computational Social Science and Cultural Analytics |
 | 15:30 - 16:00 |   | Coffee Break                                                         |
 | 16:00 - 17:30 | Underline  | Session 10: Virtual Presentations (for virtual attendees only)       |
 | 16:00 - 17:30 |   | Session 10: In Person Posters (Main, IND, SRW)                       |
 | |  | **Track/Theme** | 
-| | Level 0 Exhibit Halls X4 or X5 | Generalisation of NLP models   | 
-| | Level 0 Exhibit Halls X4 or X5 | Multimodality and Language Grounding to Vision, Robotics and Beyond   | 
-| | Level 0 Exhibit Halls X4 or X5 | Summarization   | 
-| | Level 0 Exhibit Halls X4 or X5 | Sentiment Analysis, Stylistic Analysis, and Argument Mining  | 
-| | Level 0 Exhibit Halls X4 or X5 | Dialogue and Interactive Systems   | 
-| | Level 0 Exhibit Halls X4 or X5 | Generation   | 
+|   | Level 0 Exhibit Halls X4 or X5 | NLP Applications                             |
+|   | Level 0 Exhibit Halls X4 or X5 | Resources and Evaluation                     |
+|   | Level 0 Exhibit Halls X4 or X5 | Multimodality and Language Grounding         |
+|   | Level 0 Exhibit Halls X4 or X5 | Efficient Methods for NLP                    |
+|   | Level 0 Exhibit Halls X4 or X5 | Generation                                    |
+|   | Level 0 Exhibit Halls X4 or X5 | Ethics, Bias, and Fairness                    |
+|   | Level 0 Exhibit Halls X4 or X5 | Dialogue and Interactive Systems             |
+|   | Level 0 Exhibit Halls X4 or X5 | Theme track: Generalisation of NLP models     |
+|   | Level 0 Exhibit Halls X4 or X5 | Machine Translation                           |
+|   | Level 0 Exhibit Halls X4 or X5 | Summarization and Information Extraction      |
+|   | Level 1 Hall N.2              | IND: TBA                                       |
+|   | Level 1 Hall L.1–L.3         | SRW: TBA                                       |
 | 19:00 - 22:00 |   | Social Event  for all Registered Full, Main, or Social Event add-ons |
 
 ### Wednesday, July 30, 2025: Main Conference Day 3
@@ -142,29 +148,35 @@ All Plenary & Oral Sessions will be available to view online
 | **08:30 - 17:30** | **Level 0 Entrance Hall** | **Registration**                      |
 | 09:00 - 10:30 |   | Session 11: In Person Orals                                    |
 | | | **Track/Theme** |
-| | TBD | Efficient/Low-Resource Methods for NLP  | 
-| | TBD | Interpretability and Analysis of Models for NLP  | 
-| | TBD | Machine Learning for NLP |
-| | TBD | Multilingualism and Cross-Lingual NLP |
-| | TBD | Multimodality and Language Grounding to Vision, Robotics and Beyond  | 
-| | TBD | NLP Applications  | 
-| | TBD | Question Answering | 
-| | TBD | Computational Social Science and Cultural Analytics  | 
-| | TBD | Ethics, Bias, and Fairness  | 
-| | TBD | Language Modeling  | 
-| | TBD | Resources and Evaluation  | 
-| | TBD | Generalisation of NLP models  | 
+|   | Level 2 Hall A           | Resources and Evaluation 3                     |
+|   | Level 2 Hall B           | Efficient Methods for NLP 2                     |
+|   | Level 2 Hall C           | Ethics, Bias, and Fairness 2                    |
+|   | Level 1 M.1              | NLP Applications 2                              |
+|   | Level 1 M.2              | Multimodality and Language Grounding 2          |
+|   | Level 1 N.1              | Computational Social Science and Cultural Analytics 2 |
+|   | Level 1 N.2              | Theme track: Generalisation of NLP models 2     |
+|   | Level 1 1.61             | Machine Learning for NLP                        |
+|   | Level 1 1.62             | Efficient Methods for NLP 3                     |
+|   | Level 1 1.85             | Interpretability and Model Analysis 2           |
+|   | Level 1 1.86             | Question Answering                              |
+|   | Level 1 1.15–1.16        | Language Modeling 2                             |
+|   | Level 1 Hall L.1–L.3     | IND: TBA                                        |
 | 10:30 - 11:00 |   | Coffee Break                                                   |
 | 11:00 - 12:30 |  Underline | Session 12: Virtual Presentations (for virtual attendees only) |
 | 11:00 - 12:30 |   | Session 12: In Person Posters (Main, IND, SRW)                 |
 | |  | **Track/Theme** | 
-| | Level 0 Exhibit Halls X4 or X5 | Language Modeling | 
-| | Level 0 Exhibit Halls X4 or X5 | Computational Social Science and Cultural Analytics 2 | 
-| | Level 0 Exhibit Halls X4 or X5 | Question Answering | 
-| | Level 0 Exhibit Halls X4 or X5 | Phonology, Morphology, and Word Segmentation AND Syntax: Tagging, Chunking and Parsing | 
-| | Level 0 Exhibit Halls X4 or X5 | Linguistic Theories, Cognitive Modeling, and Psycholinguistics | 
-| | Level 0 Exhibit Halls X4 or X5 | Machine Translation | 
-| | Level 0 Exhibit Halls X4 or X5 | Discourse and Pragmatics | 
+|   | Level 0 Exhibit Halls X4 or X5 | NLP Applications                                    |
+|   | Level 0 Exhibit Halls X4 or X5 | Resources and Evaluation                            |
+|   | Level 0 Exhibit Halls X4 or X5 | Language Modeling                                   |
+|   | Level 0 Exhibit Halls X4 or X5 | Interpretability and Model Analysis                 |
+|   | Level 0 Exhibit Halls X4 or X5 | Question Answering                                  |
+|   | Level 0 Exhibit Halls X4 or X5 | Computational Social Science and Cultural Analytics |
+|   | Level 0 Exhibit Halls X4 or X5 | Linguistic Theories and Cognitive Modeling          |
+|   | Level 0 Exhibit Halls X4 or X5 | Sentiment, Style and Argumentation Analysis         |
+|   | Level 0 Exhibit Halls X4 or X5 | Phonology, Morphology, and Syntax                   |
+|   | Level 0 Exhibit Halls X4 or X5 | Discourse and Pragmatics                            |
+|   | Level 1 Hall N.2               | SRW - Closing & Best Papers                         |
+|   | Level 1 Hall L.1–L.3          | INDUSTRY Car-Panel / Awards Closing                  |
 | 12:30 - 14:00 |   | Lunch Break (on own)                                           |
 | 14:00 - 14:30 | Level 2 Hall A - C  | Session 13: Presidential Address                               |
 | 14:30 - 14:50 | Level 2 Hall A - C  | Session 13: Test of Times |
