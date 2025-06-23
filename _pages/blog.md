@@ -1,7 +1,7 @@
 ---
 title: ACL 2025 Blog
 layout: archive
-permalink: /blog/
+permalink: /blogold/
 author_profile: false
 sidebar: false
 read_time: false
