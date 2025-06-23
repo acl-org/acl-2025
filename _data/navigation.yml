@@ -39,8 +39,8 @@ main:
   - title: "Visa"
     url: /visa/
 
-  - title: "Blog"
-    url: /blog/
+#  - title: "Blog"
+#    url: /blog/
 
   #- title: "Reviewer"
   #  url: /not_available
