@@ -58,6 +58,6 @@ Alternative near Austria Center Vienna:
 
 **I’m presenting an oral and submitted a poster PDF as required. Do I also need to print out a poster if I’m presenting an oral?** - No, only in-person poster presenters are required to print out a poster.    
 
-**Can I use the conference logo in my PPTX?** - Yes. Here are ACL 2025 logos.
+**Can I use the conference logo in my PPTX?** - Yes. Here are ACL 2025 [logos](https://drive.google.com/drive/folders/1GtkNVmq_bogb9ZJwzKWyyX2Q_0fMkOQg?usp=drive_link).
 
 
