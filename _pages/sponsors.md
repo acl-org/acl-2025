@@ -156,6 +156,10 @@ The deadline to sponsor **ACL 2025 is Tuesday, June 10, 2025.**
       <div class="dummy-padding"></div>
         <img src="/assets/images/sponsors/thomson_reuters.png" alt="Appen">
     </a>
+    <a href="http://www.cheninstitute.org/" title="Chen Institute">
+      <div class="dummy-padding"></div>
+        <img src="/assets/images/sponsors/TCCI.png" alt="Chen Institute">
+    </a>	
 </figure>
 
 ## Silver
