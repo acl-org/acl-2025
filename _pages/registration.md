@@ -35,11 +35,11 @@ Note that all Paper registration fees are based on the actual hard cost to the c
 
 **Author Deadlines for Registering the Paper to Present:**  
 
-To assist the program chairs and committee with publishing the conference details for the program and Anthology, we ask all authors to register no later than the following dates:    
+To assist the program chairs and committee with publishing the conference details for the program and Anthology, we ask all authors to register no later than the following dates:     
 
-- Accepted – Main Conference, Findings, CL/TACL, DEMOS & Industry – June  25th in order to not be removed from the proceedings    
+- Papers Accepted to the Main Conference which includei– Main Conference, Findings, CL/TACL, DEMOS, Industry & SRW – June 25th in order to not be removed from the proceedings
  
-- Accepted – Workshop no later than the Early Registration deadline of July 2nd. Note this is when early registration ends so cost will go up after this date.   
+- Workshop Accepted Papers - no later than the Early Registration deadline of July 2nd. Note this is when early registration ends so cost will go up after this date.    
  
 All Authors presenting their paper at a workshop must have 1 author register your paper. If attending the full conference, select the Registered Paper option and follow the prompts to select your attendee type.    
 
