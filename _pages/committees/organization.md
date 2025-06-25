@@ -297,7 +297,7 @@ email =  ""
 name="Hwaran Lee"
 picture="/assets/images/committee/Hwaran_Lee.png"
 site=""
-institution="NAVER"
+institution="Sogang University"
 email =  ""
 %}
 
