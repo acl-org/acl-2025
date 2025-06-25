@@ -37,7 +37,7 @@ Note that all Paper registration fees are based on the actual hard cost to the c
 
 To assist the program chairs and committee with publishing the conference details for the program and Anthology, we ask all authors to register no later than the following dates:     
 
-- Papers Accepted to the Main Conference which includei– Main Conference, Findings, CL/TACL, DEMOS, Industry & SRW – June 25th in order to not be removed from the proceedings
+- Papers Accepted to the Main Conference which include– Main Conference, Findings, CL/TACL, DEMOS, Industry & SRW – June 25th in order to not be removed from the proceedings
  
 - Workshop Accepted Papers - no later than the Early Registration deadline of July 2nd. Note this is when early registration ends so cost will go up after this date.    
  
