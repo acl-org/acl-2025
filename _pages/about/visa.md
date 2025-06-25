@@ -105,9 +105,16 @@ We recommend regularly checking the embassy website for available appointment sl
 We do not provide such a letter, however, the Austrian representative embassies have been informed that the conference is not responsible for covering the costs of attendees transportation, accommodation nor any activity outside of the beverages and food provided during the conference hours, which are 09:00-17:00 from July 27th to August 1st. 
 
 ### In case of visa rejection 
-In the unfortunate event that your visa gets rejected, we advice you to follow the [cancellation policy](https://2025.aclweb.org/registration/#cancellation-policy) of your registration.
+In the unfortunate event that your visa gets rejected, we advice you to follow the [cancellation policy](https://2025.aclweb.org/registration/#cancellation-policy) of your registration and email at aclinfo@yesevents.com .
 
+### Invitation letter for your family or invited guest
+Unfortunately, we cannot provide any justification to the embassies for any person not directly associated with ACL 2025. If you wish to acquire another invitation letter, you should register for the ACL 2025.
 
+### Embassy asking for justification letter 
+If you filled out the form correctly and on time, your data has been received in the respective embassy which serves as a justification letter and connection to ACL 2025, and your visa will be on "fast-track" for approval.
+
+### In case you did not fill out the form correctly and on time
+Your visa application will follow the normal procedure.
 
 ## Recommendations from ACL 2025 Visa chairs
 
