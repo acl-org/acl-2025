@@ -281,7 +281,7 @@ email =  ""
 name="Maria Ryskina"
 picture="/assets/images/committee/maria_ryskina.png"
 site=""
-institution="MIT"
+institution="Vector Institute"
 email =  ""
 %}
 
