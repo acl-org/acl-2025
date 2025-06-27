@@ -9,6 +9,10 @@ toc: True
 toc_sticky: True
 ---
 
+[Click for Detailed Program](https://docs.google.com/spreadsheets/d/1O-n3HPvv8vY0L_kjyP5AtRTcWWjqLk2deCYtrMgCGw4/edit?usp=drive_link) (Please check back for updates)     
+
+To authors with an accepted paper, please note if there are any misspellings or if you need to change your presentation type from in-person or virtual, or from virtual to in-person, complete [this form](https://acl2025-paper-author-update.paperform.co/). For any title changes or author name changes, you will need to email the program chairs at [ACL2025pcs@gmail.com](mailto:ACL2025pcs@gmail.com)     
+
 ## ACL 2025 Program Overview
 
 <!-- Overall Conference | July 27 to August 1st | -->
