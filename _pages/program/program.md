@@ -152,13 +152,13 @@ All Plenary & Oral Sessions will be available to view online
 | **08:30 - 17:30** | **Level 0 Entrance Hall** | **Registration**                      |
 | 09:00 - 10:30 |   | Session 11: In Person Orals                                    |
 | | | **Track/Theme** |
-|   | Level 2 Hall A           | Resources and Evaluation 3                     |
-|   | Level 2 Hall B           | Efficient Methods for NLP 2                     |
-|   | Level 2 Hall C           | Ethics, Bias, and Fairness 2                    |
+| | Level 2 Hall A	| Panel 1: Generalisation of NLP models |
+| | Level 2 Hall B	| Panel 2: LLM alignment |
+| | Level 2 Hall C	| Panel 3: Human-centred NLP |
 |   | Level 1 M.1              | NLP Applications 2                              |
 |   | Level 1 M.2              | Multimodality and Language Grounding 2          |
-|   | Level 1 N.1              | Computational Social Science and Cultural Analytics 2 |
-|   | Level 1 N.2              | Theme track: Generalisation of NLP models 2     |
+| | Level 1 N.1	| Panel 4: Interpretability and model analysis |
+| | Level 1 N.2	| Panel 5: Multilinguality and language diversity |
 |   | Level 1 1.61             | Machine Learning for NLP                        |
 |   | Level 1 1.62             | Efficient Methods for NLP 3                     |
 |   | Level 1 1.85             | Interpretability and Model Analysis 2           |
