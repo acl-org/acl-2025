@@ -43,7 +43,8 @@ See the [Content Submission Instructions](https://docs.google.com/presentation/d
 Posters should be A0 size (33.1 x 46.8 inches) in portrait orientation.
 
 ## Print Shops for Poster    
-XEST is the ACL 2025 preferred poster printing company. Order through the custom link provided [here](https://xest.info/acl). Participants can order with attractive early bird pricing until July 20. From July 21 and throughout the event, regular pricing applies. The daily deadline for next-day pick-up is 11 a.m.    
+XEST is the ACL 2025 preferred poster printing company. Order through the custom link provided [here](https://xest.info/acl). Participants can order with attractive early bird pricing until July 20. From July 21 and throughout the event, regular pricing applies. The daily deadline for next-day pick-up is 11 a.m.      
+Poster pick-up times will be daily, 08:00 - 15:00, Monday, July 28 - Friday, August 1 on Level 0, Hall 0.11     
 
 Alternative in the City Center:     
 [https://diekopie.at/poster-plane-plakate/](https://diekopie.at/poster-plane-plakate/)      
