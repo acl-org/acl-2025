@@ -12,7 +12,7 @@ sidebar:
    name="Roberto Navigli"
    picture="/assets/images/committee/roberto_navigli.png"
    site="https://www.diag.uniroma1.it/navigli/"
-   institution="Sapienza University of Rome"
+   institution="Sapienza University of Rome &amp; Babelscape"
    email = ""
 %}
 
