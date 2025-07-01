@@ -862,7 +862,7 @@ toc_sticky: false
 * **RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning Based on Emotional Information**<br>*Zhiwei Liu, Kailai Yang, Qianqian Xie, Christine de Kock, Sophia Ananiadou, Eduard Hovy*
 * **Task-Specific Information Decomposition for End-to-End Dense Video Captioning**<br>*Zhiyue Liu, Xinru Zhang, Jinyuan Liu*
 * **CalibraEval: Calibrating Prediction Distribution to Mitigate Selection Bias in LLMs-as-Judges**<br>*Haitao Li, Junjie Chen, Qingyao Ai, Zhumin Chu, Yujia Zhou, Qian Dong, Yiqun LIU*
-* **Context Matters: Semantic Expansion and Taxonomy-Grounded Augmentation for Sexism Detection**<br>*SAHRISH KHAN, Gabriele Pergola, Arshad Jhumka*
+* **Explaining Matters: Leveraging Definitions and Semantic Expansion for Sexism Detection**<br>*Sahrish Khan, Gabriele Pergola, Arshad Jhumka*
 * **Private Memorization Editing: Turning Memorization into a Defense to Strengthen Data Privacy in Large Language Models**<br>*Elena Sofia Ruzzetti, Giancarlo A. Xompero, Davide Venditti, Fabio Massimo Zanzotto*
 * **PhysReason: A Comprehensive Benchmark towards Physics-Based Reasoning**<br>*Xinyu Zhang, Yuxuan Dong, Yanrui Wu, Jiaxing Huang, Chengyou Jia, Basura Fernando, Mike Zheng Shou, Lingling Zhang, Jun Liu*
 * **Does Time Have Its Place? Temporal Heads: Where Language Models Recall Time-specific Information**<br>*Yein Park, Chanwoong Yoon, Jungwoo Park, Minbyul Jeong, Jaewoo Kang*
