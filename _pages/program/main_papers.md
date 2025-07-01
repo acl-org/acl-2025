@@ -929,7 +929,7 @@ toc_sticky: false
 * **Insight Over Sight: Exploring the Vision-Knowledge Conflicts in Multimodal LLMs**<br>*Xiaoyuan Liu, Wenxuan Wang, Youliang Yuan, Jen-tse Huang, Qiuzhi Liu, Pinjia He, Zhaopeng Tu*
 * **SceneGenAgent: Precise Industrial Scene Generation with Coding Agent**<br>*Xiao Xia, Dan Zhang, Zibo Liao, Zhenyu Hou, Tianrui Sun, Jing Li, Ling Fu, Yuxiao Dong*
 * **ToolCoder: A Systematic Code-Empowered Tool Learning Framework for Large Language Models**<br>*Hanxing Ding, Shuchang Tao, Liang Pang, Zihao Wei, Jinyang Gao, Bolin Ding, Huawei Shen, Xueqi Cheng*
-* **Human Alignment: How Much Do We Adapt to LLMs?**<br>*Cazalet Tanguy, Ruben Janssens, Tony Belpaeme, Joni Dambre*
+* **Human Alignment: How Much Do We Adapt to LLMs?**<br>*Cazalets Tanguy, Ruben Janssens, Tony Belpaeme, Joni Dambre*
 * **Enhancing Text Editing for Grammatical Error Correction: Arabic as a Case Study**<br>*Bashar Alhafni, Nizar Habash*
 * **From Isolates to Families: Using Neural Networks for Automated Language Affiliation**<br>*Frederic Blum, Steffen Herbold, Johann-Mattis List*
 * **ELBA-Bench: An Efficient Learning Backdoor Attacks Benchmark for Large Language Models**<br>*Xuxu Liu, Siyuan Liang, Mengya Han, Yong Luo, Aishan Liu, Xiantao Cai, Zheng He, Dacheng Tao*
