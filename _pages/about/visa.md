@@ -48,8 +48,10 @@ You will be able to issue an invitation letter once your registration is complet
 
 ### Visa Appointment and Form
 
+We initiated and established a direct communication channel with a representative from the Austrian Ministry of Foreign Affairs.
 We ran 3 rounds for filling out the form to be included in the internal communication list with the Austrian embassies.
 If you filled out the form correctly and on time, your data have been communicated with the representative Austrian embassies to aid the fast-tracking of your visa application verification.
+In case you did not, your visa application will follow the normal procedure.
 However, for all visa applicants from June onward, there is no guarantee that you will be able to secure an appointment at one of the representative embassies due to the limited time and the heavy workload some embassies face during the high season. 
 
 
@@ -88,7 +90,6 @@ In the unfortunate event that your visa gets rejected, we advice you to follow t
 
 ### Invitation letter for your family or invited guest
 Unfortunately, we cannot provide any justification to the embassies for any person not directly associated with ACL 2025. If you wish to acquire another invitation letter, you should register for the ACL 2025.
-
 
 
 ## Recommendations from ACL 2025 Visa chairs
