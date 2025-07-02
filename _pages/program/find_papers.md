@@ -210,7 +210,7 @@ toc_sticky: false
 * **SCITAT: A Question Answering Benchmark for Scientific Tables and Text Covering Diverse Reasoning Types**<br>*Xuanliang Zhang, Dingzirui Wang, Baoxin Wang, Longxu Dou, Xinyuan Lu, Keyan Xu, Dayong Wu, Qingfu Zhu*
 * **TokenShapley: Token Level Context Attribution with Shapley Value**<br>*Yingtai Xiao, Yuqing Zhu, Sirat Samyoun, Wanrong Zhang, Jiachen T. Wang, Jian Du*
 * **Entropy-based Exploration Conduction for Multi-step Reasoning**<br>*Jinghan Zhang, Xiting Wang, Fengran Mo, Yeyang Zhou, Wanfu Gao, Kunpeng Liu*
-* **Taxonomizing Representational Harms using Speech Act Theory**<br>*Hannah Washington, Emily Corvi, Stefanie Reed, Chad Atalla, Alexandra Chouldechova, P. Alex Dow, Jean Garcia-Gathright, Nicholas J Pangakis, Emily Sheng, Dan Vann, Matthew Vogel, Hanna Wallach*
+* **Taxonomizing Representational Harms using Speech Act Theory**<br>*Emily Corvi, Hannah Washington, Stefanie Reed, Chad Atalla, Alexandra Chouldechova, P. Alex Dow, Jean Garcia-Gathright, Nicholas J Pangakis, Emily Sheng, Dan Vann, Matthew Vogel, Hanna Wallach*
 * **Turning Conversations into Workflows: A Framework to Extract and Evaluate Dialog Workflows for Service AI Agents**<br>*Prafulla Kumar Choubey, XIANGYU PENG, Shilpa Bhagavath, Caiming Xiong, Shiva Kumar Pentyala, Chien-Sheng Wu*
 * **Statistical inference on black-box generative models in the data kernel perspective space**<br>*Hayden Helm, Aranyak Acharyya, Youngser Park, Brandon Duderstadt, Carey Priebe*
 * **Do Large Language Models Perform Latent Multi-Hop Reasoning without Exploiting Shortcuts?**<br>*Sohee Yang, Nora Kassner, Elena Gribovskaya, Sebastian Riedel, Mor Geva*
