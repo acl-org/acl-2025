@@ -61,4 +61,16 @@ Alternative near Austria Center Vienna:
 
 **Can I use the conference logo in my PPTX?** - Yes. Here are ACL 2025 [logos](https://drive.google.com/drive/folders/1GtkNVmq_bogb9ZJwzKWyyX2Q_0fMkOQg?usp=drive_link).
 
+ ## Oral Session with Panel discussion
+
+The following guidelines are intended for the Oral + Panel discussion taking place on Wednesday, July 30 09:30 - 10:30.      
+- Panel 1: Generalisation of NLP models
+- Panel 2: LLM alignment
+- Panel 3: Human-centred NLP
+- Panel 4: Interpretability and model analysis
+- Panel 5: Multilinguality and language diversity
+
+All oral sessions will be 90 minutes in duration, featuring eight paper presentations. Each presentation will be allocated 8 minutes, followed by 3 minutes for questions and speaker transition.      
+
+Panel sessions will include five presentations, each following the same 8-minute presentation and 3-minute Q&A format. After the individual talks, a 5-minute transition period will lead into a panel discussion. This panel will consist of the five presenters and a designated panel chair, who will jointly engage in a 30-minute discussion to explore their findings and share insights. 
 
