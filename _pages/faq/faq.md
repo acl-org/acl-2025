@@ -61,7 +61,7 @@ Alternative near Austria Center Vienna:
 
 **Can I use the conference logo in my PPTX?** - Yes. Here are ACL 2025 [logos](https://drive.google.com/drive/folders/1GtkNVmq_bogb9ZJwzKWyyX2Q_0fMkOQg?usp=drive_link).
 
- ## Oral Session with Panel discussion
+## Oral Session with Panel discussion     
 
 The following guidelines are intended for the Oral + Panel discussion taking place on Wednesday, July 30 09:30 - 10:30.      
 - Panel 1: Generalisation of NLP models
