@@ -223,6 +223,7 @@ Alternative near Austria Center Vienna:
 ### **Restaurants and takeaway near the conference venue for the lunch break:**
 
 QR code to Google maps: 
+![Restaurants and takeaway near the conference venue for the lunch break](/assets/images/qr/qr6.png)
 
 [Link to restaurants on Google Maps.](https://maps.app.goo.gl/nnKHWGjYgxuWrnUt5)
 
