@@ -35,7 +35,7 @@ Book your tickets with the code ACL2025 here: [www.cityairporttrain.com](www.cit
 ### **How to get from the Airport to Austria Center Vienna:**
 
 QR code to directions on Google Maps:    
-![from the Airport to Austria Center Vienna]()
+![from the Airport to Austria Center Vienna](/assets/images/qr/qr1.png)
 
 [Link to Google Maps](https://maps.app.goo.gl/9HyF5Mi8rFvBwYuc8)
 
@@ -43,25 +43,28 @@ QR code to directions on Google Maps:
 ### **From Airport to Hotel Melia:**    
 
 QR code to directions on Google Maps: 
-![From Airport to Hotel Melia]()
+![From Airport to Hotel Melia](/assets/images/qr/qr2.png)
 
 [Link to Google Maps](https://maps.app.goo.gl/GedjNjFHV2gZAznv8)
 
 ### **From Airport to Hotel NH Danube City:**    
 
 QR code to directions on Google Maps: 
+![From Airport to Hotel NH Danube City](/assets/images/qr/qr3.png)
 
 [Link to Google Maps](https://maps.app.goo.gl/vAehcxAmEme3WWBs9)
 
 ### **From Airport to Hotel Arcotel Kaiserwasser:**    
 
 QR code to directions on Google Maps: 
+![From Airport to Hotel Arcotel Kaiserwasser](/assets/images/qr/qr4.png)    
 
 [Link to directions on Google Maps](https://maps.app.goo.gl/g2Avq58a5vuVAV968)
 
 ### **From Airport to Hotel Schani Wien Uno-City:**  
 
 QR code to directions on Google Maps: 
+![From Airport to Hotel Schani Wien Uno-City](/assets/images/qr/qr5.png)    
 
 [Link to directions on Google Maps](https://maps.app.goo.gl/g2Avq58a5vuVAV968)
 
