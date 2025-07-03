@@ -219,3 +219,13 @@ Alternative near Austria Center Vienna:
 [https://meeting.vienna.info/en/why-vienna/further-information-vienna](https://meeting.vienna.info/en/why-vienna/further-information-vienna)
 
 [https://www.wien.info/en](https://www.wien.info/en)
+
+### **Restaurants and takeaway near the conference venue for the lunch break:**
+
+QR code to Google maps: 
+
+[Link to restaurants on Google Maps.](https://maps.app.goo.gl/nnKHWGjYgxuWrnUt5)
+
+[Link to supermarkets, takeaway  and bakeries in the area.](https://maps.app.goo.gl/SXL3eK1K9W97eVFd6)    
+
+
