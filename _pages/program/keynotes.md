@@ -13,12 +13,13 @@ We are delighted to announce that the esteemed speakers listed below have gracio
 
 <style>
 p.speaker-bio { font-style: italic; font-size: 80%; }
+.speaker-photo { width: 200px; height: 200px; object-fit: cover; }
 </style>
 
 
 ## Luke Zettlemoyer
 
-![Luke Zettlemoyer](/assets/images/speaker/Luke_Zettlemoyer.png){: .align-center}
+![Luke Zettlemoyer](/assets/images/speaker/Luke_Zettlemoyer.png){: .align-center .speaker-photo}
 
 
 ### Rethinking Pretraining: Data and Architecture
@@ -29,7 +30,7 @@ p.speaker-bio { font-style: italic; font-size: 80%; }
 
 ## Verena Rieser
 
-![Verena Rieser](/assets/images/speaker/Verena_Rieser.jpg){: .align-center}
+![Verena Rieser](/assets/images/speaker/Verena_Rieser.jpg){: .align-center .speaker-photo}
 
 ### Whose Gold? Re-imagining Alignment for Truly Beneficial AI
 
