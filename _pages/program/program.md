@@ -80,8 +80,8 @@ All Plenary & Oral Sessions will be available to view online
 |   | Level 1 Hall L.1–L.3    | IND: TBA                                          |
 | 15:30 - 16:00 |   | Coffee Break                                                  |
 | 16:00 - 16:30 | Level 2 Hall A - C  | Session 4: CL Dissertation Award                              |
-| 16:30 - 17:30 | Level 2 Hall A - C  | Session 4: Panel: Generalization on NLP Models              |
-|  |   |Panelist: Mirella Lapata, Dan Roth, Yue Zhang - Moderator: Eduard Hovy                     |
+| 16:30 - 17:30 | Level 2 Hall A - C  | Session 4: Panel: Generalization of NLP Models              |
+|  |   |Panelists: Mirella Lapata, Dan Roth, Yue Zhang - Moderator: Eduard Hovy                     |
 | 18:00 - 19:30 | Level 0 Exhibit Halls X4 or X5  | Session 5: In Person Posters (Findings with Reception)        |
 | 18:00 - 19:30 |  Gather | Session 5: Virtual Posters (Findings in Gather)               |
 
@@ -160,7 +160,7 @@ All Plenary & Oral Sessions will be available to view online
 | | Level 1 N.1	| Panel 4: Interpretability and model analysis |
 | | Level 1 N.2	| Panel 5: Multilinguality and language diversity |
 |   | Level 1 1.61             | Machine Learning for NLP                        |
-|   | Level 1 1.62             | Efficient Methods for NLP 3                     |
+|   | Level 1 1.62             | Efficient Methods for NLP 2                     |
 |   | Level 1 1.85             | Interpretability and Model Analysis 2           |
 |   | Level 1 1.86             | Question Answering                              |
 |   | Level 1 1.15–1.16        | Language Modeling 2                             |

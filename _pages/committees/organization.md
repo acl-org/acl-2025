@@ -43,7 +43,7 @@ sidebar:
    name="Ekaterina Shutova"
    picture="/assets/images/committee/Ekaterina_Shutova.png"
    site="https://www.shutova.org/"
-   institution="University of Amsterdam"
+   institution="University of Amsterdam and Stanford University"
    email = ""
 %}
 
