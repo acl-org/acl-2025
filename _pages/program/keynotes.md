@@ -13,7 +13,7 @@ We are delighted to announce that the esteemed speakers listed below have gracio
 
 <style>
 p.speaker-bio { font-style: italic; font-size: 80%; }
-.speaker-photo { width: 200px; height: 200px; object-fit: cover; }
+.speaker-photo { width: 200px; height: 200px; object-fit: contain; }
 </style>
 
 
