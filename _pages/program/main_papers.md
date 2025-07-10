@@ -351,7 +351,7 @@ toc_sticky: false
 * **Adaptive Retrieval Without Self-Knowledge? Bringing Uncertainty Back Home**<br>*Viktor Moskvoretskii, Maria Marina, Mikhail Salnikov, Nikolay Ivanov, Sergey Pletenev, Daria Galimzianova, Nikita Krayko, Vasily Konovalov, Irina Nikishina, Alexander Panchenko*
 * **Evaluating Language Models as Synthetic Data Generators**<br>*Seungone Kim, Juyoung Suk, Xiang Yue, Vijay Viswanathan, Seongyun Lee, Yizhong Wang, Kiril Gashteovski, Carolin Lawrence, Sean Welleck, Graham Neubig*
 * **Can Graph Descriptive Order Affect Solving Graph Problems with LLMs?**<br>*Yuyao Ge, Shenghua Liu, Baolong Bi, Yiwei Wang, Lingrui Mei, Wenjie Feng, Lizhe Chen, Xueqi Cheng*
-* **Learning to Rewrite: Generalized LLM-Generated Text Detection**<br>*Ran Li, Wei Hao, Weiliang Zhao, Junfeng Yang, Chengzhi Mao*
+* **Learning to Rewrite: Generalized LLM-Generated Text Detection**<br>*Wei Hao, Ran Li, Weiliang Zhao, Junfeng Yang, Chengzhi Mao*
 * **Evaluating Multimodal Large Language Models on Video Captioning via Monte Carlo Tree Search**<br>*Linhao Yu, Xingguang Ji, Yahui Liu, Fanheng Kong, Chenxi Sun, Jingyuan Zhang, Hongzhi Zhang, V. W., Fuzheng Zhang, Deyi Xiong*
 * **GIFT-SW: Gaussian noise Injected Fine-Tuning of Salient Weights for LLMs**<br>*Maxim Zhelnin, Viktor Moskvoretskii, Egor Shvetsov, Maria Krylova, Venediktov Egor, Zuev Aleksandr, Evgeny Burnaev*
 * **Quaff: Quantized Parameter-Efficient Fine-Tuning under Outlier Spatial Stability Hypothesis**<br>*Hong Huang, Dapeng Wu*
