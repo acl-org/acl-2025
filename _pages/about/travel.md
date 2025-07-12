@@ -16,7 +16,7 @@ toc_sticky: True
 ### **From the Airport to the City Center with:**
 
 #### **City Airport Train (CAT) - save 20%** 
-<img src="/assets/images/CAT.svg" alt="CAT logo" width="24" height="24" style="display: inline; vertical-align: middle; margin-left: 8px;">
+<img src="/assets/images/CAT.svg" alt="CAT logo" width="64" height="64" style="display: inline; vertical-align: middle; margin-left: 8px;">
 
 With a travel time of only 16 minutes, the CAT is the fastest non-stop connection from the airport to the city center of Vienna. CAT offers you ample luggage space, free ePapers, magazines and high-speed WiFi as well as latest news on our video screens. Personal assistance by our staff during the train ride and beyond completes our service.
 
