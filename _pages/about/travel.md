@@ -15,13 +15,14 @@ toc_sticky: True
 
 ### **From the Airport to the City Center with:**
 
-#### **City Airport Train (CAT) - save 20%**
+#### **City Airport Train (CAT) - save 20%** 
+<img src="/assets/images/CAT.svg" alt="CAT logo" width="24" height="24" style="display: inline; vertical-align: middle; margin-left: 8px;">
 
 With a travel time of only 16 minutes, the CAT is the fastest non-stop connection from the airport to the city center of Vienna. CAT offers you ample luggage space, free ePapers, magazines and high-speed WiFi as well as latest news on our video screens. Personal assistance by our staff during the train ride and beyond completes our service.
 
 We are happy to provide you with a 20% discount voucher for the fastest airport transfer to Vienna city center. You can book your CAT Single or CAT Return ticket online (not applicable on public transfer tickets). CAT tickets are valid for 6 months from date of issue.
 
-Book your tickets with the code ACL2025 here: [www.cityairporttrain.com](www.cityairporttrain.com)
+Book your tickets with the code ACL2025 here: [www.cityairporttrain.com](https://www.cityairporttrain.com/en/)
 
 #### **Express Train S7**
 
