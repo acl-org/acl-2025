@@ -18,15 +18,6 @@ Bruno-Kreisky-Platz 1, 1220 Wien, Austria
 
 The Austria Center Vienna is an easy-to-reach location, and right in the heart of Europe. And the only conference centre in the world that is situated right next door to a UN headquarters. Austria's largest congress center with 21 halls, 134 meeting rooms and 5 exhibition halls on 5 levels, with room for up to 22,800 people.
 
-### **Restaurants and takeaway near the conference venue for the lunch break:**
-
-QR code to Google maps:
-<img src="/assets/images/qr/qr6.png" alt="Restaurants and takeaway near the conference venue for the lunch break" width="200">
-
-[Link to restaurants on Google Maps.](https://maps.app.goo.gl/nnKHWGjYgxuWrnUt5)
-
-[Link to supermarkets, takeaway and bakeries in the area.](https://maps.app.goo.gl/SXL3eK1K9W97eVFd6)
-
 ## Accommodations
 
 Conference Host Hotels  
@@ -198,6 +189,17 @@ The official [Vienna City Card](https://www.viennacitycard.at/en/) provides you 
 
 - Schweizerhaus (Local cuisine, in the Prater amusement park) [https://www.schweizerhaus.at/en/](https://www.schweizerhaus.at/en/)
 - Figlmüller (Local cuisine, in the city center, several locations: [https://www.figlmueller.at/en/](https://www.figlmueller.at/en/) , [https://www.lugeck.com/en/](https://www.lugeck.com/en/) )
+
+#### **Restaurants and takeaway near the conference venue for the lunch break:**
+
+[Skip the line & preorder your lunch (PDF)](/assets/Skip the line & preorder your lunch_ACL.pdf)
+
+QR code to Google maps:
+<img src="/assets/images/qr/qr6.png" alt="Restaurants and takeaway near the conference venue for the lunch break" width="200">
+
+[Link to restaurants on Google Maps.](https://maps.app.goo.gl/nnKHWGjYgxuWrnUt5)
+
+[Link to supermarkets, takeaway and bakeries in the area.](https://maps.app.goo.gl/SXL3eK1K9W97eVFd6)
 
 ### **Popular Shopping Areas**
 
