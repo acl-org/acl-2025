@@ -14,6 +14,8 @@ sidebar:
 .speaker-photo { width: 200px; height: 200px; object-fit: contain; }
 </style>
 
+## Panel on the Generalization of NLP Models
+
 ## Panelists
 
 ### Eduard Hovy - Moderator

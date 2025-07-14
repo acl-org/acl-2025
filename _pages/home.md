@@ -11,7 +11,6 @@ excerpt: "Vienna, Austria<br>July 27&ndash;August 1st, 2025"
 ## Welcome!
 
 The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025) will take place in **Vienna, Austria** from **July 27 to August 1st, 2025**.
-More information will be announced soon.
 
 ## News
 
