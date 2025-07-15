@@ -93,6 +93,8 @@ program:
         url: /program/keynotes/
       - title: "Panel"
         url: /program/panel/
+      - title: "Birds of a Feather"
+        url: /program/bof/
       # - title: "Social Gala"
       #   url: /program/gala/
 
