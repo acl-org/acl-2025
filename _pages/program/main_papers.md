@@ -460,7 +460,7 @@ toc_sticky: false
 * **LLMs can Perform Multi-Dimensional Analytic Writing Assessments: A Case Study of L2 Graduate-Level Academic English Writing**<br>*Zhengxiang Wang, Veronika Makarova, Zhi Li, Jordan Kodner, Owen Rambow*
 * **SEUF: Is Unlearning One Expert Enough for Mixture-of-Experts LLMs?**<br>*Haomin Zhuang, Yihua Zhang, Kehan Guo, Jinghan Jia, Gaowen Liu, Sijia Liu, Xiangliang Zhang*
 * **Pragmatics in the Era of Large Language Models: A Survey on Datasets, Evaluation, Opportunities and Challenges**<br>*Bolei Ma, Yuting Li, Wei Zhou, Ziwei Gong, Yang Janet Liu, Katja Jasinskaja, Annemarie Friedrich, Julia Hirschberg, Frauke Kreuter, Barbara Plank*
-* **LocAgent: Agentic Code Localization with Graph-Based Indexing**<br>*Zhaoling Chen, Xiangru Tang, Gangda Deng, Fang Wu, Jialong Wu, Zhiwei Jiang, Viktor Prasanna, Arman Cohan, Xingyao Wang*
+* **LocAgent: Graph-Guided LLM Agents for Code Localization**<br>*Zhaoling Chen, Xiangru Tang, Gangda Deng, Fang Wu, Jialong Wu, Zhiwei Jiang, Viktor Prasanna, Arman Cohan, Xingyao Wang*
 * **COSMMIC: Comment-Sensitive Multimodal Multilingual Indian Corpus for Summarization and Headline Generation**<br>*Raghvendra Kumar, Mohammed Salman S A, Aryan Sahu, Tridib Nandi, Pragathi Y P, Sriparna Saha, Jose G Moreno*
 * **Mind the Gap: Static and Interactive Evaluations of Large Audio Models**<br>*Minzhi Li, William Barr Held, Michael J Ryan, Kunat Pipatanakul, Potsawee Manakul, Hao Zhu, Diyi Yang*
 * **Understanding In-context Machine Translation for Low-Resource Languages: A Case Study on Manchu**<br>*Renhao Pei, Yihong Liu, Peiqin Lin, François Yvon, Hinrich Schuetze*
