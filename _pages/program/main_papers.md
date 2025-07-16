@@ -1451,7 +1451,7 @@ toc_sticky: false
 * **Beyond Negative Stereotypes – Non-Negative Abusive Utterances about Identity Groups and Their Semantic Variants**<br>*Tina Lommel, Elisabeth Eder, Josef Ruppenhofer, Michael Wiegand*
 * **Persistent Homology of Topic Networks for the Prediction of Reader Curiosity**<br>*Manuel D.S. Hopp, Vincent Labatut, Arthur Amalvy, Richard Dufour, Hannah Stone, Hayley K Jach, Kou Murayama*
 * **Tokenisation is NP-Complete**<br>*Philip Whittington, Gregor Bachmann, Tiago Pimentel*
-* **Understanding Language Model Scaling Laws in Terms of Training Dynamics via Loss Deceleration and Zero-Sum Learning**<br>*Andrei Mircea, Ekaterina Lobacheva, Supriyo Chakraborty, Nima Chitsazan, Irina Rish*
+* **Understanding Language Model Scaling Laws in Terms of Training Dynamics via Loss Deceleration and Zero-Sum Learning**<br>*Andrei Mircea, Supriyo Chakraborty, Nima Chitsazan, Irina Rish, Ekaterina Lobacheva*
 * **Parameter-Aware Contrastive Knowledge Editing: Tracing and Rectifying based on Critical Transmission Paths**<br>*Songlin Zhai, Yuan Meng, Yuxin Zhang, Guilin Qi*
 * **Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System**<br>*Haoyang Su, Renqi Chen, SHIXIANG TANG, Zhenfei Yin, Xinzhe Zheng, Jinzhe Li, Biqing Qi, Qi Wu, Hui Li, Wanli Ouyang, Philip Torr, Bowen Zhou, Nanqing Dong*
 * **Inner Thinking Transformer: Leveraging Dynamic Depth Scaling to Foster Adaptive Internal Thinking**<br>*Yilong Chen, Junyuan Shang, Zhenyu Zhang, Yanxi Xie, Jiawei Sheng, Tingwen Liu, Shuohuan Wang, Yu Sun, Hua Wu, Haifeng Wang*
