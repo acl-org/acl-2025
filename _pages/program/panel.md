@@ -16,6 +16,8 @@ sidebar:
 
 ## Panel on the Generalization of NLP Models
 
+Generalization is crucial for ensuring that models behave robustly, reliably, and fairly when making predictions on data different from their training data. Achieving good generalization is critically important for models used in real-world applications, as they should emulate human-like behavior. Humans are known for their ability to generalize well, and models should aspire to this standard.
+
 ## Panelists
 
 ### Eduard Hovy - Moderator
