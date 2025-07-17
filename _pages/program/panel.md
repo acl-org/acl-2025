@@ -34,6 +34,7 @@ Dr. Hovy is the author or co-editor of eight books and over 400 technical articl
 From 2003 to 2015 he was co-Director of Research for the Department of Homeland Security's Center of Excellence for Command, Control, and Interoperability Data Analytics, a distributed cooperation of 17 universities.  In 2001 Dr. Hovy served as President of the international Association of Computational Linguistics (ACL), in 2001–03 as President of the International Association of Machine Translation (IAMT), and in 2010–11 as President of the Digital Government Society (DGS).
 
 ### Mirella Lapata - Panelist
+**University of Edinburgh**
 
 ![Mirella Lapata](/assets/images/speaker/Mirella_Lapata.png){: .align-center .speaker-photo}
 
