@@ -176,19 +176,59 @@ Feel free to also explore all attractive sights and events in Vienna around the 
 
 The official [Vienna City Card](https://www.viennacitycard.at/en/) provides you with discounts for public transportation and tourist attractions.
 
-### **Popular Destinations**
+### **Sightseeing Recommendation**
 
-- Albertina (Art museum: Monet, Picasso and others, [https://www.albertina.at/en/home](https://www.albertina.at/en/home))
-- Kunsthistorisches Museum (Museum of Art History, very large collection: Tizian, Raffael, Caravaggio, Dürer, Bruegel, Rubens, Vermeer, Rembrandt, …) [https://www.khm.at/](https://www.khm.at/) )
-- Riesenrad (Giant ferris wheel in the Prater amusement park) [https://wienerriesenrad.com/en/home-2/](https://wienerriesenrad.com/en/home-2/)
-- Stephansdom (Cathedral, [https://www.stephanskirche.at/visit.php](https://www.stephanskirche.at/visit.php))
-- Schloss Schönbrunn (Castle, [https://www.schoenbrunn.at/en/visitor-information/how-to-get-here](https://www.schoenbrunn.at/en/visitor-information/how-to-get-here))
-- Schloss Belvedere (Castle and art museum, holds Klimt’s famous work “The Kiss” [https://www.belvedere.at/en](https://www.belvedere.at/en))
+Take a look at the [official online travel guide for Vienna](https://www.wien.info/en) to see which sights not to miss\!
 
-### **Popular Restaurant**
+Do you want to feel royal? Visit [castle Schönbrunn](https://www.schoenbrunn.at/en/) and its beautiful gardens. 
 
-- Schweizerhaus (Local cuisine, in the Prater amusement park) [https://www.schweizerhaus.at/en/](https://www.schweizerhaus.at/en/)
-- Figlmüller (Local cuisine, in the city center, several locations: [https://www.figlmueller.at/en/](https://www.figlmueller.at/en/) , [https://www.lugeck.com/en/](https://www.lugeck.com/en/) )
+Do you want to enjoy a perfect view of Vienna and its beautiful 700 hectares of vineyard? Go to the viewing platform [Cobenzl](https://maps.app.goo.gl/B67HesS5Gc5xwW1z5) and enjoy a stroll through the vineyards down to [Grinzing](https://maps.app.goo.gl/ZmaNpDQeNwjpnZVv7), the tavern region of Vienna.
+
+Other popular sights: 
+
+* Albertina (Art museum: Monet, Picasso and others, [https://www.albertina.at/en/home](https://www.albertina.at/en/home))  
+* Kunsthistorisches Museum (Museum of Art History, very large collection: Tizian, Raffael, Caravaggio, Dürer, Bruegel, Rubens, Vermeer, Rembrandt, etc.;  [https://www.khm.at/](https://www.khm.at/))  
+* Riesenrad (Giant ferris wheel in the Prater amusement park) [https://wienerriesenrad.com/en/home-2/](https://wienerriesenrad.com/en/home-2/)  
+* Stephansdom (Cathedral, [https://www.stephanskirche.at/visit.php](https://www.stephanskirche.at/visit.php))  
+* Schloss Belvedere (Castle and art museum, holds Klimt’s famous work “The Kiss” [https://www.belvedere.at/en](https://www.belvedere.at/en))
+
+
+### **Events in Vienna at the time of ACL** 
+
+Vienna has a lot to offer in summer \- take a look at the best things to do: [https://www.wien.info/en/now-on/summer-in-vienna](https://www.wien.info/en/now-on/summer-in-vienna) 
+
+**Movies & Food:** Combine open-air operas and movies with drinks and food at the [Film Festival Rathaus 2025](https://filmfestival-rathausplatz.at/en/), which takes place right in front of Vienna’s City Hall. 
+
+**Pop:** If you arrive in Vienna before the conference, enjoy the free-entrance [Austrian Pop Festival](https://popfest.at/) from 24 to 27\. July 2025 at Karlsplatz.
+
+**Classical music**: Vienna celebrates the 200th anniversary of the birth of famous composer Johann Strauss with many classical music and dance events \- take a look at the [program in July 2025 here](https://www.johannstrauss2025.at/en/events/)
+
+**Culture event**: Enjoy one of the many free entrance [Vienna Summer of Culture events](https://www.kultursommer.wien/kalender#kalender/ui) from dance to literature and comedy. 
+
+**Dance**: Do you enjoy contemporary dance and performance? Take a look at the [ImPulsTanz](https://www.impulstanz.com/en/) \- the Vienna International Dance Festival. 
+
+
+### **Restaurant and Café Recommendations** 
+
+Enjoy the typical coffee house experience of Vienna away from the crowded and touristic Café Central and Café Hawelka in the beautiful and cozy [Café Museum](https://www.cafemuseum.at/en/cafe-museum/our-coffee-house.html), where Viennese artists have been meeting up since 1899\. If you do not mind waiting in the queue, then enjoy a coffee where Trotsky and Freud once sat in [Café Central](https://cafecentral.wien/en/).  
+
+Sweets fit for royalty \- enjoy sweets in the famous [Café Demel](https://www.demel.com/en/pages/our-story) from which Empress Sissi is said to have her favorite sweets, [the candied violets](https://www.demel.com/en/products/candied-violets-silverbox), delivered every week. This is a special sweet souvenir to bring home to your loved ones. 
+
+For the most famous and traditional Sachertorte (chocolate sponge cake) visit the famous [Cafè Sacher](https://www.sacher.com/de/restaurants/cafe-sacher-wien/).   
+
+Just a 9 minute walk from the main ACL conference venue the [Danube Tower (Donauturm)](https://www.donauturm.at/en/restaurants-and-shop/turm-restaurant/) and restaurant offers a breathtaking 360° view of Vienna.
+
+For beef lovers, the most traditional dish of Vienna is the Tafelspitz (beef or veal cooked and served in a broth with side dishes) most famously served in the restaurant [Plachutta](https://www.plachutta.at/de/wollzeile.html).
+
+The famous Wiener Schnitzel is most touristically available at restaurant [Figlmüller](https://www.figlmueller.at/en/), however, if you wish to avoid the very long queues and tourist crowds, reserve a table at [Figlmüller’s Lugeck](http://www.lugeck.com) or enjoy a Wiener Schnitzel at restaurant [Meissl & Schaden](https://meisslundschadn.at/en/meissl-schadn-vienna/) or [Café Museum](https://www.cafemuseum.at/en/food-beverages/our-cuisine-lunch-menu.html).  
+
+Did you know that Vienna has 700 hectares of vineyard within its city limits? Don’t miss out on paying the beautiful vineyard region [Grinzing](https://maps.app.goo.gl/ZmaNpDQeNwjpnZVv7) a visit and enjoy some of the city’s own wines. For instance, [Zum Martin Sepp](https://zummartinsepp.at/) is a traditional nice Heuriger (Viennese tavern).
+
+Have a glass of excellent Austrian wine right next to the St. Stephen's Cathedral in the very heart of Vienna at [Wein & Co](https://dev.weinco.dievima.at/filiale/wien-stephansplatz-9311). The most typical wines for Vienna are Grüner Veltliner and Gemischter Satz, for instance from Mayer am Pfarrplatz. 
+
+A beautiful and traffic-free outdoor terrasse in a marvellous setting is offered by the [Trude & Töchter](https://www.trudeund.at/en/welcome/) on Karlsplatz. Enjoy a glass and excellent cuisine with the majestic Karlskirche in the backdrop.
+
+If you want to have a small taste of the different flavors of Austrian cuisine, go to the [Feinkosterei](https://feinkosterei.wien/) in the city center \- small dishes, tapas in Austrian style.
 
 #### **Restaurants and takeaway near the conference venue for the lunch break:**
 
