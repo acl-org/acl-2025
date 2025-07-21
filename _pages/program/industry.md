@@ -31,22 +31,22 @@ table th:nth-of-type(3) {
 | <span>July 28, 2025</span> | | | | 
 | -- | -- | -- | -- |
 | Time | Location | Session Title | Session Chair(s)|
-| 11:00 - 12:30 | TBA | Opening Keynote (Lucia Specia) + Oral Presentations | Georg Rehm (DFKI) and Yunyao Li (Adobe)|
-| 14:00 - 15:30 | TBA | Oral Presentations |Simon Ostermann (DFKI) |
+| 11:00 - 12:30 | Hall L | Opening Keynote (Lucia Specia) + Oral Presentations | Georg Rehm (DFKI) and Yunyao Li (Adobe)|
+| 14:00 - 15:30 | Hall L | Oral Presentations |Simon Ostermann (DFKI) |
 
 | <span>July 29, 2025</span> | | | |
 | -- | -- | -- | -- |
 | Time | Location | Session Title |Session Chair(s)|
 | 4:00 - 5:30   | Virtual | Virtual Presentations | TBA |
-| 10:00 - 12:00 | TBA | Keynote (Leon Derczynski) + Oral Presentation   | Georg Rehm (DFKI) and Yunyao Li (Adobe)|
-| 14:00 - 15:30 | TBA | Oral Presentations |Pedro Ortiz Suarez (Common Crawl Foundation)  |
+| 10:00 - 12:00 | Hall L | Keynote (Leon Derczynski) + Oral Presentation   | Georg Rehm (DFKI) and Yunyao Li (Adobe)|
+| 14:00 - 15:30 | Hall L | Oral Presentations |Pedro Ortiz Suarez (Common Crawl Foundation)  |
 | 16:00 - 17:30 | Virtual | Virtual Presentations | Sajjadur Rahman (Adobe) |
 
 | <span>July 30, 2025</span> | | | | 
 | -- | -- | -- | -- |
 | Time | Location | Session Title | Session Chair(s)|
-| 09:00-10:30 | TBA | Oral Presentations |Trung Bui (Adobe Research)  |
-| 11:00 - 12:30 | TBA | Careers in NLP Panel + Closing Awards | Georg Rehm (DFKI) and Yunyao Li (Adobe)|
+| 09:00-10:30 | Hall L | Oral Presentations |Trung Bui (Adobe Research)  |
+| 11:00 - 12:30 | Hall L | Careers in NLP Panel + Closing Awards | Georg Rehm (DFKI) and Yunyao Li (Adobe)|
 
 
 ## Keynotes
