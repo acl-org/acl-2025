@@ -61,6 +61,8 @@ program:
         url: /program/
       #      - title: "Keynote"
       #        url: /program/keynotes/
+      - title: "Industry Track"
+        url: /program/industry/
       - title: "Workshops"
         url: /program/workshops/
       - title: "Tutorials"
