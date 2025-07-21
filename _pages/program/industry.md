@@ -74,9 +74,9 @@ applications, focusing in the gaming industry. She now leads a team of research 
 * <small>**Bio:** Leon Derczynski is principal research scientist for LLM security at NVIDIA and prof in computer science at ITU Copenhagen. He was written inches, if not kilograms, of papers, and won similar quantities of awards etc. Prof. Derczynski has led policy efforts in academia, industry, and civil society. He has held affiliations at a dozen organisations in the past decade, including startups, universities, corporations, and non-profits; built research programmes at both a leading university and a leading corporation; and he retains a deep love of both university and industry research.
  </small>
 
-## Careers in NLP Panel 
+## Careers in NLP Panel
 
-### Yufang Hou - Moderator**
+### Yufang Hou - Moderator
 
 ![Yufang Hou](/assets/images/speaker/Yufang Hou.png){: .align-center .speaker-photo}
   
@@ -94,11 +94,11 @@ applications, focusing in the gaming industry. She now leads a team of research 
 
 ![Pascale Fung](/assets/images/speaker/Pascale Fung.jpg){: .align-center .speaker-photo}
 
-<small> Pascale Fung is a Senior Director of AI Research at Meta-FAIR leading research efforts on AI Agents, physical and mental world modeling, and collaborating with GenAI and Meta AI.
+<small> Pascale Fung is a Senior Director of AI Research at Meta-FAIR leading research efforts on AI Agents, physical and mental world modeling, and collaborating with GenAI and Meta AI.</small>
 
-As an AI pioneer since the 1990s, she has been recognized and elected as a Fellow of the Association for the Advancement of AI, the Association for Computational Linguistics, the Institute of Electrical and Electronic Engineers and the International Speech Communication Association for fundamental contributions to the areas of human-machine interactions.
+<small>As an AI pioneer since the 1990s, she has been recognized and elected as a Fellow of the Association for the Advancement of AI, the Association for Computational Linguistics, the Institute of Electrical and Electronic Engineers and the International Speech Communication Association for fundamental contributions to the areas of human-machine interactions.</small>
 
-She is an expert on the Global Future Council of the World Economic Forum since 2016. She is on the Expert Network of the UN Advisory Body on AI. She has given over 250 keynotes and invited talks to both technical audiences and the general public. She has been invited as an expert on AI governance by the United Nations, EU, EC, European Parliament, the UAE, Saudi Arabia, Japan, Singapore, the US Academics of Sciences, Medicine, and Engineering, among others. She was invited to a private audience with Pope Francis in 2023 for an occasion to discuss AI ethics. </small>
+<small>She is an expert on the Global Future Council of the World Economic Forum since 2016. She is on the Expert Network of the UN Advisory Body on AI. She has given over 250 keynotes and invited talks to both technical audiences and the general public. She has been invited as an expert on AI governance by the United Nations, EU, EC, European Parliament, the UAE, Saudi Arabia, Japan, Singapore, the US Academics of Sciences, Medicine, and Engineering, among others. She was invited to a private audience with Pope Francis in 2023 for an occasion to discuss AI ethics. </small>
 
 ### Lucia Specia - Panelist
 
