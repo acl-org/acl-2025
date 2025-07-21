@@ -210,6 +210,8 @@ venue:
         url: /venue/
       - title: "Travel"
         url: /venue/travel/
+      - title: "Whova Event App"
+        url: /whova/
 #      - title: "Visa"
 #        url: /venue/visa/
 #      - title: "Industry Track Papers"
