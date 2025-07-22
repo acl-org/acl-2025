@@ -35,30 +35,32 @@ table th:nth-of-type(3) {
 | Time | Location | Session Title |
 | 11:00 - 12:30 | 1.31-1.32 | SomosNLP: The Iberoamerican NLP Community |
 | 12:30 - 14:00 | 1.33 | Queer in AI Meet-Up |
-| 14:00 - 15:30 | 1.31-1.32 | Mentorship on NLP Research |
+| 14:00 - 15:30 | 1.31-1.32 & Online | Mentorship on NLP Research |
 
 | <span>Tue, Jul 29</span> | | |
 | -- | -- | -- |
 | Time | Location | Session Title |
 | 10:30 - 12:00 | 1.14 | Navigating Challenges in Building Industrial LLM Applications |
 | 10:30 - 12:00 | 1.31-1.32 | Humanists in NLP |
-| 12:00 - 13:30 | 1.33 | Teaching NLP |
+| 12:00 - 13:30 | 1.33 & Online | Teaching NLP |
 | 14:00 - 15:30 | 1.14 | NLP x Graphs: Where Structure Meets Language |
-| 14:00 - 15:30 | 1.31-1.32 | Southeast Asian NLP Community, Projects, and Beyond |
+| 14:00 - 15:30 | 1.31-1.32 & Online | Southeast Asian NLP Community, Projects, and Beyond |
 | 14:00 - 15:30 | 1.33 | EquiCL Welcome Session |
-| 16:00 - 17:30 | 1.14 | Learning and Reasoning for Structured Data |
+| 16:00 - 17:30 | 1.14 & Online | Learning and Reasoning for Structured Data |
 | 16:00 - 17:30 | 1.31-1.32 | Multilingualism: from data crawling to evaluation |
 | 16:00 - 17:30 | 1.33 | Participatory Design for NLP |
-| 16:00 - 17:30 | Online (Underline) | Bridging Human Study and LLM Agents for Social Simulation |
+| 16:00 - 17:30 | Online | Bridging Human Study and LLM Agents for Social Simulation |
 
 | <span>Wed, Jul 30</span> | | |
 | -- | -- | -- |
 | Time | Location | Session Title |
 | 9:00 - 10:30 | 1.14 | Activations & Embeddings: Cognitive-Neuroscience Methods for LLMs |
-| 11:00 - 12:30 | 1.31-1.32 | Mothering the Future — In Life and in AI: Challenges, Support, and the Path Forward for Mothers in Computing |
-| 11:00 - 12:30 | 1.33 | Language Technology for Crisis Preparedness and Response (LT4CPR) |
+| 11:00 - 12:30 | 1.31-1.32 & Online | Mothering the Future — In Life and in AI: Challenges, Support, and the Path Forward for Mothers in Computing |
+| 11:00 - 12:30 | 1.33 & Online | Language Technology for Crisis Preparedness and Response (LT4CPR) |
 | 12:30 - 14:00 | 1.14 | Ethical Considerations for NLP and CL |
 | 12:45 - 14:15 | 1.31-1.32 | Muslims in Machine Learning (MusIML) |
+
+*Note: "Online" sessions can be joined remotely by registered attendees through Underline.*
 
 ## Session Descriptions
 
@@ -79,7 +81,7 @@ Find updates and planned activities at https://somosnlp.org/conferencias/acl-202
   <i>Gauri Kholkar, Aakash Bist, Ratinder Ahuja</i>
 * <small>Large Language Models (LLMs) are rapidly moving from research labs into real-world industry applications. However, translating cutting-edge models into robust, reliable, and valuable products presents a unique set of practical challenges often distinct from academic pursuits. Issues around data scarcity and quality, model evaluation in production, deployment complexities, scalability, cost management, ethical considerations, ensuring reliability, and seamless integration with existing systems are common hurdles.
 
-This Birds of a Feather session invites researchers, engineers, product managers, and anyone involved in or interested in the practical application of LLMs in industry. Join us for an informal discussion to share experiences, "war stories," and insights gained from deploying LLMs in the wild. We aim to foster a collaborative environment to discuss common pain points, exchange effective strategies, and collectively brainstorm solutions for navigating the complex landscape of industrial LLM development.</small>
+  This Birds of a Feather session invites researchers, engineers, product managers, and anyone involved in or interested in the practical application of LLMs in industry. Join us for an informal discussion to share experiences, "war stories," and insights gained from deploying LLMs in the wild. We aim to foster a collaborative environment to discuss common pain points, exchange effective strategies, and collectively brainstorm solutions for navigating the complex landscape of industrial LLM development.</small>
 
 **Humanists in NLP**<br>
   <i>Patrick Sui</i>
@@ -92,8 +94,9 @@ At this informal meetup, we’ll discuss challenges and opportunities in teachin
 
 **NLP x Graphs: Where Structure Meets Language**<br>
   <i>Yuqicheng Zhu, Moritz Plenz</i>
-* <small>Graphs provide a natural and expressive way to model structure in language—from syntax and semantics to knowledge and discourse. As NLP systems grow in scale and complexity, structured representations are becoming increasingly important for enabling robust reasoning, interpretability, and data efficiency. With the rise of tasks like knowledge-grounded generation, retrieval-augmented language modeling, and graph-structured prompting, graph-based methods are becoming more and more relevant across the NLP landscape.<br><br>
-This BoF session brings together NLP researchers working on or interested in graph-based methods and structured representations. Topics include (but are not limited to) knowledge graphs, semantic and syntactic graphs, AMR, graph neural networks, graph-based retrieval-augmented generation (RAG), structured reasoning with LLMs, and applications of graph theory to NLP. The goal is to foster networking, interdisciplinary exchange, and discussions around open challenges and emerging directions in graph-based NLP. This informal gathering provides a space to meet fellow researchers, share insights from ongoing projects, and identify opportunities for collaboration within the NLP and broader AI community.</small>
+* <small>Graphs provide a natural and expressive way to model structure in language—from syntax and semantics to knowledge and discourse. As NLP systems grow in scale and complexity, structured representations are becoming increasingly important for enabling robust reasoning, interpretability, and data efficiency. With the rise of tasks like knowledge-grounded generation, retrieval-augmented language modeling, and graph-structured prompting, graph-based methods are becoming more and more relevant across the NLP landscape.
+
+  This BoF session brings together NLP researchers working on or interested in graph-based methods and structured representations. Topics include (but are not limited to) knowledge graphs, semantic and syntactic graphs, AMR, graph neural networks, graph-based retrieval-augmented generation (RAG), structured reasoning with LLMs, and applications of graph theory to NLP. The goal is to foster networking, interdisciplinary exchange, and discussions around open challenges and emerging directions in graph-based NLP. This informal gathering provides a space to meet fellow researchers, share insights from ongoing projects, and identify opportunities for collaboration within the NLP and broader AI community.</small>
 
 **Southeast Asian NLP Community, Projects, and Beyond**<br>
   <i>Fajri Koto, Jan Christian Blaise Cruz, Holy Lovenia, Samuel Cahyawijaya, Alham Fikri Aji, Peerat Limkonchotiwat, M. Reza Qorib</i>
@@ -133,33 +136,33 @@ This session is a chance to discuss the challenges, findings, and successes of e
   <i>Giovanni Franco Gabriel Marraffini</i>
 * <small>Groundbreaking research reveals that transformer features predict human brain activity with remarkable precision. fMRI, MEG, and EEG studies show layer-by-layer correspondences between LLMs and cortical language networks, with larger models yielding stronger neural alignment. Meanwhile, mechanistic interpretability is uncovering discrete "circuits" within LLMs, offering unprecedented insights into language processing.
 
-The Challenge: These advances span three disconnected communities—NLP researchers, cognitive scientists, and neuroscientists. This BoF unites these communities to accelerate progress toward brain-informed language technology.
+  The Challenge: These advances span three disconnected communities—NLP researchers, cognitive scientists, and neuroscientists. This BoF unites these communities to accelerate progress toward brain-informed language technology.
 
-What You'll Gain: Learn from peers about cutting-edge protocols for neural encoding/decoding, RSA analysis, behavioral alignment tasks, and interpretability techniques. Discover which transformer components (attention heads, MLPs, memory blocks) correspond to specific brain regions and processing timelines. Access curated datasets (Narratives fMRI, Cross-Subject EEG), evaluation frameworks (BrainScore, NeuroBench), and open-source tools. Form cross-disciplinary collaborations for future workshops, shared tasks, and research projects. Explore how neuroscience-informed probes improve model alignment and bias detection.
+  What You'll Gain: Learn from peers about cutting-edge protocols for neural encoding/decoding, RSA analysis, behavioral alignment tasks, and interpretability techniques. Discover which transformer components (attention heads, MLPs, memory blocks) correspond to specific brain regions and processing timelines. Access curated datasets (Narratives fMRI, Cross-Subject EEG), evaluation frameworks (BrainScore, NeuroBench), and open-source tools. Form cross-disciplinary collaborations for future workshops, shared tasks, and research projects. Explore how neuroscience-informed probes improve model alignment and bias detection.
 
-Target Audience: NLP researchers interested in cognitive plausibility; neuroscientists and psycholinguists working with language models; ML practitioners developing brain-inspired architectures; early-career researchers bridging computational and cognitive sciences; anyone curious about AI-human cognition intersections.
+  Target Audience: NLP researchers interested in cognitive plausibility; neuroscientists and psycholinguists working with language models; ML practitioners developing brain-inspired architectures; early-career researchers bridging computational and cognitive sciences; anyone curious about AI-human cognition intersections.
 
-Interactive Session (90 minutes): Lightning Rounds (10 min) feature quick "What I study/What I need" pitches from attendees. Breakout Tables (35 min) include thematic small-group discussions on neuroimaging & LLMs, behavioral alignment methods, mechanistic interpretability, and cross-linguistic brain studies. Synthesis & Planning (45 min) covers collaborative research roadmapping, concrete next steps for dataset sharing and collaboration, and community building.
+  Interactive Session (90 minutes): Lightning Rounds (10 min) feature quick "What I study/What I need" pitches from attendees. Breakout Tables (35 min) include thematic small-group discussions on neuroimaging & LLMs, behavioral alignment methods, mechanistic interpretability, and cross-linguistic brain studies. Synthesis & Planning (45 min) covers collaborative research roadmapping, concrete next steps for dataset sharing and collaboration, and community building.
 
-Expected Outcomes: Living resource hub (GitHub repository) with datasets, analysis pipelines, and expert contacts. Cross-disciplinary mailing list for ongoing collaboration. Seed teams for ACL 2026 workshop on "Brain-Aligned LLM Evaluation." Enhanced networking for researchers at the NLP-neuroscience intersection.
+  Expected Outcomes: Living resource hub (GitHub repository) with datasets, analysis pipelines, and expert contacts. Cross-disciplinary mailing list for ongoing collaboration. Seed teams for ACL 2026 workshop on "Brain-Aligned LLM Evaluation." Enhanced networking for researchers at the NLP-neuroscience intersection.
 
-Why ACL 2025: ACL uniquely brings together leading LLM researchers alongside cognitive scientists and neuro-NLP experts. Vienna's central location makes this the perfect venue to catalyze international collaboration and chart the future of brain-informed language technology.</small>
+  Why ACL 2025: ACL uniquely brings together leading LLM researchers alongside cognitive scientists and neuro-NLP experts. Vienna's central location makes this the perfect venue to catalyze international collaboration and chart the future of brain-informed language technology.</small>
 
 **Mothering the Future — In Life and in AI: Challenges, Support, and the Path Forward for Mothers in Computing**<br>
   <i>Narjis Asad</i>
 * <small>The pursuit of research, especially in the fast-paced world of AI and Machine Learning, should not come at the cost of parenthood. Yet, for early-career female researchers, these two paths often feel mutually exclusive. I am a PhD researcher in AI and the mother of a young child. This dual identity, though deeply fulfilling, remains exceedingly rare in our field. Why? Because many women delay motherhood until after their PhDs — often at personal and biological cost — or leave their programs altogether post-pregnancy. Others choose (or feel compelled to choose) alternatives like adoption or pet parenting simply because they don’t feel secure or supported enough to start a family early in their academic careers. 
 
-The reasons are, sadly, genuine and pressing: the relentless demands of research, the fear of losing momentum during maternity leave, financial precarity, and the silent but persistent doubt — Can I truly do justice to both roles?
+  The reasons are, sadly, genuine and pressing: the relentless demands of research, the fear of losing momentum during maternity leave, financial precarity, and the silent but persistent doubt — Can I truly do justice to both roles?
 
-In speaking with fellow researchers, I’ve realized I’m not alone in navigating this tension. Yet few spaces exist where these stories are validated or these challenges openly addressed. While our community rightly celebrates women’s achievements in computing, it often overlooks the structural and emotional costs behind them, especially for those who are, or wish to become, mothers.
+  In speaking with fellow researchers, I’ve realized I’m not alone in navigating this tension. Yet few spaces exist where these stories are validated or these challenges openly addressed. While our community rightly celebrates women’s achievements in computing, it often overlooks the structural and emotional costs behind them, especially for those who are, or wish to become, mothers.
 
-Sacrifices are part of any high-achievement path, yes. But no woman should have to sacrifice her biological clock or risk her future child’s health in order to become an accomplished researcher in computing. That should never be the price of success or excellence in research.
+  Sacrifices are part of any high-achievement path, yes. But no woman should have to sacrifice her biological clock or risk her future child’s health in order to become an accomplished researcher in computing. That should never be the price of success or excellence in research.
 
-This 90-minute hybrid affinity session will open up a much-needed conversation: What structural changes and community support do we need to make motherhood a supported and celebrated norm for early-career researchers in computation?
+  This 90-minute hybrid affinity session will open up a much-needed conversation: What structural changes and community support do we need to make motherhood a supported and celebrated norm for early-career researchers in computation?
 
-We invite mothers in computer science, early-career, and established to share their stories, offer solidarity, and envision a more inclusive future. I’ve experienced firsthand the challenges of combining early motherhood with an intense research career, and I’m deeply passionate about improving support systems for “Mothers in Computation” in India and globally.
+  We invite mothers in computer science, early-career, and established to share their stories, offer solidarity, and envision a more inclusive future. I’ve experienced firsthand the challenges of combining early motherhood with an intense research career, and I’m deeply passionate about improving support systems for “Mothers in Computation” in India and globally.
 
-Whether you are a mother, a future parent, an ally, or a mentor, this session is for you. Join us as we imagine and begin to build a world where embracing motherhood during a research career is not only possible but also joyous and empowering.</small>
+  Whether you are a mother, a future parent, an ally, or a mentor, this session is for you. Join us as we imagine and begin to build a world where embracing motherhood during a research career is not only possible but also joyous and empowering.</small>
 
 **Language Technology for Crisis Preparedness and Response (LT4CPR)**<br>
   <i>Belu Ticona, Antonios Anastasopoulos, Will Lewis, Fei Xia.</i>
