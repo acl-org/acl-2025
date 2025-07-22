@@ -65,7 +65,7 @@ applications, focusing in the gaming industry. She now leads a team of research 
 
 
 ### We Can't Do it Alone**
-#### Leon Derczynsk
+#### Leon Derczynski
 
 ![Leon Derczynski](/assets/images/speaker/Leon_Derczynski.jpg){: .align-center .speaker-photo}
 
@@ -82,7 +82,7 @@ applications, focusing in the gaming industry. She now leads a team of research 
   
 <small>Yufang Hou is a professor at IT:U – Interdisciplinary Transformation University Austria. At IT:U, she leads the NLP group with a strong focus on large language model (LLM) governance, computational argumentation, fact-checking, knowledge and reasoning, and human-centred NLP applications in education, science, and health. Yufang has served as an organizing committee member and senior program committee member for various NLP conferences, and has co-organized several workshops on topics such as argument mining, efficient NLP, and AI for Science.</small>
 
-### Leon Derczynsk - Panelist
+### Leon Derczynski - Panelist
 
 ![Leon Derczynski](/assets/images/speaker/Leon_Derczynski.jpg){: .align-center .speaker-photo}
 
