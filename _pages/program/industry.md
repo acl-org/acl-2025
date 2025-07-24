@@ -37,7 +37,7 @@ table th:nth-of-type(3) {
 | <span>July 29, 2025</span> | | | |
 | -- | -- | -- | -- |
 | Time | Location | Session Title |Session Chair(s)|
-| 4:00 - 5:30   | Virtual | Virtual Presentations | TBA |
+| 4:00 - 5:30   | Virtual | Virtual Presentations | Ishan Jindal (Samsung Research) |
 | 10:00 - 12:00 | Hall L | Keynote (Leon Derczynski) + Oral Presentation   | Georg Rehm (DFKI) and Yunyao Li (Adobe)|
 | 14:00 - 15:30 | Hall L | Oral Presentations |Pedro Ortiz Suarez (Common Crawl Foundation)  |
 | 16:00 - 17:30 | Virtual | Virtual Presentations | Sajjadur Rahman (Adobe) |
@@ -94,11 +94,7 @@ applications, focusing in the gaming industry. She now leads a team of research 
 
 ![Pascale Fung](/assets/images/speaker/Pascale Fung.jpg){: .align-center .speaker-photo}
 
-<small> Pascale Fung is a Senior Director of AI Research at Meta-FAIR leading research efforts on AI Agents, physical and mental world modeling, and collaborating with GenAI and Meta AI.</small>
-
-<small>As an AI pioneer since the 1990s, she has been recognized and elected as a Fellow of the Association for the Advancement of AI, the Association for Computational Linguistics, the Institute of Electrical and Electronic Engineers and the International Speech Communication Association for fundamental contributions to the areas of human-machine interactions.</small>
-
-<small>She is an expert on the Global Future Council of the World Economic Forum since 2016. She is on the Expert Network of the UN Advisory Body on AI. She has given over 250 keynotes and invited talks to both technical audiences and the general public. She has been invited as an expert on AI governance by the United Nations, EU, EC, European Parliament, the UAE, Saudi Arabia, Japan, Singapore, the US Academics of Sciences, Medicine, and Engineering, among others. She was invited to a private audience with Pope Francis in 2023 for an occasion to discuss AI ethics. </small>
+<small>Pascale Fung is a Chair Professor of [Electronic & Computer Engineering](https://urldefense.com/v3/__http://www.ece.ust.hk/__;!!Bt8RZUm9aw!8i8SjPfKs3pDRVKGwhUnRLjbwTUuRFFjsMxmCF7WpXj5idtOaYTwdFlc2-Jg7nk9bkWKUdJUPCm-NhYaPY9Ce9EE$) at The [Hong Kong University of Science & Technology](https://urldefense.com/v3/__http://www.ust.hk/__;!!Bt8RZUm9aw!8i8SjPfKs3pDRVKGwhUnRLjbwTUuRFFjsMxmCF7WpXj5idtOaYTwdFlc2-Jg7nk9bkWKUdJUPCm-NhYaPUir1JaU$) (HKUST), and a Senior Director of AI Research at Meta-FAIR. She is also a visiting professor at the [Central Academy](https://urldefense.com/v3/__http://www.cafa.edu.cn/en/__;!!Bt8RZUm9aw!8i8SjPfKs3pDRVKGwhUnRLjbwTUuRFFjsMxmCF7WpXj5idtOaYTwdFlc2-Jg7nk9bkWKUdJUPCm-NhYaPQCvaSRk$) of Fine Arts in Beijing. She is a Fellow of the AAAI, IEEE, ACL and ISCA. She served on the [Board of Governors](https://urldefense.com/v3/__https://signalprocessingsociety.org/our-story/board-governors__;!!Bt8RZUm9aw!8i8SjPfKs3pDRVKGwhUnRLjbwTUuRFFjsMxmCF7WpXj5idtOaYTwdFlc2-Jg7nk9bkWKUdJUPCm-NhYaPb4LivZH$) of the IEEE Signal Processing Society. She served as Editor-in-Chief and Associate Editor for all the top academic journals in the field of speech and language processing. Her team has won [several best and outstanding paper awards](https://urldefense.com/v3/__http://pascale.home.ece.ust.hk/__;!!Bt8RZUm9aw!8i8SjPfKs3pDRVKGwhUnRLjbwTUuRFFjsMxmCF7WpXj5idtOaYTwdFlc2-Jg7nk9bkWKUdJUPCm-NhYaPbGe1MoK$) at ACL, ACL and NeurIPS workshops. </small>
 
 ### Lucia Specia - Panelist
 
