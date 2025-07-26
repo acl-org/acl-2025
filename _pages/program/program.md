@@ -11,6 +11,7 @@ toc_sticky: True
 
 [Click for Detailed Program](https://docs.google.com/spreadsheets/d/1O-n3HPvv8vY0L_kjyP5AtRTcWWjqLk2deCYtrMgCGw4/edit?usp=drive_link) (Please check back for updates)     
 
+
 To authors with an accepted paper, please note if there are any misspellings or if you need to change your presentation type from in-person or virtual, or from virtual to in-person, complete [this form](https://acl2025-paper-author-update.paperform.co/). For any title changes or author name changes, you will need to email the program chairs at [ACL2025pcs@gmail.com](mailto:ACL2025pcs@gmail.com)     
 
 ## ACL 2025 Program Overview
@@ -77,7 +78,7 @@ All Plenary & Oral Sessions will be available to view online
 |   | Level 2 Hall B          | NLP Applications 1                                |
 |   | Level 2 Hall A          | Resources and Evaluation 1                        |
 |   | Level 1 1.15–16         | Theme track: Generalisation of NLP models 1       |
-|   | Level 1 Hall L.1–L.3    | IND: TBA                                          |
+|   | Level 1 Hall L.1–L.3    | Industry Track: Opening Keynote (Lucia Specia) + Oral Presentations |
 | 15:30 - 16:00 |   | Coffee Break                                                  |
 | 16:00 - 16:30 | Level 2 Hall A - C  | Session 4: CL Dissertation Award                              |
 | 16:30 - 17:30 | Level 2 Hall A - C  | Session 4: Panel: Generalization of NLP Models              |
@@ -108,7 +109,7 @@ All Plenary & Oral Sessions will be available to view online
 |   | Level 0 Exhibit Halls X4 or X5 | Multilingualism and Cross-Lingual NLP  |
 |   | Level 0 Exhibit Halls X4 or X5 | Semantics                              |
 |   | Level 1 Hall N.2              | SRW: TBA                               |
-|   | Level 1 Hall L.1–L.3         | IND: TBA                               |
+|   | Level 1 Hall L.1–L.3         | Industry Track: Keynote (Leon Derczynski) + Oral Presentations |
 | 12:00 - 13:00 |   | Lunch Break (on own)                                                 |
 | 13:00 - 13:45 | Level 2 Hall B  | Session 8: Business Meeting                                          |
 | 14:00 - 15:30 |   | Session 9: In Person Orals                                           |
@@ -138,7 +139,7 @@ All Plenary & Oral Sessions will be available to view online
 |   | Level 0 Exhibit Halls X4 or X5 | Theme track: Generalisation of NLP models     |
 |   | Level 0 Exhibit Halls X4 or X5 | Machine Translation                           |
 |   | Level 0 Exhibit Halls X4 or X5 | Summarization and Information Extraction      |
-|   | Level 1 Hall N.2              | IND: TBA                                       |
+|   | Level 1 Hall N.2              | Industry Track: Virtual Presentations         |
 |   | Level 1 Hall L.1–L.3         | SRW: TBA                                       |
 | 19:00 - 22:00 |   | Social Event  for all Registered Full, Main, or Social Event add-ons |
 
@@ -164,7 +165,7 @@ All Plenary & Oral Sessions will be available to view online
 |   | Level 1 1.85             | Interpretability and Model Analysis 2           |
 |   | Level 1 1.86             | Question Answering                              |
 |   | Level 1 1.15–1.16        | Language Modeling 2                             |
-|   | Level 1 Hall L.1–L.3     | IND: TBA                                        |
+|   | Level 1 Hall L.1–L.3     | Industry Track: Oral Presentations             |
 | 10:30 - 11:00 |   | Coffee Break                                                   |
 | 11:00 - 12:30 |  Underline | Session 12: Virtual Presentations (for virtual attendees only) |
 | 11:00 - 12:30 |   | Session 12: In Person Posters (Main, IND, SRW)                 |
@@ -180,7 +181,7 @@ All Plenary & Oral Sessions will be available to view online
 |   | Level 0 Exhibit Halls X4 or X5 | Phonology, Morphology, and Syntax                   |
 |   | Level 0 Exhibit Halls X4 or X5 | Discourse and Pragmatics                            |
 |   | Level 1 Hall N.2               | SRW - Closing & Best Papers                         |
-|   | Level 1 Hall L.1–L.3          | INDUSTRY Car-Panel / Awards Closing                  |
+|   | Level 1 Hall L.1–L.3          | Industry Track: Careers in NLP Panel + Closing Awards |
 | 12:30 - 14:00 |   | Lunch Break (on own)                                           |
 | 14:00 - 14:30 | Level 2 Hall A - C  | Session 13: Presidential Address                               |
 | 14:30 - 14:50 | Level 2 Hall A - C  | Session 13: Test of Times |
