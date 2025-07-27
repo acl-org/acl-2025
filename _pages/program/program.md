@@ -63,6 +63,7 @@ All Plenary & Oral Sessions will be available to view online
 |   | Level 0 Exhibit Halls X4 or X5 | Information Retrieval and Text Mining     |
 |   | Level 0 Exhibit Halls X4 or X5 | Human-centered NLP                        |
 |   | Level 0 Exhibit Halls X4 or X5 | Speech Processing                         |
+| 11:00 - 12:30 | Level 1 Hall L.1–L.3    | Industry Track: Opening Keynote (Lucia Specia) + Oral Presentations |
 | 12:30 - 14:00 |   | Lunch Break (on own)                                          |
 | 14:00 - 15:30 |   | Session 3: In Person Orals                                    |
 | |   | **Track/Theme**                           |
@@ -78,7 +79,6 @@ All Plenary & Oral Sessions will be available to view online
 |   | Level 2 Hall B          | NLP Applications 1                                |
 |   | Level 2 Hall A          | Resources and Evaluation 1                        |
 |   | Level 1 1.15–16         | Theme track: Generalisation of NLP models 1       |
-|   | Level 1 Hall L.1–L.3    | Industry Track: Opening Keynote (Lucia Specia) + Oral Presentations |
 | 15:30 - 16:00 |   | Coffee Break                                                  |
 | 16:00 - 16:30 | Level 2 Hall A - C  | Session 4: CL Dissertation Award                              |
 | 16:30 - 17:30 | Level 2 Hall A - C  | Session 4: Panel: Generalization of NLP Models              |
