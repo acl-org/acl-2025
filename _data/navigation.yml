@@ -95,6 +95,8 @@ program:
         url: /program/keynotes/
       - title: "Panel"
         url: /program/panel/
+      - title: "Oral sessions with panel discussion"
+        url: /program/oral_panel/
       - title: "Birds of a Feather"
         url: /program/bof/
       # - title: "Social Gala"
