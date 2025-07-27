@@ -1375,7 +1375,7 @@ toc_sticky: false
 * **Exploring the Impact of Instruction-Tuning on LLM’s Susceptibility to Misinformation**<br>*Kyubeen Han, Junseo Jang, Hongjin Kim, Geunyeong Jeong, Harksoo Kim*
 * **Do Language Models Understand Honorific Systems in Javanese?**<br>*Mohammad Rifqi Farhansyah, Iwan Darmawan, Adryan Kusumawardhana, Genta Indra Winata, Alham Fikri Aji, Derry Tanti Wijaya*
 * **Generative Reward Modeling via Synthetic Criteria Preference Learning**<br>*xiaobo liang, Haoke Zhang, Juntao Li, Kehai Chen, Qiaoming Zhu, Min Zhang*
-* **Relation Extraction of Hierarchical Tables Using Multimodal Large Language Models**<br>*Xinyu Zhang, Aibo Song, Jingyi Qiu, Jiahui Jin, Tianbo zhang, Xiaolin Fang*
+* **Exploring Multimodal Relation Extraction of Hierarchical Tabular Data with Multi-task Learning**<br>*Xinyu Zhang, Aibo Song, Jingyi Qiu, Jiahui Jin, Tianbo zhang, Xiaolin Fang*
 * **A Self-Denoising Model for Robust Few-Shot Relation Extraction**<br>*Liang Zhang, yang zhang, Ziyao Lu, Fandong Meng, Jie Zhou, Jinsong Su*
 * **QuASAR: A Question-Driven Structure-Aware Approach for Table-to-Text Generation**<br>*WeiJie Liu, Yibin Zheng, Fang Kong*
 * **Automated Structured Radiology Report Generation**<br>*Jean-Benoit Delbrouck, Justin Xu, Johannes Moll, Alois Thomas, Zhihong Chen, Maya Varma, Asfandyar Azhar, Sophie Ostmeier, Andrew Johnston, Eduardo Pontes Reis, Christian Bluethgen, Mohamed S Muneer, Kelvin Zhenghao Li, Curtis Langlotz*
