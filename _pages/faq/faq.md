@@ -9,6 +9,10 @@ toc: True
 toc_sticky: True	
 ---
 
+## Presenter's Guide
+A comprehensive guide for all ACL 2025 presenters is now available! This guide covers everything you need to know about presenting at the conference.
+
+**📋 [ACL 2025 Presenter's Guide](https://docs.google.com/presentation/d/1PJOyaKKAezi_YFpaTS-nHv4xacgcVswnukFgc6ZY_QM/edit?slide=id.g2e29279a7fb_0_1#slide=id.g2e29279a7fb_0_1)**
 
 ## Submission Requirements - Main Conference    
 Authors of accepted papers are required to submit a pre-recorded video presentation, a poster PDF and/or presentation slides.    

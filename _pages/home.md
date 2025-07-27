@@ -20,6 +20,7 @@ The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 20
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| July 27, 2025 | [Presenter's Guide](https://docs.google.com/presentation/d/1PJOyaKKAezi_YFpaTS-nHv4xacgcVswnukFgc6ZY_QM/edit?slide=id.g2e29279a7fb_0_1#slide=id.g2e29279a7fb_0_1) is now available
 | Jun 29, 2025 | [Program Schedule](https://2025.aclweb.org/program/) is out
 | Jun 17, 2025 | [Frequently Asked Questions page](https://2025.aclweb.org/faq/) is out
 | May 21, 2025 | [Registration is officially open](https://acl.swoogo.com/acl2025)
