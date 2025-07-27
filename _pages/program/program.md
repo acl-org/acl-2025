@@ -214,3 +214,7 @@ See detailed schedule in [Workshops](https://2025.aclweb.org/program/workshops/)
 | 10:30 - 11:00 | Coffee Break         |
 | 12:30 - 14:00 | Lunch Break (on own) |
 | 15:30 - 16:00 | Coffee Break         |
+
+## Personal Conference Programs
+
+This year, ACL partners with [scholar-inbox.com](http://scholar-inbox.com/) to provide all ACL attendees customized conference programs based on personal research interests to more easily navigate the conference sessions. [scholar-inbox.com](http://scholar-inbox.com/) is a community-driven paper recommender system developed by researchers for researchers. Registration is easy and fast. The personalized programs can be accessed from any mobile device or PC via the web browser. Get your personal program here: [https://www.scholar-inbox.com/conference/acl/2025](https://www.scholar-inbox.com/conference/acl/2025)
