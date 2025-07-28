@@ -9,6 +9,8 @@ toc: True
 toc_sticky: True
 ---
 
+[Access the digital conference handbook](https://drive.google.com/file/d/1lIrLnVdPv6yDrrlZ2ZgHwaPYq9zx-u0d/view?usp=sharing)
+
 [Click for Detailed Program](https://docs.google.com/spreadsheets/d/1O-n3HPvv8vY0L_kjyP5AtRTcWWjqLk2deCYtrMgCGw4/edit?usp=drive_link) (Please check back for updates)     
 
 
