@@ -51,7 +51,7 @@ table th:nth-of-type(3) {
 
 ## Keynotes
 
-### From Words to Worlds: NLP for Game Creation and Interaction**
+### From Words to Worlds: NLP for Game Creation and Interaction
 #### Lucia Specia
 
 ![Lucia Specia](/assets/images/speaker/Lucia_Specia.jpg){: .align-center .speaker-photo}
@@ -64,12 +64,12 @@ Language Processing at Imperial College London. Her work focuses on various aspe
 applications, focusing in the gaming industry. She now leads a team of research engineers at Epic Games delivering ML solutions across automation and business optimization, safety and security, user experience and content creation. She received a PhD from the University of Sao Paulo and has held positions at University of Sheffield, Meta, and Xerox Research.</small>
 
 
-### We Can't Do it Alone**
+### How Your LLM is a Security Threat
 #### Leon Derczynski
 
 ![Leon Derczynski](/assets/images/speaker/Leon_Derczynski.jpg){: .align-center .speaker-photo}
 
-* <small>**Abstract:** Industry and academic research each have their own deficiences and blindspots, and both rely heavily on each other. This talk explores common themes and describes each side's view and what they miss for each theme. We will discuss the role in society, the role in research, which narratives work (and don't), the role in peer review (and its role for us), and where the hard workers, sceptics, and sociopaths fit in either case. All this comes together to form a positive view of good open collaborations, and some concrete advice on how to give and get the most value out of interactions with the other side.</small>
+* <small>**Abstract:** As research artefacts, many parts of LLMs and the systems that use them lack the rigour and maturity that safe software requires. As a result, it is frequently trivial to not only cause LLM output to behave in arbitrary manner, but to exploit this to extract information about training data, the user side of a chat session, private documents in a RAG, or even subvert computers running LLMs or being used to analyse LLM output. This talk details attacks on LLM systems, their serious impacts, and what researchers and practitioners can do about it.</small>
 
 * <small>**Bio:** Leon Derczynski is principal research scientist for LLM security at NVIDIA and prof in computer science at ITU Copenhagen. He was written inches, if not kilograms, of papers, and won similar quantities of awards etc. Prof. Derczynski has led policy efforts in academia, industry, and civil society. He has held affiliations at a dozen organisations in the past decade, including startups, universities, corporations, and non-profits; built research programmes at both a leading university and a leading corporation; and he retains a deep love of both university and industry research.
  </small>
