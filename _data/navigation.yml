@@ -87,6 +87,10 @@ program:
         url: /program/cl_papers/
       - title: "TACL Papers"
         url: /program/tacl_papers/
+  - title: Awards
+    children:
+      - title: "Awards"
+        url: /program/awards/
   - title: Events
     children:
       # - title: "Welcome Reception"
