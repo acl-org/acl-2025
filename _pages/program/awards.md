@@ -8,8 +8,6 @@ toc: true
 toc_sticky: true
 ---
 
-# Awards
-
 ## SAC Highlights
 
 * **A Text is Worth Several Tokens: Text Embedding from LLMs Secretly Aligns Well with The Key Tokens**  
