@@ -150,3 +150,18 @@ _Ethan Wilcox, Cui Ding, Giovanni Acampa, Tiago Pimentel, Alex Warstadt, Tamar I
 
 * **What is Stigma Attributed to? A Theory-Grounded, Expert-Annotated Interview Corpus for Demystifying Mental-Health Stigma**  
 _Han Meng, Yancan Chen, Yunan Li, YITIAN YANG, Jungup Lee, Renwen Zhang, Yi-Chieh Lee_
+
+## Industry Track Awards
+
+### Best Paper
+
+**Speed Without Sacrifice: Fine-Tuning Language Models with Medusa and Knowledge Distillation in Travel Applications**  
+_Daniel Zagyva, Emmanouil Stergiadis, Laurens van der Maas, Aleksandra Dokic, Eran Fainman, Ilya Gusev, Moran Beladev_
+
+### Honourable Mentions
+
+**Boosting Decision-Making Ability of LLMs with Speculative Reward Model Cost-Effectively**  
+_Jiawei Gu, Shangsong Liang_
+
+**NeKo: Cross-Modality Post-Recognition Error Correction with Tasks-Guided Mixture-of-Experts Language Model**  
+_Yen-Ting Lin, Zhehuai Chen, Piotr Zelasko, Zhen Wan, Xuesong Yang, Zih-Ching Chen, Krishna C Puvvada, Ke Hu, Szu-Wei Fu, Jun Wei Chiu, Jagadeesh Balam, Boris Ginsburg, Yu-Chiang Frank Wang, Chao-Han Huck Yang_
