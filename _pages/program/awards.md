@@ -147,6 +147,11 @@ _Melanie Subbiah, Sean Zhang, Lydia B. Chilton, Kathleen McKeown_
 * **OLMoTrace: Tracing Language Model Outputs Back to Trillions of Training Tokens**  
 _Jiacheng Liu, Taylor Blanton, Yanai Elazar, Sewon Min, Yen-Sung Chen, Arnavi Chheda-Kothary, Huy Tran, Byron Bischoff, Eric Marsh, Michael Schmitz, Cassidy Trier, Aaron Sarnat, Jenna James, Jon Borchardt, Bailey Kuehl, Evie Yu-Yen Cheng, Karen Farley, Taira Anderson, David Albright, Carissa Schoenick, Luca Soldaini, Dirk Groeneveld, Rock Yuren Pang, Pang Wei Koh, Noah A. Smith, Sophie Lebrecht, Yejin Choi, Hannaneh Hajishirzi, Ali Farhadi, Jesse Dodge_
 
+## Best Student Research Workshop Paper  
+
+* **Towards Multi-Perspective NLP Systems: A Thesis Proposal**  
+_Benedetta Muscato_
+
 ## SAC Highlights
 
 * **A Text is Worth Several Tokens: Text Embedding from LLMs Secretly Aligns Well with The Key Tokens**  
