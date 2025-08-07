@@ -8,6 +8,145 @@ toc: true
 toc_sticky: true
 ---
 
+## Best Paper
+
+* **A Theory of Response Sampling in LLMs: Part Descriptive and Part Prescriptive**  
+_Sarath Sivaprasad, Pramod Kaushik, Sahar Abdelnabi, Mario Fritz_
+
+* **Fairness through Difference Awareness: Measuring Desired Group Discrimination in LLMs**  
+_Angelina Wang, Michelle Phan, Daniel E. Ho, Sanmi Koyejo_
+
+* **Language Models Resist Alignment: Evidence From Data Compression**  
+_Jiaming Ji, Kaile Wang, Tianyi Qiu, Boyuan Chen, Jiayi Zhou, Changye Li, Hantao Lou, Juntao Dai, Yunhuai Liu, Yaodong Yang_
+
+* **Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention**  
+_Jingyang Yuan, Huazuo Gao, Damai Dai, Junyu Luo, Liang Zhao, Zhengyan Zhang, Zhenda Xie, Y. X. Wei, Lean Wang, Zhiping Xiao, Yuqing Wang, Chong Ruan, Ming Zhang, Wenfeng Liang, Wangding Zeng_
+
+## Best Social Impact Paper
+
+* **AfriMed-QA: A Pan-African, Multi-Specialty, Medical Question-Answering Benchmark Dataset**  
+_Charles Nimo, Tobi Olatunji, Abraham Toluwase Owodunni, Tassallah Abdullahi, Emmanuel Ayodele, Mardhiyah Sanni, Ezinwanne C. Aka, Folafunmi Omofoye, Foutse Yuehgoh, Timothy Faniran, Bonaventure F. P. Dossou, Moshood O. Yekini, Jonas Kemp, Katherine A Heller, Jude Chidubem Omeke, Chidi Asuzu MD, Naome A Etori, Aïmérou Ndiaye, Ifeoma Okoh, Evans Doe Ocansey, Wendy Kinara, Michael Best, Irfan Essa, Stephen Edward Moore, Chris Fourie, Mercy Nyamewaa Asiedu_
+
+* **The AI Gap: How Socioeconomic Status Affects Language Technology Interactions**  
+_Elisa Bassignana, Amanda Cercas Curry, Dirk Hovy_
+
+## Best Resource Paper
+
+* **Are Rules Meant to be Broken? Understanding Multilingual Moral Reasoning as a Computational Pipeline with UniMoral**  
+_Shivani Kumar, David Jurgens_
+
+* **BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages**  
+_Shamsuddeen Hassan Muhammad, Nedjma Ousidhoum, Idris Abdulmumin, Jan Philip Wahle, Terry Ruas, Meriem Beloucif, Christine de Kock, Nirmal Surange, Daniela Teodorescu, Ibrahim Said Ahmad, David Ifeoluwa Adelani, Alham Fikri Aji, Felermino D. M. A. Ali, Ilseyar Alimova, Vladimir Araujo, Nikolay Babakov, Naomi Baes, Ana-Maria Bucur, Andiswa Bukula, Guanqun Cao, Rodrigo Tufiño, Rendi Chevi, Chiamaka Ijeoma Chukwuneke, Alexandra Ciobotaru, Daryna Dementieva, Murja Sani Gadanya, Robert Geislinger, Bela Gipp, Oumaima Hourrane, Oana Ignat, Falalu Ibrahim Lawan, Rooweither Mabuya, Rahmad Mahendra, Vukosi Marivate, Alexander Panchenko, Andrew Piper, Charles Henrique Porto Ferreira, Vitaly Protasov, Samuel Rutunda, Manish Shrivastava, Aura Cristina Udrea, Lilian Diana Awuor Wanzare, Sophie Wu, Florian Valentin Wunderlich, Hanif Muhammad Zhafran, Tianhui Zhang, Yi Zhou, Saif M. Mohammad_
+
+* **Palm: A Culturally Inclusive and Linguistically Diverse Dataset for Arabic LLMs**  
+_Fakhraddin Alwajih, Abdellah EL MEKKI, Samar Mohamed Magdy, AbdelRahim A. Elmadany, OMER NACAR, El Moatez Billah Nagoudi, Reem Abdel-Salam, Hanin atwany, Youssef Nafea, Abdulfattah Mohammed Yahya, Rahaf Alhamouri, Hamzah A. Alsayadi, Hiba Zayed, Sara Shatnawi, Serry Sibaee, Yasir ECH-CHAMMAKHY, Walid Al-Dhabyani, Marwa Mohamed Ali, Imen JARRAYA, Ahmed Oumar El-Shangiti, Aisha Alraeesi, Mohammed Anwar AL-Ghrawi, Abdulrahman S. Al-Batati, Elgizouli Mohamed, Noha Taha Elgindi, Muhammed Saeed, Houdaifa Atou, Issam AIT YAHIA, Abdelhak Bouayad, Mohammed Machrouh, AMAL MAKOUAR, Dania Alkawi, Mukhtar Mohamed, Safaa Taher Abdelfadil, Amine Ziad Ounnoughene, Anfel ROUABHIA, Rwaa Assi, Ahmed Sorkatti, Mohamedou cheikh tourad, Anis Koubaa, Ismail Berrada, Mustafa Jarrar, Shady Shehata, Muhammad Abdul-Mageed_
+
+## Best Theme Paper
+
+* **MaCP: Minimal yet Mighty Adaptation via Hierarchical Cosine Projection**  
+_Yixian Shen, Qi Bi, JIA-HONG HUANG, Hongyi Zhu, Andy D. Pimentel, Anuj Pathania_
+
+* **Meta-rater: A Multi-dimensional Data Selection Method for Pre-training Language Models**  
+_Xinlin Zhuang, Jiahui Peng, Ren Ma, Yinfan Wang, Tianyi Bai, Xingjian Wei, Qiu Jiantao, Chi Zhang, Ying Qian, Conghui He_
+
+* **SubLIME: Subset Selection via Rank Correlation Prediction for Data-Efficient LLM Evaluation**  
+_Gayathri Saranathan, Cong Xu, Mahammad Parwez Alam, Tarun Kumar, Martin Foltin, Soon Yee Wong, Suparna Bhattacharya_
+
+## Outstanding Papers
+
+* **A New Formulation of Zipf's Meaning-Frequency Law through Contextual Diversity**  
+_Ryo Nagata, Kumiko Tanaka-Ishii_
+
+* **All That Glitters is Not Novel: Plagiarism in AI Generated Research**  
+_Tarun Gupta, Danish Pruthi_
+
+* **Between Circuits and Chomsky: Pre-pretraining on Formal Languages Imparts Linguistic Biases**  
+_Michael Y. Hu, Jackson Petty, Chuan Shi, William Merrill, Tal Linzen_
+
+* **Beyond N-Grams: Rethinking Evaluation Metrics and Strategies for Multilingual Abstractive Summarization**  
+_Itai Mondshine, Tzuf Paz-Argaman, Reut Tsarfaty_
+
+* **Bridging the Language Gaps in Large Language Models with Inference-Time Cross-Lingual Intervention**  
+_Weixuan Wang, Minghao Wu, Barry Haddow, Alexandra Birch_
+
+* **Byte Latent Transformer: Patches Scale Better Than Tokens**  
+_Artidoro Pagnoni, Ramakanth Pasunuru, Pedro Rodriguez, John Nguyen, Benjamin Muller, Margaret Li, Chunting Zhou, LILI YU, Jason E Weston, Luke Zettlemoyer, Gargi Ghosh, Mike Lewis, Ari Holtzman, Srini Iyer_
+
+* **Capability Salience Vector: Fine-grained Alignment of Loss and Capabilities for Downstream Task Scaling Law**  
+_Qiming Ge, Shuhao Xing, Songyang Gao, Yunhua Zhou, Yicheng Zou, Songyang Zhang, Zhi Chen, Hang Yan, Qi Zhang, Qipeng Guo, Kai Chen_
+
+* **From Real to Synthetic: Synthesizing Millions of Diversified and Complicated User Instructions with Attributed Grounding**  
+_Chiwei Zhu, Benfeng Xu, Xiaorui Wang, Zhendong Mao_
+
+* **HALOGEN: Fantastic LLM Hallucinations and Where to Find Them**  
+_Abhilasha Ravichander, Shrusti Ghela, David Wadden, Yejin Choi_
+
+* **HateDay: Insights from a Global Hate Speech Dataset Representative of a Day on Twitter**  
+_Manuel Tonneau, Diyi Liu, Niyati Malhotra, Scott A. Hale, Samuel Fraiberger, Victor Orozco-Olvera, Paul Röttger_
+
+* **IOT: Embedding Standardization Method Towards Zero Modality Gap**  
+_Na Min An, Eunki Kim, James Thorne, Hyunjung Shim_
+
+* **IndicSynth: A Large-Scale Multilingual Synthetic Speech Dataset for Low-Resource Indian Languages**  
+_Divya V Sharma, Vijval Ekbote, Anubha Gupta_
+
+* **LaTIM: Measuring Latent Token-to-Token Interactions in Mamba Models**  
+_Hugo Pitorro, Marcos Vinicius Treviso_
+
+* **Llama See, Llama Do: A Mechanistic Perspective on Contextual Entrainment and Distraction in LLMs**  
+_Jingcheng Niu, Xingdi Yuan, Tong Wang, Hamidreza Saghir, Amir H. Abdi_
+
+* **LLMs know their vulnerabilities: Uncover Safety Gaps through Natural Distribution Shifts**  
+_Qibing Ren, Hao Li, Dongrui Liu, Zhanxu Xie, Xiaoya Lu, Yu Qiao, Lei Sha, Junchi Yan, Lizhuang Ma, Jing Shao_
+
+* **Mapping 1,000+ Language Models via the Log-Likelihood Vector**  
+_Momose Oyama, Hiroaki Yamagiwa, Yusuke Takase, Hidetoshi Shimodaira_
+
+* **MiniLongBench: The Low-cost Long Context Understanding Benchmark for Large Language Models**  
+_Zhongzhan Huang, Guoming Ling, Shanshan Zhong, Hefeng Wu, Liang Lin_
+
+* **PARME: Parallel Corpora for Low-Resourced Middle Eastern Languages**  
+_Sina Ahmadi, Rico Sennrich, Erfan Karami, Ako Marani, Parviz Fekrazad, Gholamreza Akbarzadeh Baghban, Hanah Hadi, Semko Heidari, Mahîr Dogan, Pedram Asadi, Dashne Bashir, Mohammad Amin Ghodrati, Kourosh Amini, Zeynab Ashourinezhad, Mana Baladi, Farshid Ezzati, Alireza Ghasemifar, Daryoush Hosseinpour, Behrooz Abbaszadeh, Amin Hassanpour, Bahaddin jalal hamaamin, Saya Kamal Hama, Ardeshir Mousavi, Sarko Nazir Hussein, Isar Nejadgholi, Mehmet Ölmez, Horam Osmanpour, Rashid Roshan Ramezani, Aryan Sediq Aziz, Ali Salehi, Mohammadreza Yadegari, Kewyar Yadegari, Sedighe Zamani Roodsari_
+
+* **Past Meets Present: Creating Historical Analogy with Large Language Models**  
+_Nianqi Li, Siyu Yuan, Jiangjie Chen, Jiaqing Liang, Feng Wei, Zujie Liang, Deqing Yang, Yanghua Xiao_
+
+* **Pre³: Enabling Deterministic Pushdown Automata for Faster Structured LLM Generation**  
+_Junyi Chen, Shihao Bai, Zaijun Wang, Siyu Wu, Chuheng Du, Hailong Yang, Ruihao Gong, Shengzhong Liu, Fan Wu, Guihai Chen_
+
+* **Rethinking the Role of Prompting Strategies in LLM Test-Time Scaling: A Perspective of Probability Theory**  
+_Yexiang Liu, Zekun Li, Zhi Fang, Nan Xu, Ran He, Tieniu Tan_
+
+* **Revisiting Compositional Generalization Capability of Large Language Models Considering Instruction Following Ability**  
+_Yusuke Sakai, Hidetaka Kamigaito, Taro Watanabe_
+
+* **Toward Automatic Discovery of a Canine Phonetic Alphabet**  
+_Theron S. Wang, Xingyuan Li, Hridayesh Lekhak, Tuan Minh Dang, Mengyue Wu, Kenny Q. Zhu_
+
+* **Towards the Law of Capacity Gap in Distilling Language Models**  
+_Chen Zhang, Qiuchi Li, Dawei Song, Zheyu Ye, Yan Gao, Yao Hu_
+
+* **Turning Trash into Treasure: Accelerating Inference of Large Language Models with Token Recycling**  
+_Xianzhen Luo, Yixuan Wang, Qingfu Zhu, Zhiming Zhang, Xuanyu Zhang, Qing Yang, Dongliang Xu_
+
+* **Typology-Guided Adaptation for African NLP**  
+_Ndapa Nakashole_
+
+## TACL Best Paper
+
+* **The Test of Time Award (TACL in 2013 or 2014)**  
+_Weakly Supervised Learning of Semantic Parsers for Mapping Instructions to Actions_  
+_Yoav Artzi, Luke Zettlemoyer_
+
+* **The Best Paper Award (TACL in 2024)**  
+_Reading Subtext: Evaluating Large Language Models on Short Story Summarization with Writers_  
+_Melanie Subbiah, Sean Zhang, Lydia B. Chilton, Kathleen McKeown_
+
+## Best Demo
+
+* **OLMoTrace: Tracing Language Model Outputs Back to Trillions of Training Tokens**  
+_Jiacheng Liu, Taylor Blanton, Yanai Elazar, Sewon Min, Yen-Sung Chen, Arnavi Chheda-Kothary, Huy Tran, Byron Bischoff, Eric Marsh, Michael Schmitz, Cassidy Trier, Aaron Sarnat, Jenna James, Jon Borchardt, Bailey Kuehl, Evie Yu-Yen Cheng, Karen Farley, Taira Anderson, David Albright, Carissa Schoenick, Luca Soldaini, Dirk Groeneveld, Rock Yuren Pang, Pang Wei Koh, Noah A. Smith, Sophie Lebrecht, Yejin Choi, Hannaneh Hajishirzi, Ali Farhadi, Jesse Dodge_
+
 ## SAC Highlights
 
 * **A Text is Worth Several Tokens: Text Embedding from LLMs Secretly Aligns Well with The Key Tokens**  
@@ -124,7 +263,7 @@ _Yue Yang, Ajay Patel, Matt Deitke, Tanmay Gupta, Luca Weihs, Andrew Head, Mark 
 * **Silencing Empowerment, Allowing Bigotry: Auditing the Moderation of Hate Speech on Twitch**  
 _Prarabdh Shukla, Wei Yin Chong, Yash Patel, Brennan Schaffner, Danish Pruthi, Arjun Bhagoji_
 
-* **SkillVerse : Assessing and Enhancing LLMs with Tree Evaluation**  
+* **SkillVerse: Assessing and Enhancing LLMs with Tree Evaluation**  
 _Yufei Tian, Jiao Sun, Nanyun Peng, Zizhao Zhang_
 
 * **SPECTRA: Faster Large Language Model Inference with Optimized Internal and External Speculation**  
